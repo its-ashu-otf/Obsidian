@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "48f0f68391844dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "651b8e4789584254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d28b1c2588a747e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e7837d09eacc6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f9b298f6f4e1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41076b86153f6c3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c37f193698da5b7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "609592c6a6a7f7f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a74256c0c572c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "277ad31b77a1e5ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf185b59fad2c696",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b882b6b8951fbe61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74bcbfff26104248",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72655fb38877103e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6d28b1c2588a747e",
+  "lastOpenFiles": [
+    "eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3dpcmVsZXNzLW5ldHdvcmstNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==.webp",
+    "README.md",
+    "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+    "Basics Of CyberSecurity/Networking"
+  ]
+}
