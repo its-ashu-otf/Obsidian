@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d9377d00c0a743f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics Of CyberSecurity/Networking/2. Networking Devices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+                "file": "Basics Of CyberSecurity/Networking/2. Networking Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+                "file": "Basics Of CyberSecurity/Networking/2. Networking Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md"
+                "file": "Basics Of CyberSecurity/Networking/2. Networking Devices.md"
               }
             }
           }
@@ -146,18 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d28b1c2588a747e",
+  "active": "4d9377d00c0a743f",
   "lastOpenFiles": [
-    "Pasted image 20240620015505.png",
-    "Pasted image 20240620015404.jpg",
-    "Pasted image 20240620015107.jpg",
-    "Pasted image 20240620014735.jpg",
-    "Pasted image 20240620014356.png",
-    "Pasted image 20240620013916.png",
-    "Pasted image 20240620013330.png",
-    "eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3dpcmVsZXNzLW5ldHdvcmstNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==.webp",
-    "README.md",
+    "Pasted image 20240620225323.jpg",
+    "Pasted image 20240620224048.png",
+    "vlans-2sw-3vlan.gif",
+    "Pasted image 20240620223350.png",
+    "Pasted image 20240620223000.png",
+    "ms225-stacked-600x400px.avif",
+    "Pasted image 20240620221843.png",
+    "Pasted image 20240620220843.png",
+    "Pasted image 20240620220831.jpg",
+    "Pasted image 20240620220819.png",
+    "png-clipart-gigabit-ethernet-network-switch-fast-ethernet-ethernet-hub-others-miscellaneous-computer-network.png",
     "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+    "Basics Of CyberSecurity/Networking/2. Networking Devices.md",
+    "Web Pentesting Notes/File Inclusion Vulnerability/4. How to Test.md",
+    "Web Pentesting Notes/File Inclusion Vulnerability/3. Impact Of Attack.md",
+    "Web Pentesting Notes/File Inclusion Vulnerability/2. Types Of Attacks.md",
+    "Web Pentesting Notes/File Inclusion Vulnerability/1. Introduction To File Inclusion Vulnerability.md",
+    "README.md",
     "Basics Of CyberSecurity/Networking"
   ]
 }
