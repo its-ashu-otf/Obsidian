@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Cryptography & Steganography/2. Cryptography Algorithm.md",
+                "file": "Basics Of CyberSecurity/Networking/11. Subnetting.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md",
+                "file": "Basics Of CyberSecurity/Networking/11. Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md",
+                "file": "Basics Of CyberSecurity/Networking/11. Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md"
+                "file": "Basics Of CyberSecurity/Networking/11. Subnetting.md"
               }
             }
           }
@@ -160,16 +159,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9c535696f893b01e",
+  "active": "1ffd8a316fe0c5dd",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Networking/10. Addressing.md",
+    "Basics Of CyberSecurity/Networking/11. Subnetting.md",
+    "Basics Of CyberSecurity/Networking/9. Transmission Modes in Networking.md",
+    "Basics Of CyberSecurity/Networking/8. Some Common Networking Terminologies.md",
+    "Basics Of CyberSecurity/Cryptography & Steganography/2. Cryptography Algorithm.md",
+    "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/6. Attacks On Cryptosystems.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/5. Cryptanalysis.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/4. Block Cipher & Stream Cipher.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/7. Steganography.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/3. Encryption & Its Algorithms.md",
-    "Basics Of CyberSecurity/Cryptography & Steganography/2. Cryptography Algorithm.md",
-    "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md",
-    "Basics Of CyberSecurity/Networking/10. Addressing.md",
     "Basics Of CyberSecurity/Cryptography & Steganography",
     "Pasted image 20240623203942.jpg",
     "Pasted image 20240623203934.jpg",
@@ -181,9 +183,7 @@
     "Pasted image 20240623185657.png",
     "Pasted image 20240623185652.png",
     "Pasted image 20240623185246.png",
-    "Basics Of CyberSecurity/Networking/8. Some Common Networking Terminologies.md",
     "Basics Of CyberSecurity/Networking/5. TCP-IP Model VS OSI Model.md",
-    "Basics Of CyberSecurity/Networking/9. Transmission Modes in Networking.md",
     "Basics Of CyberSecurity/Networking/2. Networking Devices.md",
     "Basics Of CyberSecurity/Networking/7. UDP Protocol.md",
     "Basics Of CyberSecurity/Networking/4. TCP-IP Model.md",
