@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d07fafadab1dc322",
+        "id": "6e7e0b82b7fadb38",
         "type": "tabs",
         "children": [
           {
-            "id": "9e598edfe5245e9b",
+            "id": "cc300c2c9834a1dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/12. Subnetting…..but in reverse.md",
+                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/12. Subnetting…..but in reverse.md",
+                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/12. Subnetting…..but in reverse.md",
+                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/12. Subnetting…..but in reverse.md"
+                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md"
               }
             }
+          },
+          {
+            "id": "7bdf83d0a1f2c16c",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,13 +152,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "9e598edfe5245e9b",
+  "active": "cc300c2c9834a1dd",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Networking/13. Basic Network Troubleshooting.md",
+    "Basics Of CyberSecurity/Python/2. Modules, Comments & PIP.md",
+    "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
+    "Basics Of CyberSecurity/Python/1. Introduction to Python.md",
+    "BMO/Profiles/BMO.md",
+    "BMO/Profiles",
+    "BMO",
+    "Basics Of CyberSecurity/Python",
     "Basics Of CyberSecurity/Networking/12. Subnetting…..but in reverse.md",
+    "Basics Of CyberSecurity/Networking/13. Basic Network Troubleshooting.md",
     "Basics Of CyberSecurity/Networking/14. Routing.md",
     "Basics Of CyberSecurity/Networking/11. Subnetting.md",
     "Pasted image 20240709004438.png",
@@ -164,7 +180,6 @@
     "Basics Of CyberSecurity/Networking/7. UDP Protocol.md",
     "Basics Of CyberSecurity/Networking/4. TCP-IP Model.md",
     "Basics Of CyberSecurity/Networking/2. Networking Devices.md",
-    "Basics Of CyberSecurity/Python.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md",
     "Basics Of CyberSecurity/Networking/Network Security & Troubleshooting Mind Map.md",
     "Basics Of CyberSecurity/Networking/9. Transmission Modes in Networking.md",
@@ -183,9 +198,6 @@
     "Basics Of CyberSecurity/DoS & DDoS/9. DDoS Attacks on DNS.md",
     "Basics Of CyberSecurity/DoS & DDoS/10. DDoS mitigation.md",
     "Basics Of CyberSecurity/DoS & DDoS/8. DDoS Attacks on Different OSI layers.md",
-    "Basics Of CyberSecurity/DoS & DDoS/7. DDoS Attacks Based on Protocols.md",
-    "Basics Of CyberSecurity/DoS & DDoS/6. Smurf Attack.md",
-    "Basics Of CyberSecurity/DoS & DDoS/5. Ping Of Death.md",
     "Basics Of CyberSecurity/DoS & DDoS",
     "Basics Of CyberSecurity/Cryptography & Steganography",
     "Basics Of CyberSecurity/Networking"

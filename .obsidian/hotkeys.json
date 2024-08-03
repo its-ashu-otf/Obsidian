@@ -7,5 +7,21 @@
       ],
       "key": "Q"
     }
+  ],
+  "bmo-chatbot:open-bmo-chatbot": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "bmo-chatbot:prompt-select-generate": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
   ]
 }
