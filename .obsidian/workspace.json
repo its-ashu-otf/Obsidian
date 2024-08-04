@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
+                "file": "Basics Of CyberSecurity/Python/3. Variables, Keywords & Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
+                "file": "Basics Of CyberSecurity/Python/3. Variables, Keywords & Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
+                "file": "Basics Of CyberSecurity/Python/3. Variables, Keywords & Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/3. Variables & Data Types.md"
+                "file": "Basics Of CyberSecurity/Python/3. Variables, Keywords & Data Types.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "cc300c2c9834a1dd",
+  "active": "7bdf83d0a1f2c16c",
   "lastOpenFiles": [
     "Basics Of CyberSecurity/Python/2. Modules, Comments & PIP.md",
-    "Basics Of CyberSecurity/Python/3. Variables & Data Types.md",
+    "Basics Of CyberSecurity/Python/3. Variables, Keywords & Data Types.md",
     "Basics Of CyberSecurity/Python/1. Introduction to Python.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
