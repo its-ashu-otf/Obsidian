@@ -5,7 +5,7 @@ temperature: 1
 enable_reference_current_note: false
 prompt: ""
 user_name: Ashu
-enable_header: true
+enable_header: false
 chatbot_container_background_color: --background-secondary
 message_container_background_color: --background-secondary
 user_message_font_color: --text-normal

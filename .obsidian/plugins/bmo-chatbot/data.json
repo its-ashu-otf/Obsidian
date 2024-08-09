@@ -25,7 +25,7 @@
     "botMessageBackgroundColor": "--background-secondary",
     "chatBoxFontColor": "--text-normal",
     "chatBoxBackgroundColor": "--interactive-accent",
-    "enableHeader": true,
+    "enableHeader": false,
     "enableScrollBar": true,
     "bmoGenerateBackgroundColor": "#0c0a12",
     "bmoGenerateFontColor": "--text-normal"
@@ -107,14 +107,14 @@
   "togglePromptSettings": false,
   "toggleEditorSettings": false,
   "toggleChatHistorySettings": false,
-  "toggleProfileSettings": false,
-  "toggleAPIConnectionSettings": true,
+  "toggleProfileSettings": true,
+  "toggleAPIConnectionSettings": false,
   "toggleOpenAISettings": false,
   "toggleMistralSettings": false,
   "toggleGoogleGeminiSettings": false,
   "toggleAnthropicSettings": false,
-  "toggleRESTAPIURLSettings": true,
+  "toggleRESTAPIURLSettings": false,
   "toggleOpenRouterSettings": false,
-  "toggleOllamaSettings": true,
+  "toggleOllamaSettings": false,
   "toggleAdvancedSettings": false
 }
