@@ -12,7 +12,7 @@
     "system_role": "You are a helpful assistant.",
     "max_tokens": "",
     "temperature": "1.00",
-    "enableReferenceCurrentNote": false
+    "enableReferenceCurrentNote": true
   },
   "appearance": {
     "userName": "Ashu",
@@ -24,8 +24,8 @@
     "botMessageFontColor": "--text-normal",
     "botMessageBackgroundColor": "--background-secondary",
     "chatBoxFontColor": "--text-normal",
-    "chatBoxBackgroundColor": "--interactive-accent",
-    "enableHeader": false,
+    "chatBoxBackgroundColor": "#8541ec",
+    "enableHeader": true,
     "enableScrollBar": true,
     "bmoGenerateBackgroundColor": "#0c0a12",
     "bmoGenerateFontColor": "--text-normal"
@@ -40,7 +40,7 @@
   "chatHistory": {
     "chatHistoryPath": "BMO/History",
     "templateFilePath": "",
-    "allowRenameNoteTitle": false
+    "allowRenameNoteTitle": true
   },
   "OllamaConnection": {
     "RESTAPIURL": "http://localhost:11434",
@@ -103,8 +103,8 @@
   "toggleGeneralSettings": true,
   "toggleAppearanceSettings": true,
   "togglePromptSettings": false,
-  "toggleEditorSettings": false,
-  "toggleChatHistorySettings": false,
+  "toggleEditorSettings": true,
+  "toggleChatHistorySettings": true,
   "toggleProfileSettings": true,
   "toggleAPIConnectionSettings": false,
   "toggleOpenAISettings": false,
