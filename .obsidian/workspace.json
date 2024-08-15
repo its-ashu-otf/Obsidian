@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md",
+                "file": "Basics Of CyberSecurity/Python/4. Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md",
+                "file": "Basics Of CyberSecurity/Python/4. Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md",
+                "file": "Basics Of CyberSecurity/Python/4. Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md"
+                "file": "Basics Of CyberSecurity/Python/4. Operators.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "cc300c2c9834a1dd",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md",
     "Basics Of CyberSecurity/Python/4. Operators.md",
     "Basics Of CyberSecurity/Python/2. Modules, Comments & PIP.md",
     "Basics Of CyberSecurity/Python/1. Introduction to Python.md",
@@ -187,7 +188,6 @@
     "Basics Of CyberSecurity/SQL Injection.md",
     "Basics Of CyberSecurity/Introduction to Linux.md",
     "Basics Of CyberSecurity/BASH Scripting/2. Variables.md",
-    "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md",
     "NetworkSecurityFoundations-230317-074204.pdf",
     "Pasted image 20240705024539.jpg",
     "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
