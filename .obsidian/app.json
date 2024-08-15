@@ -1,1 +1,10 @@
-{}
+{
+  "showRibbon": true,
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "BMO/Profiles/",
+    "BMO/Profiles/",
+    "BMO/"
+  ]
+}

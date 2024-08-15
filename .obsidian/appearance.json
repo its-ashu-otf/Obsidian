@@ -1,4 +1,5 @@
 {
   "accentColor": "#8541ec",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "showViewHeader": true
 }
