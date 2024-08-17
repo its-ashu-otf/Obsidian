@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "role": "user",
+        "content": "tell me about keyword from",
+        "images": [
+            "C:\\Users\\Ashu\\Documents\\GitHub\\Obsidian\\Basics Of CyberSecurity\\Python\\attachments\\Pasted image 20240817182328.png"
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "SYSTEM: Response aborted.",
+        "images": []
+    },
+    {
+        "role": "assistant",
+        "content": "<div class=\"errorBotMessage\"><p>Error: HTTP error! Status: 400</p></div>",
+        "images": []
+    },
+    {
+        "role": "user",
+        "content": "tell me about keyword from\n",
+        "images": [
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<div class=\"errorBotMessage\"><p>Oops, something went wrong. Please try again.</p></div>",
+        "images": []
+    }
+]
