@@ -13,7 +13,7 @@ user_message_background_color: --background-primary
 bot_message_font_color: --text-normal
 chatbot_message_background_color: --background-secondary
 chatbox_font_color: --text-normal
-chatbox_background_color: 8541ec
+chatbox_background_color: --interactive-accent
 bmo_generate_background_color: 0c0a12
 bmo_generate_font_color: --text-normal
 systen_role: You are a helpful assistant.

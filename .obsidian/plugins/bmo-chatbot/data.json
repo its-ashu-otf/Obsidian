@@ -10,25 +10,25 @@
   "general": {
     "model": "llama3.1:latest",
     "system_role": "You are a helpful assistant.",
-    "max_tokens": "",
+    "max_tokens": null,
     "temperature": "1.00",
     "enableReferenceCurrentNote": true
   },
   "appearance": {
     "userName": "Ashu",
     "chatbotName": "BMO",
-    "chatbotContainerBackgroundColor": "--background-secondary",
-    "messageContainerBackgroundColor": "--background-secondary",
-    "userMessageFontColor": "--text-normal",
-    "userMessageBackgroundColor": "--background-primary",
-    "botMessageFontColor": "--text-normal",
-    "botMessageBackgroundColor": "--background-secondary",
-    "chatBoxFontColor": "--text-normal",
-    "chatBoxBackgroundColor": "#8541ec",
+    "chatbotContainerBackgroundColor": "#--background-secondary",
+    "messageContainerBackgroundColor": "#--background-secondary",
+    "userMessageFontColor": "#--text-normal",
+    "userMessageBackgroundColor": "#--background-primary",
+    "botMessageFontColor": "#--text-normal",
+    "botMessageBackgroundColor": "#--background-secondary",
+    "chatBoxFontColor": "#--text-normal",
+    "chatBoxBackgroundColor": "#--interactive-accent",
     "enableHeader": true,
     "enableScrollBar": true,
     "bmoGenerateBackgroundColor": "#0c0a12",
-    "bmoGenerateFontColor": "--text-normal"
+    "bmoGenerateFontColor": "#--text-normal"
   },
   "prompts": {
     "prompt": "",
@@ -50,11 +50,11 @@
       "mirostat_eta": "0.10",
       "mirostat_tau": "5.00",
       "num_ctx": "2048",
-      "num_gqa": "",
-      "num_thread": "",
+      "num_gqa": null,
+      "num_thread": null,
       "repeat_last_n": "64",
       "repeat_penalty": "1.10",
-      "seed": "",
+      "seed": null,
       "stop": [],
       "tfs_z": "1.00",
       "top_k": "40",
@@ -63,8 +63,10 @@
       "keep_alive": ""
     },
     "ollamaModels": [
-      "codegemma:latest",
-      "llama3.1:latest"
+      "nomic-embed-text:latest",
+      "llama3.1:latest",
+      "codellama:7b-code",
+      "codegemma:latest"
     ]
   },
   "RESTAPIURLConnection": {
@@ -102,17 +104,17 @@
   },
   "toggleGeneralSettings": true,
   "toggleAppearanceSettings": true,
-  "togglePromptSettings": false,
-  "toggleEditorSettings": true,
+  "togglePromptSettings": true,
+  "toggleEditorSettings": false,
   "toggleChatHistorySettings": true,
-  "toggleProfileSettings": true,
-  "toggleAPIConnectionSettings": false,
+  "toggleProfileSettings": false,
+  "toggleAPIConnectionSettings": true,
   "toggleOpenAISettings": false,
   "toggleMistralSettings": false,
   "toggleGoogleGeminiSettings": false,
   "toggleAnthropicSettings": false,
-  "toggleRESTAPIURLSettings": false,
+  "toggleRESTAPIURLSettings": true,
   "toggleOpenRouterSettings": false,
-  "toggleOllamaSettings": false,
+  "toggleOllamaSettings": true,
   "toggleAdvancedSettings": false
 }
