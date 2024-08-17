@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/5. Getting input from user.md",
+                "file": "Basics Of CyberSecurity/Python/6. Python Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/5. Getting input from user.md",
+                "file": "Basics Of CyberSecurity/Python/6. Python Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/5. Getting input from user.md",
+                "file": "Basics Of CyberSecurity/Python/6. Python Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/5. Getting input from user.md"
+                "file": "Basics Of CyberSecurity/Python/6. Python Modules.md"
               }
             }
           },
@@ -156,18 +156,18 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "14a9ac443c2c22f7",
+  "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
     "Basics Of CyberSecurity/Python/5. Getting input from user.md",
+    "Basics Of CyberSecurity/Python/6. Python Modules.md",
+    "Basics Of CyberSecurity/Python/4. Operators.md",
+    "Basics Of CyberSecurity/Python/3. Variables, Keywords & Data Types.md",
     "Basics Of CyberSecurity/Python/7. More on Output Statements.md",
     "Basics Of CyberSecurity/Python/1. Introduction to Python.md",
-    "Basics Of CyberSecurity/Python/6. Python Modules.md",
     "Chats/New Chat.md",
     "Chats",
     "Basics Of CyberSecurity/Python/attachments/Pasted image 20240817182328.png",
     "Basics Of CyberSecurity/Python/attachments",
-    "Basics Of CyberSecurity/Python/4. Operators.md",
-    "Basics Of CyberSecurity/Python/3. Variables, Keywords & Data Types.md",
     "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md",
     "Basics Of CyberSecurity/Python/2. Modules, Comments & PIP.md",
     "BMO/Profiles/BMO.md",
