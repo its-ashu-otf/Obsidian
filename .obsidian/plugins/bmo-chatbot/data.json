@@ -65,10 +65,6 @@
     "ollamaModels": [
       "nomic-embed-text:latest",
       "starcoder2:3b",
-      "codellama:7b-code-q4_K_S",
-      "codellama:7b-code",
-      "starcoder2:7b",
-      "llama3.1:latest",
       "llama3.1:8b"
     ]
   },
@@ -105,7 +101,7 @@
       "openRouterModels": []
     }
   },
-  "toggleGeneralSettings": true,
+  "toggleGeneralSettings": false,
   "toggleAppearanceSettings": true,
   "togglePromptSettings": false,
   "toggleEditorSettings": false,
