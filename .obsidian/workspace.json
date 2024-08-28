@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
+                "file": "Basics Of CyberSecurity/DNS/3.DNS Hierarchy (The Mafia Bosses of the Internet).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,12 +109,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "74bcbfff26104248",
+  "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/DNS/2.Lets Talk about how DNS WORKS!!!!!.md",
+    "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
+    "Basics Of CyberSecurity/DNS/3.DNS Hierarchy (The Mafia Bosses of the Internet).md",
     "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828214334.png",
     "Basics Of CyberSecurity/DNS/attachments",
     "Basics Of CyberSecurity/Python/8. Flow Control Statements.md",
-    "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
     "Basics Of CyberSecurity/DNS",
     "Basics Of CyberSecurity/Python/6. Python Modules.md",
     "Chats/New Chat.md",
@@ -150,11 +152,9 @@
     "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md",
     "Basics Of CyberSecurity/Networking/Network Security & Troubleshooting Mind Map.md",
     "Basics Of CyberSecurity/Networking/9. Transmission Modes in Networking.md",
-    "Basics Of CyberSecurity/SQL Injection.md",
     "NetworkSecurityFoundations-230317-074204.pdf",
     "Pasted image 20240705024539.jpg",
     "Pasted image 20240705024142.jpg",
-    "Pasted image 20240705023752.jpg",
     "Basics Of CyberSecurity/DoS & DDoS",
     "Basics Of CyberSecurity/Cryptography & Steganography"
   ]
