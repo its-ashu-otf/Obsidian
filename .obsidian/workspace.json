@@ -80,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf185b59fad2c696",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b882b6b8951fbe61",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "74bcbfff26104248",
             "type": "leaf",
             "state": {
@@ -118,31 +89,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "72655fb38877103e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md"
-              }
-            }
-          },
-          {
-            "id": "14a9ac443c2c22f7",
-            "type": "leaf",
-            "state": {
-              "type": "chatbot-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +109,7 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "14a9ac443c2c22f7",
+  "active": "74bcbfff26104248",
   "lastOpenFiles": [
     "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828214334.png",
     "Basics Of CyberSecurity/DNS/attachments",
