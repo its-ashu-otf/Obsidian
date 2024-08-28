@@ -3,9 +3,7 @@
     "profile": "BMO.md",
     "profileFolderPath": "BMO/Profiles",
     "lastLoadedChatHistoryPath": null,
-    "lastLoadedChatHistory": [
-      null
-    ]
+    "lastLoadedChatHistory": []
   },
   "general": {
     "model": "llama3.1:8b",
@@ -15,7 +13,7 @@
     "enableReferenceCurrentNote": true
   },
   "appearance": {
-    "userName": "Ashu",
+    "userName": "YOU",
     "chatbotName": "BMO",
     "chatbotContainerBackgroundColor": "--background-secondary",
     "messageContainerBackgroundColor": "--background-secondary",
@@ -40,7 +38,7 @@
   "chatHistory": {
     "chatHistoryPath": "BMO/History",
     "templateFilePath": "",
-    "allowRenameNoteTitle": true
+    "allowRenameNoteTitle": false
   },
   "OllamaConnection": {
     "RESTAPIURL": "http://localhost:11434",
@@ -63,6 +61,7 @@
       "keep_alive": ""
     },
     "ollamaModels": [
+      "llama3.1:latest",
       "nomic-embed-text:latest",
       "starcoder2:3b",
       "llama3.1:8b"
@@ -101,11 +100,11 @@
       "openRouterModels": []
     }
   },
-  "toggleGeneralSettings": false,
+  "toggleGeneralSettings": true,
   "toggleAppearanceSettings": true,
   "togglePromptSettings": false,
   "toggleEditorSettings": false,
-  "toggleChatHistorySettings": true,
+  "toggleChatHistorySettings": false,
   "toggleProfileSettings": false,
   "toggleAPIConnectionSettings": true,
   "toggleOpenAISettings": false,

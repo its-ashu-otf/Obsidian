@@ -4,7 +4,7 @@ max_tokens: .nan
 temperature: 1
 enable_reference_current_note: true
 prompt: ""
-user_name: Ashu
+user_name: YOU
 enable_header: true
 chatbot_container_background_color: --background-secondary
 message_container_background_color: --background-secondary

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/8. Flow Control Statements.md",
+                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/8. Flow Control Statements.md",
+                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/8. Flow Control Statements.md",
+                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/Python/8. Flow Control Statements.md"
+                "file": "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md"
               }
             }
           },
@@ -156,10 +156,14 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "85d1e080ebe77cab",
+  "active": "14a9ac443c2c22f7",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Python/6. Python Modules.md",
+    "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828214334.png",
+    "Basics Of CyberSecurity/DNS/attachments",
     "Basics Of CyberSecurity/Python/8. Flow Control Statements.md",
+    "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
+    "Basics Of CyberSecurity/DNS",
+    "Basics Of CyberSecurity/Python/6. Python Modules.md",
     "Chats/New Chat.md",
     "Basics Of CyberSecurity/Python/5. Getting input from user.md",
     "Basics Of CyberSecurity/Python/4. Operators.md",
@@ -194,14 +198,11 @@
     "Basics Of CyberSecurity/Networking/Network Security & Troubleshooting Mind Map.md",
     "Basics Of CyberSecurity/Networking/9. Transmission Modes in Networking.md",
     "Basics Of CyberSecurity/SQL Injection.md",
-    "Basics Of CyberSecurity/Introduction to Linux.md",
-    "Basics Of CyberSecurity/BASH Scripting/2. Variables.md",
     "NetworkSecurityFoundations-230317-074204.pdf",
     "Pasted image 20240705024539.jpg",
     "Pasted image 20240705024142.jpg",
     "Pasted image 20240705023752.jpg",
     "Basics Of CyberSecurity/DoS & DDoS",
-    "Basics Of CyberSecurity/Cryptography & Steganography",
-    "Basics Of CyberSecurity/Networking"
+    "Basics Of CyberSecurity/Cryptography & Steganography"
   ]
 }
