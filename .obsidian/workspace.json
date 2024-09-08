@@ -130,10 +130,10 @@
             }
           },
           {
-            "id": "f890ca60e9895cf4",
+            "id": "837f0ddae77205fc",
             "type": "leaf",
             "state": {
-              "type": "chatbot-view",
+              "type": "copilot-chat-view",
               "state": {}
             }
           }
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "bmo-chatbot:BMO Chatbot": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "f890ca60e9895cf4",
+  "active": "837f0ddae77205fc",
   "lastOpenFiles": [
     "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
     "Basics Of CyberSecurity/DNS/2. Let's Talk about how DNS WORKS!!!!!.md",
