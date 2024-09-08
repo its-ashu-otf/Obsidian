@@ -3,7 +3,9 @@
     "profile": "BMO.md",
     "profileFolderPath": "BMO/Profiles",
     "lastLoadedChatHistoryPath": null,
-    "lastLoadedChatHistory": []
+    "lastLoadedChatHistory": [
+      null
+    ]
   },
   "general": {
     "model": "llama3.1:8b",
@@ -13,7 +15,7 @@
     "enableReferenceCurrentNote": true
   },
   "appearance": {
-    "userName": "YOU",
+    "userName": "Ashu",
     "chatbotName": "BMO",
     "chatbotContainerBackgroundColor": "--background-secondary",
     "messageContainerBackgroundColor": "--background-secondary",

@@ -128,13 +128,21 @@
                 "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md"
               }
             }
+          },
+          {
+            "id": "f890ca60e9895cf4",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85d1e080ebe77cab",
+  "active": "f890ca60e9895cf4",
   "lastOpenFiles": [
     "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
     "Basics Of CyberSecurity/DNS/2. Let's Talk about how DNS WORKS!!!!!.md",
