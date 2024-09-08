@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
+                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
+                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
+                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/5. DNS Attacks.md"
+                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md"
               }
             }
           }
@@ -144,14 +144,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "bmo-chatbot:BMO Chatbot": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
     "Basics Of CyberSecurity/DNS/2. Let's Talk about how DNS WORKS!!!!!.md",
     "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828232857.png",
-    "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
     "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
     "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828231351.png",
     "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828231226.png",
