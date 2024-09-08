@@ -1,10 +1,10 @@
 ---
-model: ""
+model: llama3.1:latest
 max_tokens: .nan
 temperature: 1
 enable_reference_current_note: false
 prompt: ""
-user_name: YOU
+user_name: Ashu
 enable_header: true
 chatbot_container_background_color: --background-secondary
 message_container_background_color: --background-secondary
