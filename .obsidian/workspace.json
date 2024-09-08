@@ -89,6 +89,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "82cbbe31a2acfaa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccf7b441ce65f1c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a31d4b98857ceb84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basics Of CyberSecurity/DNS/5. DNS Attacks.md"
+              }
+            }
           }
         ]
       }
@@ -105,8 +144,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "bmo-chatbot:BMO Chatbot": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "85d1e080ebe77cab",
