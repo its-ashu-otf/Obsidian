@@ -2,7 +2,7 @@
 model: llama3.1:latest
 max_tokens: .nan
 temperature: 1
-enable_reference_current_note: false
+enable_reference_current_note: true
 prompt: ""
 user_name: Ashu
 enable_header: true

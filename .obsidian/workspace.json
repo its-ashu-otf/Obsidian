@@ -96,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md"
+              }
             }
           },
           {
@@ -157,9 +161,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "bmo-chatbot:BMO Chatbot": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false
+      "bmo-chatbot:BMO Chatbot": false
     }
   },
   "active": "7e5556dabd7b3ec0",
