@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
+                "file": "Certified Ethical Hacker (CEHv12)/Introduction to CEH v12.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
+                "file": "Certified Ethical Hacker (CEHv12)/Introduction to CEH v12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
+                "file": "Certified Ethical Hacker (CEHv12)/Introduction to CEH v12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md"
+                "file": "Certified Ethical Hacker (CEHv12)/Introduction to CEH v12.md"
               }
             }
           },
@@ -165,9 +165,11 @@
       "bmo-chatbot:BMO Chatbot": false
     }
   },
-  "active": "7e5556dabd7b3ec0",
+  "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
     "Basics Of CyberSecurity/DNS/3. DNS Hierarchy (The Mafia Bosses of the Internet).md",
+    "Certified Ethical Hacker (CEHv12)/Introduction to CEH v12.md",
+    "Certified Ethical Hacker (CEHv12)",
     "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
     "Basics Of CyberSecurity/DNS/2. Let's Talk about how DNS WORKS!!!!!.md",
     "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828232857.png",
@@ -210,7 +212,6 @@
     "Basics Of CyberSecurity/Networking/2. Networking Devices.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/1. Introduction to Cryptography.md",
     "NetworkSecurityFoundations-230317-074204.pdf",
-    "Basics Of CyberSecurity/DoS & DDoS",
-    "Basics Of CyberSecurity/Cryptography & Steganography"
+    "Basics Of CyberSecurity/DoS & DDoS"
   ]
 }
