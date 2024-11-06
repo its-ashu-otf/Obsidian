@@ -100,7 +100,7 @@
       "openRouterModels": []
     }
   },
-  "toggleGeneralSettings": true,
+  "toggleGeneralSettings": false,
   "toggleAppearanceSettings": true,
   "togglePromptSettings": true,
   "toggleEditorSettings": true,
