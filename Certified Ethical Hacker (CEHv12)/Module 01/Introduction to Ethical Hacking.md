@@ -26,7 +26,7 @@ This definition encompasses various aspects of protecting digital assets, includ
 The primary goal of Information Security is to ensure the confidentiality, integrity, and availability of information, as well as protecting it from cyber threats and risks.
 
 ## Motives, Goals, and Objectives  Of Information Security Attacks
-## **Attacks = Motive(Goal) + Method + Vulnerability**
+## <centre> <span style="color:rgb(255, 0, 0)"><b>Attacks</b></span> <span style="color:rgb(0, 0, 0)">= <b>Motive(Goal) + Method + Vulnerability</b></span> </centre>
 
 ### Attack Formula
 An **attack** is defined as a combination of:
