@@ -8,7 +8,7 @@
     ]
   },
   "general": {
-    "model": "llama3.1:latest",
+    "model": "",
     "system_role": "You are a helpful assistant.",
     "max_tokens": "",
     "temperature": "1.00",
@@ -100,7 +100,7 @@
       "openRouterModels": []
     }
   },
-  "toggleGeneralSettings": false,
+  "toggleGeneralSettings": true,
   "toggleAppearanceSettings": true,
   "togglePromptSettings": true,
   "toggleEditorSettings": true,
