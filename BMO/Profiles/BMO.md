@@ -1,5 +1,5 @@
 ---
-model: ""
+model: llama3.1:8b
 max_tokens: .nan
 temperature: 1
 enable_reference_current_note: true
