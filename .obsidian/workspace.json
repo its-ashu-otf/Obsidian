@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0a74256c0c572c74",
@@ -202,6 +201,9 @@
   "lastOpenFiles": [
     "Certified Ethical Hacker (CEHv12)/Module 01/01. Explain Information Security Concepts.md",
     "Certified Ethical Hacker (CEHv12)/Module 01/02. Explain Hacking Methodologies and Frameworks.md",
+    "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241121214409.png",
+    "Certified Ethical Hacker (CEHv12)/Module 01/attachments/THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.jpg",
+    "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241121214256.png",
     "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241106165535.png",
     "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241106165512.png",
     "Certified Ethical Hacker (CEHv12)/Introduction to CEH v12.md",
@@ -210,7 +212,6 @@
     "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241106155638.png",
     "3kfO61Mensg 00-12-10 (12) REAL LIFE example!! (TCP_IP and OSI layers) __ FREE CCNA __ EP 4.png",
     "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241106151232.png",
-    "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241106151029.jpg",
     "Certified Ethical Hacker (CEHv12)/Module 01/attachments",
     "Certified Ethical Hacker (CEHv12)/Module 01",
     "Certified Ethical Hacker (CEHv12)/attachments/Module - 01 - Introduction to Ethical Hacking.pdf",
@@ -219,8 +220,6 @@
     "Certified Ethical Hacker (CEHv12)",
     "Basics Of CyberSecurity/DNS/5. DNS Attacks.md",
     "Basics Of CyberSecurity/DNS/2. Let's Talk about how DNS WORKS!!!!!.md",
-    "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828232857.png",
-    "Basics Of CyberSecurity/DNS/attachments/Pasted image 20240828231351.png",
     "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
     "Basics Of CyberSecurity/DNS/attachments",
     "Basics Of CyberSecurity/Python/8. Flow Control Statements.md",
