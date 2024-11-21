@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "02. Explain Hacking Methodologies and Frameworks"
             }
-          },
-          {
-            "id": "24d295cf08450ce9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,8 +161,8 @@
             "state": {
               "type": "chatbot-view",
               "state": {},
-              "icon": "bot",
-              "title": "BMO Chatbot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -209,7 +196,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "24d295cf08450ce9",
+  "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
     "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241106165535.png",
     "Certified Ethical Hacker (CEHv12)/Module 01/attachments/Pasted image 20241106165512.png",
