@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Explain Hacking Concepts and Different Hacker Classes"
+              "title": "03. Explain Ethical Hacking Concepts and Scope"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md"
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Explain Hacking Concepts and Different Hacker Classes"
+              "title": "Outline of 03. Explain Ethical Hacking Concepts and Scope"
             }
           },
           {
@@ -187,10 +187,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "41076b86153f6c3a",
+  "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
-    "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
+    "Certified Ethical Hacker (CEHv13)/Untitled.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Introduction to CEH v12.md",
     "Web Pentesting Notes/File Inclusion Vulnerability/2. Types Of Attacks.md",
     "ASUS Linux Project.md",
@@ -232,8 +234,6 @@
     "Basics Of CyberSecurity/Networking/12. Subnetting…..but in reverse.md",
     "Basics Of CyberSecurity/Networking/13. Basic Network Troubleshooting.md",
     "Basics Of CyberSecurity/Networking/14. Routing.md",
-    "Basics Of CyberSecurity/Networking/11. Subnetting.md",
-    "Basics Of CyberSecurity/Networking/10. Addressing.md",
-    "Basics Of CyberSecurity/Networking/8. Some Common Networking Terminologies.md"
+    "Basics Of CyberSecurity/Networking/11. Subnetting.md"
   ]
 }
