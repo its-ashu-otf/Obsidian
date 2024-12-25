@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Explain Information Security Concepts"
+              "title": "02. Explain Hacking Concepts and Different Hacker Classes"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md"
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Explain Information Security Concepts"
+              "title": "Outline of 02. Explain Hacking Concepts and Different Hacker Classes"
             }
           },
           {
@@ -187,19 +187,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "85d1e080ebe77cab",
+  "active": "41076b86153f6c3a",
   "lastOpenFiles": [
+    "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
+    "Certified Ethical Hacker (CEHv13)/Introduction to CEH v12.md",
     "Web Pentesting Notes/File Inclusion Vulnerability/2. Types Of Attacks.md",
     "ASUS Linux Project.md",
     "Untitled",
-    "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Methodologies and Frameworks.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241121214409.png",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.jpg",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241121214256.png",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241106165535.png",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241106165512.png",
-    "Certified Ethical Hacker (CEHv13)/Introduction to CEH v12.md",
     "1698579140043-ezgif.com-crop (1).gif",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241106155657.png",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241106155638.png",
