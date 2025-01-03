@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/04.Explain Hacking Methodologies and Frameworks.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Explain Hacking Methodologies and Frameworks"
+              "title": "01. Explain Information Security Concepts"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/04.Explain Hacking Methodologies and Frameworks.md"
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 04.Explain Hacking Methodologies and Frameworks"
+              "title": "Outline of 01. Explain Information Security Concepts"
             }
           },
           {
@@ -188,10 +188,10 @@
   },
   "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
+    "Certified Ethical Hacker (CEHv13)/Module 01/04.Explain Hacking Methodologies and Frameworks.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241225234927.png",
     "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01/04.Explain Hacking Methodologies and Frameworks.md",
     "Certified Ethical Hacker (CEHv13)/Untitled.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Introduction to CEH v12.md",
@@ -207,7 +207,6 @@
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241106155657.png",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241106155638.png",
     "3kfO61Mensg 00-12-10 (12) REAL LIFE example!! (TCP_IP and OSI layers) __ FREE CCNA __ EP 4.png",
-    "Certified Ethical Hacker (CEHv13)/Module 01/attachments/Pasted image 20241106151232.png",
     "Certified Ethical Hacker (CEHv13)/Module 01/attachments",
     "Certified Ethical Hacker (CEHv13)/Module 01",
     "Certified Ethical Hacker (CEHv13)/attachments/Module - 01 - Introduction to Ethical Hacking.pdf",
