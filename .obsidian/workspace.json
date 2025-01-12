@@ -11,10 +11,14 @@
             "id": "1665dd171b09f7e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01. Explain Information Security Concepts"
             }
           }
         ]
@@ -181,7 +185,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1665dd171b09f7e8",
+  "active": "41076b86153f6c3a",
   "lastOpenFiles": [
     "2025-01-12.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
