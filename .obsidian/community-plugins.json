@@ -1,9 +1,9 @@
 [
-  "obsidian-git",
   "highlightr-plugin",
   "obsidian-charts",
   "obsidian-icon-folder",
   "obsidian-mind-map",
   "colored-text",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-git"
 ]
