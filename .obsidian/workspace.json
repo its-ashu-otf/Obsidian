@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71053e8d6795b632",
+        "id": "ca4560d30b4e6bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "a05f662c18f1164c",
+            "id": "bb13f3ea0576693b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01. Explain Information Security Concepts"
+              "title": "New tab"
             }
           }
         ]
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01. Explain Information Security Concepts"
+              "title": "Backlinks"
             }
           },
           {
@@ -125,12 +120,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01. Explain Information Security Concepts"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 01. Explain Information Security Concepts"
+              "title": "Outline"
             }
           },
           {
@@ -169,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +177,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "74bcbfff26104248",
+  "active": "bb13f3ea0576693b",
   "lastOpenFiles": [
+    "Certified Ethical Hacker (CEHv13)/Module 01/04.Explain Hacking Methodologies and Frameworks.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
     "Web Pentesting Notes/DoS & DDoS/1. Introduction to DOS.md",
     "2025-01-12.md",
     "Untitled.md",
@@ -218,10 +215,6 @@
     "Basics Of CyberSecurity/Learning Linux/Introduction to Linux.md",
     "Basics Of CyberSecurity/Learning Linux",
     "Basics Of CyberSecurity/BASH Scripting/2. Variables.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01/04.Explain Hacking Methodologies and Frameworks.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
     "Certified Ethical Hacker (CEHv13)/Untitled.md",
     "Certified Ethical Hacker (CEHv13)/Introduction to CEH v12.md",
     "Web Pentesting Notes/File Inclusion Vulnerability/2. Types Of Attacks.md",
