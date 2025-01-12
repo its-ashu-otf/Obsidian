@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Explain Information Security Concepts"
+              "title": "02. Explain Hacking Concepts and Different Hacker Classes"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "41076b86153f6c3a",
+  "active": "1665dd171b09f7e8",
   "lastOpenFiles": [
-    "2025-01-12.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
+    "2025-01-12.md",
     "Certified Ethical Hacker.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
