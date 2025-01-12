@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 16/02. Explain Different Wireless Encryption Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Summarize Wireless Concepts"
+              "title": "02. Explain Different Wireless Encryption Algorithms"
             }
           }
         ]
@@ -188,15 +188,20 @@
   },
   "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
+    "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
+    "Certified Ethical Hacker (CEHv13)/Module 16/02. Explain Different Wireless Encryption Algorithms.md",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005656.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005628.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005600.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005542.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005537.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005531.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005145.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005128.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113003935.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113003920.png",
-    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113003900.png",
-    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113003823.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments",
     "Certified Ethical Hacker (CEHv13)/Module 01/04. Explain Hacking Methodologies and Frameworks.md",
-    "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
     "Web Pentesting Notes/SQL Injection/SQL Injection.md",
     "Web Pentesting Notes/SQL Injection",
     "Basics Of CyberSecurity/Learning Linux",
@@ -208,11 +213,6 @@
     "Basics Of CyberSecurity/Networking/4. TCP-IP Model.md",
     "Basics Of CyberSecurity/Networking/3. OSI Model - Layers of OSI Model.md",
     "Basics Of CyberSecurity/Networking/7. UDP Protocol.md",
-    "Internet_Assigned_Numbers_Authority_%28logo%29.webp",
-    "Pasted image 20240709004438.png",
-    "Basics Of CyberSecurity/Networking/attachments/ms225-stacked-600x400px.avif",
-    "Basics Of CyberSecurity/Networking/attachments/Internet_Assigned_Numbers_Authority_%28logo%29.webp",
-    "Basics Of CyberSecurity/Networking/attachments/Pasted image 20240623185246.png",
     "Basics Of CyberSecurity/Networking/6. TCP Protocol.md",
     "Basics Of CyberSecurity/Networking/attachments",
     "Basics Of CyberSecurity/Networking/5. TCP-IP Model VS OSI Model.md",
