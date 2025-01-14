@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/Introduction to Linux.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/Linux Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Linux"
+              "title": "Linux Distributions"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Linux Fundamentals/Linux Structure.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Introduction to Linux.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/Linux Distributions.md",
     "Basics Of CyberSecurity/Linux Fundamentals/attachments/Pasted image 20250114142221.png",
     "Basics Of CyberSecurity/Linux Fundamentals/attachments",
     "Certified Ethical Hacker (CEHv13)/Module 16/03. Explain Different Wireless Threats.md",
