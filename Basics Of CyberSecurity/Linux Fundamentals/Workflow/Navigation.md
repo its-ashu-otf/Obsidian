@@ -32,3 +32,48 @@ drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Templates
 drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Videos
 ```
 
+First, we see the total amount of blocks (1024-byte) used by the files and directories listed in the current directory, which indicates the total size used. That means it used 32 blocks * 1024 bytes/block = 32,768 bytes (or 32 KB) of disk space. Next, we see a few columns that are structured as follows:
+
+| **Column Content** | **Description**                                                                  |
+| ------------------ | -------------------------------------------------------------------------------- |
+| `drwxr-xr-x`       | Type and permissions                                                             |
+| `2`                | Number of hard links to the file/directory                                       |
+| `ashu`             | Owner of the file/directory                                                      |
+| `htbacademy`       | Group owner of the file/directory                                                |
+| `4096`             | Size of the file or the number of blocks used to store the directory information |
+| `Nov 13 17:37`     | Date and time                                                                    |
+| `Desktop`          | Directory name                                                                   |
+However, we will not see everything that is in this folder. A directory can also have hidden files that start with a dot at the beginning of its name (e.g., `.bashrc` or `.bash_history`). Therefore, we need to use the command `ls -la` to `list all` files of a directory:
+
+```powershell
+ashu@htb[~]$ ls -la
+
+total 403188
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:37 .bash_history
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:37 .bashrc
+...SNIP...
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:37 Desktop
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Documents
+drwxr-xr-x 3 ashu htbacademy 4096 Nov 15 03:26 Downloads
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Music
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Pictures
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Public
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Templates
+drwxr-xr-x 2 ashu htbacademy 4096 Nov 13 17:34 Videos
+```
+
+To list the contents of a directory, we do not necessarily need to navigate there first. We can also use “`ls`” to specify the path where we want to know the contents.
+
+```powershell
+ashu@htb[~]$ ls -l /var/
+
+total 52
+drwxr-xr-x  2 root root     4096 Mai 15 18:54 backups
+drwxr-xr-x 18 root root     4096 Nov 15 16:55 cache
+drwxrwsrwt  2 root whoopsie 4096 Jul 25  2018 crash
+drwxr-xr-x 66 root root     4096 Mai 15 03:08 lib
+drwxrwsr-x  2 root staff    4096 Nov 24  2018 local
+<SNIP>
+```
+
+We can do the same thing to navigate to the directory. To move through the directories, we use the command `cd`. Let us change to the `/dev/shm` directory. Of course, we can go to the `/dev` directory first and then `/shm`. Nevertheless, we can also enter the full path and jump there.
