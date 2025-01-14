@@ -236,44 +236,32 @@ There are primarily two types of shells:
 ### Example Workflow in a Shell
 
 1. **Check the Current Directory:**
-    
-    bash
-    
-    Copy code
-    
-    `pwd`
-    
-    Output: `/home/user`
-    
+  ```bash
+pwd
+Output: `/home/user`
+```
 2. **List Files in the Directory:**
-    
-    bash
-    
-    Copy code
-    
-    `ls`
-    
-    Output: `file1.txt file2.txt`
-    
+```bash
+ls`
+Output: `file1.txt file2.txt`
+```
 3. **Create a New Directory:**
     
     bash
     
     Copy code
     
-    `mkdir myfolder`
+    ```bash
+mkdir myfolder`
     
 4. **Navigate into the Directory:**
-    
-    bash
-    
-    Copy code
-    
-    ```bash
-```cd myfolder```
-    
+
+```bash
+cd myfolder
+```
+
 5. **Create a New File:**
-    
+
     ```bash
 ```touch myfile.txt
 ```
