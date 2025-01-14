@@ -77,3 +77,57 @@ drwxrwsr-x  2 root staff    4096 Nov 24  2018 local
 ```
 
 We can do the same thing to navigate to the directory. To move through the directories, we use the command `cd`. Let us change to the `/dev/shm` directory. Of course, we can go to the `/dev` directory first and then `/shm`. Nevertheless, we can also enter the full path and jump there.
+
+```powershell
+ashu@htb[~]$ cd /dev/shm
+
+ashu@htb[/dev/shm]$
+```
+
+Since we were in the home directory before, we can quickly jump back to the directory we were last in.
+
+```shell-session
+ashu@htb[/dev/shm]$ cd -
+
+ashu@htb[~]$
+```
+
+The shell also offers us the auto-complete function, which makes navigation easier. If we now type `cd /dev/s` and press `[TAB] twice`, we will get all entries starting with the letter “`s`” in the directory of `/dev/`.
+
+```powershell
+ashu@htb[~]$ cd /dev/s [TAB 2x]
+
+shm/ snd/
+```
+
+If we add the letter “`h`” to the letter “`s`,” the shell will complete the input since otherwise there will be no folders in this directory beginning with the letters “`sh`”. If we now display all contents of the directory, we will only see the following contents.
+
+  Navigation
+
+```powershell
+ashu@htb[/dev/shm]$ ls -la /dev/shm
+
+total 0
+drwxrwxrwt  2 root root   40 Mai 15 18:31 .
+drwxr-xr-x 17 root root 4000 Mai 14 20:45 ..
+```
+
+The first entry with a single dot (`.`) indicates the current directory we are currently in. The second entry with two dots (`..`) represents the parent directory `/dev`. This means we can jump to the parent directory with the following command.
+
+  Navigation
+
+```powershell
+ashu@htb[/dev/shm]$ cd ..
+
+cry0l1t3@htb[/dev]$
+```
+
+Since our shell is filled with some records, we can clean the shell with the command `clear`. First, however, let us return to the directory `/dev/shm` before and then execute the `clear` command to clean up our terminal.
+
+  Navigation
+
+```shell-session
+cry0l1t3@htb[/dev]$ cd shm && clear
+```
+
+Another way to clean up our terminal is to use the shortcut `[Ctrl] + [L]`. We can also use the arrow keys (`↑` or `↓`) to scroll through the command history, which will show us the commands that we have used before. But we also can search through the command history using the shortcut `[Ctrl] + [R]` and type some of the text that we are looking for.
