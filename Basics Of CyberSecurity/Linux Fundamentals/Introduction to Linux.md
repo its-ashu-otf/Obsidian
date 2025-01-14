@@ -28,4 +28,63 @@ Linux’s open-source nature allows anyone to modify and distribute it for vario
 | `Utilities`       | These are programs designed for specific tasks, helping users or other programs perform essential functions.                                                       |
 
 ## Linux Architecture
+The Linux operating system can be broken down into layers:
 
+| **Layer**        | **Description**                                                                                                                                                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Hardware`       | Refers to the physical components of the system, such as RAM, hard drives, CPU, and other peripherals.                                                                                                                              |
+| `Kernel`         | The core of the operating system, responsible for virtualizing and managing hardware resources like CPU, memory, and data access. It provides each process with isolated resources and ensures processes operate without conflicts. |
+| `Shell`          | A command-line interface (CLI) that allows users to interact with the operating system by executing commands that communicate with the kernel.                                                                                      |
+| `System Utility` | Provides users with access to all the functionality of the operating system through various tools and programs.                                                                                                                     |
+## File System Hierarchy
+
+The Linux operating system is structured in a tree-like hierarchy and is documented in the [Filesystem Hierarchy](http://www.pathname.com/fhs/) Standard (FHS). Linux is structured with the following standard top-level directories:
+
+![[Pasted image 20250114142221.png]]
+
+### Key Linux Directories and Their Descriptions
+
+1. **/** (Root Directory)  
+    The top-level directory of the Linux filesystem, containing files needed to boot the OS and mount other filesystems.
+    
+2. **/bin**  
+    Houses essential command binaries necessary for the system to operate.
+    
+3. **/boot**  
+    Contains static bootloader files, the kernel executable, and other files required for booting.
+    
+4. **/dev**  
+    Stores device files that provide access to hardware devices connected to the system.
+    
+5. **/etc**  
+    Local system configuration files and configuration files for installed applications.
+    
+6. **/home**  
+    Contains a subdirectory for each user, serving as their personal storage space.
+    
+7. **/lib**  
+    Shared library files needed for system boot and essential functions.
+    
+8. **/media**  
+    Mount point for external removable media devices, such as USB drives.
+    
+9. **/mnt**  
+    Temporary mount point for regular filesystems.
+    
+10. **/opt**  
+    Used for optional files, such as third-party tools or software.
+    
+11. **/root**  
+    The home directory for the root (superuser) account.
+    
+12. **/sbin**  
+    Contains executables used for system administration and maintenance.
+    
+13. **/tmp**  
+    Temporary storage for files created by the operating system and applications. Typically cleared at boot or as needed.
+    
+14. **/usr**  
+    Contains user programs, libraries, manuals, and other resources.
+    
+15. **/var**  
+    Holds variable data files, such as logs, emails, cron jobs, and files related to web applications.
