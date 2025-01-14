@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/The Shell/2. Getting Help.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/The Shell/3. System Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Getting Help"
+              "title": "3. System Information"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "85d1e080ebe77cab",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Linux Fundamentals/The Shell/1. Prompt Description.md",
     "Basics Of CyberSecurity/Linux Fundamentals/The Shell/2. Getting Help.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/The Shell/3. System Information.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/The Shell/1. Prompt Description.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Introduction/03. Introduction to Shell.md",
     "Basics Of CyberSecurity/Linux Fundamentals/The Shell",
     "Basics Of CyberSecurity/Linux Fundamentals/Introduction",
@@ -232,7 +233,6 @@
     "Basics Of CyberSecurity/Cryptography & Steganography/2. Cryptography Algorithm.md",
     "Basics Of CyberSecurity/BASH Scripting/7. Functions.md",
     "Web Pentesting Notes/File Inclusion Vulnerability/5. Preventive Measures.md",
-    "Web Pentesting Notes/File Inclusion Vulnerability/4. How to Test.md",
     "Certified Ethical Hacker (CEHv13)/Module 16"
   ]
 }
