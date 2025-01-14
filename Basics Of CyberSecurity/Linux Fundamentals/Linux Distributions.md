@@ -16,7 +16,7 @@ Many users choose Linux for their desktop computers because it is free, open sou
 The main differences between the various Linux distributions are the included packages, the user interface, and the tools available. Kali Linux is the most popular distribution for cyber security specialists, including a wide range of security-focused tools and packages. Ubuntu is widespread for desktop users, while Debian is popular for servers and embedded systems. Finally, red Hat Enterprise Linux and CentOS are popular for enterprise-level computing.
 
 ## Debian
-
+![[Pasted image 20250114144503.png]]
 
 ### Overview of Debian
 
@@ -29,7 +29,7 @@ Debian is a free and open-source operating system based on the Linux kernel, dev
 1. **Stability and Reliability**
     
     - Debian prioritizes system stability and security, making it ideal for servers and critical systems.
-    - Each Debian release undergoes rigorous testing before being labeled as "Stable."
+    - Each Debian release undergoes rigorous testing before being labelled as "Stable."
 2. **Package Management**
     
     - Debian uses the **Advanced Package Tool (APT)** and **dpkg** for package management, allowing users to install, update, and remove software efficiently.
