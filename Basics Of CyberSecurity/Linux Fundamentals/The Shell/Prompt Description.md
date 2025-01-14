@@ -35,53 +35,130 @@ john@ubuntu:/home/john$
 - **$**: Indicates that it's a regular user. If logged in as root, this would appear as `#`.
 
 ---
+### Root Prompt
 
-### Customizing the Bash Prompt
-
-Bash allows you to customize the prompt to display additional information or change its appearance. The default prompt is controlled by the `PS1` variable in the shell. For example, you can modify it to show the time, the last command's exit status, or even color it for better visibility.
-
-#### Example Customization
-
-To change the prompt to include the current time, you can modify the `PS1` variable like this:
+When you switch to the root user, the prompt changes from `$` to `#` to indicate that you have elevated privileges. For example:
 
 ```bash
-PS1='[\t] \u@\h:\w\$ '
-```
-
-This would show the time in hours, minutes, and seconds, followed by the user, hostname, and current directory:
-
-```bash
-[14:30:45] john@ubuntu:/home/john$
+root@ubuntu:/root#
 ```
 
 ---
 
-### Special Characters Used in the Bash Prompt
+### Unprivileged vs Privileged Shell Prompts
 
-Bash supports a variety of escape sequences in the prompt, such as:
+If the **`PS1`** variable isn’t properly set or customized, a default shell prompt will appear, indicating an unprivileged or root shell:
 
-- **`\u`**: Displays the current username.
-- **`\h`**: Displays the hostname up to the first period.
-- **`\w`**: Displays the full path to the current directory.
-- **`\$`**: Displays a dollar sign (`$`) for a regular user and a hash (`#`) for the root user.
-- **`\t`**: Displays the current time in 24-hour format.
-- **`\n`**: Displays a newline (used to split prompts into multiple lines).
-- **`\e[...m`**: Adds colors to the prompt.
+- **Unprivileged User Shell Prompt:**
+    
+    ```bash
+    $
+    ```
+    
+    This is the default prompt for a regular user.
+    
+- **Privileged Root Shell Prompt:**
+    
+    ```bash
+    #
+    ```
+    
+    This prompt indicates that you're operating with root privileges.
+    
 
 ---
 
-### Example of a More Informative Custom Bash Prompt
+### Customizing the Prompt with Special Characters
 
-If you want your prompt to show the time, username, hostname, and current directory, with different colors for each part, you could customize it like this:
+You can use special characters and variables to customize the prompt. Some common ones include:
+
+- **`\u`**: Represents the current username.
+- **`\h`**: Represents the hostname (up to the first period).
+- **`\w`**: Represents the full path to the current working directory.
+- **`\t`**: Represents the current time (in 24-hour format).
+- **`\d`**: Represents the current date in the format "Weekday Month Date".
+- **`\!`**: Represents the history number of the command.
+- **`\#`**: Represents the command number (not common but useful in some cases).
+
+---
+
+### Example of Customizing the Prompt
+
+To make the prompt more informative and useful, you can edit the `PS1` variable in your `.bashrc` file. Below is an example of a more advanced prompt configuration:
 
 ```bash
-PS1='\[\e[32m\]\u\[\e[0m\]@\[\e[34m\]\h\[\e[0m\]:\[\e[35m\]\w\[\e[0m\] \$ '
+PS1='[\u@\h \t \w]\$ '
 ```
 
-This would display the username in green, the hostname in blue, and the current directory in purple.
+This will display the following details:
+
+- **`\u`**: Username
+- **`\h`**: Hostname
+- **`\t`**: Current time
+- **`\w`**: Full path of the current working directory
+
+Example output:
+
+```bash
+john@ubuntu 14:30:45 /home/john$
+```
+
+---
+
+### Including the IP Address in the Prompt
+
+If you're working on a remote server and want the IP address to show up in your prompt, you can include a command that fetches the IP. Here's an example:
+
+```bash
+PS1='[\u@\h \w \$(hostname -I)]\$ '
+```
+
+This will append the IP address of the machine to the prompt. For example:
+
+```bash
+john@ubuntu /home/john 192.168.1.100$
+```
+
+---
+
+### Displaying the Exit Status of the Last Command
+
+If you want the prompt to change color or display the exit status of the last command, you can use the following:
+
+```bash
+PS1='[\u@\h \w]$(if [ $? -eq 0 ]; then echo "\[\033[32m\]$"; else echo "\[\033[31m\]#"; fi) '
+```
+
+This example uses **exit status** (`$?`) to change the prompt color:
+
+- **Green (`\033[32m`)** for successful commands (exit status 0).
+- **Red (`\033[31m`)** for failed commands (non-zero exit status).
+
+---
+
+### Example for Penetration Testing (including date, time, and IP address)
+
+For penetration testing, where it's useful to track the time and commands used, you could create a prompt like this:
+
+```bash
+PS1='[\u@\h \t \w \$(hostname -I)]\$ '
+```
+
+This will display:
+
+- **Username** and **hostname**
+- **Time** (in hours, minutes, and seconds)
+- **Current working directory**
+- **IP address** of the machine
+
+Example output during a pen test might look like:
+
+```bash
+root@htb 14:30:45 /htb 192.168.1.50#
+```
 
 ---
 
 ### Conclusion
 
-The Bash prompt provides useful information about your system and the current session, making it easier to navigate and interact with the command line. Understanding and customizing the prompt allows you to streamline your workflow and make it easier to identify your current environment.
+Customizing the Bash prompt can enhance productivity and provide essential information at a glance, which is especially helpful in activities like penetration testing. You can display helpful data like time, date, IP address, exit status, or even the commands you've executed. The `PS1` variable in the `.bashrc` file is your tool for configuring the prompt, and with the right setup, it can be an invaluable part of your workflow.
