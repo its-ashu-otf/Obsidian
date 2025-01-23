@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "539cd551c7e70e68",
+        "id": "22d2333a3efeb382",
         "type": "tabs",
         "children": [
           {
-            "id": "85d1e080ebe77cab",
+            "id": "a4969db01ce40ed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/Introduction/03. Introduction to Shell.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/Workflow/4. Find Files and Directories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Introduction to Shell"
+              "title": "4. Find Files and Directories"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv12)/Module 01/02. Explain Hacking Methodologies and Frameworks.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02. Explain Hacking Methodologies and Frameworks"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv12)/Module 01/02. Explain Hacking Methodologies and Frameworks.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02. Explain Hacking Methodologies and Frameworks"
+              "title": "Outgoing links from Untitled 1"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics Of CyberSecurity/Networking/4. TCP-IP Model.md"
+                "file": "Untitled 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. TCP-IP Model"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -165,8 +165,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,53 +185,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85d1e080ebe77cab",
+  "active": "a4969db01ce40ed9",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Linux Fundamentals/Introduction/02. Linux Distributions.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Introduction/01. Introduction to Linux.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/4. Find Files and Directories.md",
+    "Basics Of CyberSecurity/Networking/11. Subnetting.md",
+    "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
+    "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
+    "Certified Ethical Hacker (CEHv13)/Module 16/03. Explain Different Wireless Threats.md",
+    "Certified Ethical Hacker (CEHv13)/Module 16/02. Explain Different Wireless Encryption Algorithms.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/04. Explain Hacking Methodologies and Frameworks.md",
+    "Untitled",
+    "Certified Ethical Hacker (CEHv13)/Module 01/04.Explain Hacking Methodologies and Frameworks.md",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113012738.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113012718.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113012657.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113012637.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113012605.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113010908.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113010618.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005656.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005628.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113005600.png",
+    "Certified Ethical Hacker (CEHv13)/Module 16/attachments",
+    "Certified Ethical Hacker (CEHv13)/Module 16",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/3. Editing Files.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/attachments/Pasted image 20250117234448.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/attachments/Pasted image 20250117233945.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/attachments/Pasted image 20250117233914.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/attachments/Pasted image 20250117233854.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/attachments",
-    "Basics Of CyberSecurity/Linux Fundamentals/Introduction/03. Introduction to Shell.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/2. Working with Files and Directories.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/1. Navigation.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/The Shell/3. System Information.md",
     "Basics Of CyberSecurity/Linux Fundamentals/The Shell/2. Getting Help.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/The Shell/3. System Information.md",
     "Basics Of CyberSecurity/Linux Fundamentals/The Shell/1. Prompt Description.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/Introduction/03. Introduction to Shell.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/Introduction/02. Linux Distributions.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/Introduction/01. Introduction to Linux.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow",
     "Basics Of CyberSecurity/Linux Fundamentals/The Shell",
     "Basics Of CyberSecurity/Linux Fundamentals/Introduction",
-    "Basics Of CyberSecurity/Linux Fundamentals/attachments/Pasted image 20250114150825.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/attachments/Pasted image 20250114150741.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/attachments/Pasted image 20250114150402.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/attachments/Pasted image 20250114144503.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/attachments/Pasted image 20250114144347.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/attachments/Pasted image 20250114142221.png",
     "Basics Of CyberSecurity/Linux Fundamentals/attachments",
-    "Certified Ethical Hacker (CEHv13)/Module 16/03. Explain Different Wireless Threats.md",
-    "Certified Ethical Hacker (CEHv13)/Module 16/02. Explain Different Wireless Encryption Algorithms.md",
-    "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
-    "Certified Ethical Hacker (CEHv13)/Module 16/attachments",
-    "Certified Ethical Hacker (CEHv13)/Module 01/04. Explain Hacking Methodologies and Frameworks.md",
+    "Basics Of CyberSecurity/Linux Fundamentals",
+    "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01/01. Explain Information Security Concepts.md",
+    "2025-01-12.md",
+    "Certified Ethical Hacker.md",
+    "Untitled 1.md",
+    "Web Pentesting Notes/DoS & DDoS/1. Introduction to DOS.md",
+    "Untitled.md",
+    "Basics Of CyberSecurity/BASH Scripting/1. Introduction to BASH Scripting.md",
     "Web Pentesting Notes/SQL Injection/SQL Injection.md",
     "Web Pentesting Notes/SQL Injection",
-    "Basics Of CyberSecurity/Linux Fundamentals",
-    "Basics Of CyberSecurity/Learning Linux.md",
-    "Basics Of CyberSecurity/Networking/Network Security & Troubleshooting Mind Map.md",
-    "Basics Of CyberSecurity/Networking/attachments/NetworkSecurityFoundations-230317-074204.pdf",
-    "NetworkSecurityFoundations-230317-074204.pdf",
-    "Basics Of CyberSecurity/Networking/4. TCP-IP Model.md",
-    "Basics Of CyberSecurity/Networking/3. OSI Model - Layers of OSI Model.md",
-    "Basics Of CyberSecurity/Networking/7. UDP Protocol.md",
-    "Basics Of CyberSecurity/Networking/6. TCP Protocol.md",
-    "Basics Of CyberSecurity/Networking/5. TCP-IP Model VS OSI Model.md",
-    "Web Pentesting Notes/DoS & DDoS/3. Botnet.md",
-    "Web Pentesting Notes/DoS & DDoS/2. What is DDoS.md",
-    "Web Pentesting Notes/DoS & DDoS/1. Introduction to DOS.md",
-    "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md"
+    "Web Pentesting Notes/DoS & DDoS"
   ]
 }
