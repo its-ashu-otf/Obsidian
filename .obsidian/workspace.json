@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 16/04. Explain Different Wireless Encryption Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Summarize Wireless Concepts"
+              "title": "04. Explain Different Wireless Encryption Algorithms"
             }
           }
         ]
@@ -185,11 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4969db01ce40ed9",
+  "active": "41076b86153f6c3a",
   "lastOpenFiles": [
+    "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
+    "Certified Ethical Hacker (CEHv13)/Module 16/04. Explain Different Wireless Encryption Algorithms.md",
     "Certified Ethical Hacker (CEHv13)/Module 16/03. Explain Different Wireless Threats.md",
     "Certified Ethical Hacker (CEHv13)/Module 16/02. Explain Different Wireless Encryption Algorithms.md",
-    "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/5. File Descriptors and Redirections.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/4. Find Files and Directories.md",
     "Basics Of CyberSecurity/Networking/11. Subnetting.md",
@@ -230,7 +231,6 @@
     "Certified Ethical Hacker.md",
     "Untitled 1.md",
     "Web Pentesting Notes/DoS & DDoS/1. Introduction to DOS.md",
-    "Untitled.md",
     "Web Pentesting Notes/SQL Injection",
     "Web Pentesting Notes/DoS & DDoS"
   ]
