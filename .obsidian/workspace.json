@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/Workflow/4. Find Files and Directories.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/Workflow/2. Working with Files and Directories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Find Files and Directories"
+              "title": "2. Working with Files and Directories"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "a4969db01ce40ed9",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/3. Editing Files.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/2. Working with Files and Directories.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/4. Find Files and Directories.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/5. File Descriptors and Redirections.md",
     "Certified Ethical Hacker (CEHv13)/Module 16/04. Demonstrate Wireless Hacking Methodology.md",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250129004150.png",
@@ -199,7 +202,6 @@
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250129003201.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/02. Explain Different Wireless Encryption Algorithms.md",
     "Certified Ethical Hacker (CEHv13)/Module 16/01. Summarize Wireless Concepts.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/4. Find Files and Directories.md",
     "Basics Of CyberSecurity/Networking/11. Subnetting.md",
     "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
     "Certified Ethical Hacker (CEHv13)/Module 01/04. Explain Hacking Methodologies and Frameworks.md",
@@ -211,8 +213,6 @@
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113012637.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments",
     "Certified Ethical Hacker (CEHv13)/Module 16",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/3. Editing Files.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/2. Working with Files and Directories.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/1. Navigation.md",
     "Basics Of CyberSecurity/Linux Fundamentals/The Shell/2. Getting Help.md",
     "Basics Of CyberSecurity/Linux Fundamentals/The Shell/3. System Information.md",
