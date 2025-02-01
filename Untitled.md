@@ -11,7 +11,7 @@ The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ```
 
-1. Bandit 1
+2. Bandit 1
 
 this file needs to be open via redirecting the file ouput using cat command
 
@@ -20,4 +20,21 @@ cat < -
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
 
-1. Bandit 
+3. Bandit 2
+
+```bash
+cat "spaces in this filename"
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+```
+
+1. Bandit 3
+
+```bash
+bandit3@bandit:~/inhere$ la
+...Hiding-From-You
+bandit3@bandit:~/inhere$ cat ...Hiding-From-You
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+bandit3@bandit:~/inhere$
+```
+
+1. Bandit 4
