@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "e6a4d56485ae937f",
+            "id": "e7397387c58c92ed",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -199,8 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6a4d56485ae937f",
+  "active": "e7397387c58c92ed",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
+    "Untitled.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/07. Regular Expressions.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/07. Permission Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/06. Filter Contents.md",
@@ -211,7 +215,6 @@
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/01. Navigation.md",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/03. System Information.md",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/02. Getting Help.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/Untitled.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management",
     "Certified Ethical Hacker (CEHv13)/Module 16/04. Demonstrate Wireless Hacking Methodology.md",
@@ -245,7 +248,6 @@
     "Basics Of CyberSecurity/Linux Fundamentals/1. Introduction",
     "Basics Of CyberSecurity/Linux Fundamentals/attachments",
     "Basics Of CyberSecurity/Linux Fundamentals",
-    "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
     "Web Pentesting Notes/SQL Injection"
   ]
 }
