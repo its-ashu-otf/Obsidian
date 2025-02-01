@@ -76,3 +76,10 @@ bandit7@bandit:~$ cat data.txt | grep millionth
 millionth       dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 bandit7@bandit:~$
 ```
+
+1. Bandit 8
+```bash
+bandit8@bandit:~$ sort data.txt | uniq -u
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+```
+
