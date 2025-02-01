@@ -59,3 +59,20 @@ HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
   
 ```
 
+1. Bandit 6
+
+```bash
+bandit6@bandit:~$ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+/var/lib/dpkg/info/bandit7.password
+bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+```
+
+1. Bandit 7
+
+```bash
+bandit7@bandit:~$ cat data.txt | grep millionth
+millionth       dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+bandit7@bandit:~$
+```
