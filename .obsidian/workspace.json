@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/Workflow/Untitled.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01. User Management"
+            }
+          },
+          {
+            "id": "e6a4d56485ae937f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,17 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4969db01ce40ed9",
+  "active": "e6a4d56485ae937f",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/7. Permission Management.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/07. Regular Expressions.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/07. Permission Management.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/06. Filter Contents.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/05. File Descriptors and Redirections.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/04. Find Files and Directories.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/02. Working with Files and Directories.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/01. Navigation.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/03. System Information.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/02. Getting Help.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Workflow/Untitled.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/System Management",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/7. Regular Expressions.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/6. Filter Contents.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/5. File Descriptors and Redirections.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/4. Find Files and Directories.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/3. Editing Files.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/2. Working with Files and Directories.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management",
     "Certified Ethical Hacker (CEHv13)/Module 16/04. Demonstrate Wireless Hacking Methodology.md",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250129004150.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250129003723.png",
@@ -218,20 +236,16 @@
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments/Pasted image 20250113012637.png",
     "Certified Ethical Hacker (CEHv13)/Module 16/attachments",
     "Certified Ethical Hacker (CEHv13)/Module 16",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/1. Navigation.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/2. Getting Help.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/3. System Information.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/1. Prompt Description.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/01. Prompt Description.md",
     "Basics Of CyberSecurity/Linux Fundamentals/1. Introduction/03. Introduction to Shell.md",
     "Basics Of CyberSecurity/Linux Fundamentals/1. Introduction/02. Linux Distributions.md",
     "Basics Of CyberSecurity/Linux Fundamentals/1. Introduction/01. Introduction to Linux.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow",
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell",
     "Basics Of CyberSecurity/Linux Fundamentals/1. Introduction",
     "Basics Of CyberSecurity/Linux Fundamentals/attachments",
     "Basics Of CyberSecurity/Linux Fundamentals",
     "Certified Ethical Hacker (CEHv13)/Module 01/03. Explain Ethical Hacking Concepts and Scope.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01/02. Explain Hacking Concepts and Different Hacker Classes.md",
     "Web Pentesting Notes/SQL Injection"
   ]
 }

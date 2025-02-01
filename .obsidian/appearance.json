@@ -1,5 +1,6 @@
 {
   "accentColor": "#8541ec",
   "cssTheme": "Catppuccin",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }
