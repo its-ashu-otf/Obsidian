@@ -83,3 +83,27 @@ bandit8@bandit:~$ sort data.txt | uniq -u
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 ```
 
+1. Bandit 9
+
+```bash
+bandit9@bandit:~$ strings data.txt | grep '=.*'
+}========== the
+p\l=
+;c<Q=.dEXU!
+3JprD========== passwordi
+qC(=
+~fDV3========== is
+7=oc
+zP=
+~de=
+3k=fQ
+~o=0
+69}=
+%"=Y
+=tZ~07
+D9========== FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+N=~[!N
+zA=?0j
+```
+
+1. Bandit 10
