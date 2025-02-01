@@ -13,3 +13,11 @@ The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 1. Bandit 1
 
+this file needs to be open via redirecting the file ouput using cat command
+
+```bash
+cat < -
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+```
+
+1. Bandit 
