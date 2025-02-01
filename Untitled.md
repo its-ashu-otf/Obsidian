@@ -107,3 +107,10 @@ zA=?0j
 ```
 
 1. Bandit 10
+```bash
+bandit10@bandit:~$ base64 -d data.txt
+The password is dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+bandit10@bandit:~$
+```
+
+1. Bandit 11
