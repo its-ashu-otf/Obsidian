@@ -38,3 +38,14 @@ bandit3@bandit:~/inhere$
 ```
 
 1. Bandit 4
+
+```bash
+bandit4@bandit:~/inhere$ cat < -file07
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+```
+
+1. Bandit 5
+
+```bash
+
+```
