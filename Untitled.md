@@ -56,5 +56,6 @@ bandit5@bandit:~/inhere/maybehere07$ la
 -file1  .file1  -file2  .file2  -file3  .file3  spaces file1  spaces file2  spaces file3
 bandit5@bandit:~/inhere/maybehere07$ cat .file2
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-          
+  
 ```
+
