@@ -114,3 +114,14 @@ bandit10@bandit:~$
 ```
 
 1. Bandit 11
+
+```bash
+ tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt
+The password is 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+```
+
+1. Bandit 12
+
+```bash
+
+```
