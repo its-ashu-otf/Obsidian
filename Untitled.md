@@ -47,5 +47,14 @@ bandit4@bandit:~/inhere$ cat < -file07
 1. Bandit 5
 
 ```bash
-
+bandit5@bandit:~/inhere$ find . -type f -size 1033c ! -executable -exec file '{}' \; | grep ASCII
+./maybehere07/.file2: ASCII text, with very long lines (1000)
+bandit5@bandit:~/inhere$ cd maybehere07
+bandit5@bandit:~/inhere/maybehere07$ ls
+-file1  -file2  -file3  spaces file1  spaces file2  spaces file3
+bandit5@bandit:~/inhere/maybehere07$ la
+-file1  .file1  -file2  .file2  -file3  .file3  spaces file1  spaces file2  spaces file3
+bandit5@bandit:~/inhere/maybehere07$ cat .file2
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+          
 ```
