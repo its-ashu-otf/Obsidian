@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
+                "file": "Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. HTTP Headers"
+              "title": "5. HTTP Methods and Codes"
             }
           }
         ]
@@ -188,9 +188,10 @@
   },
   "active": "7b96eb2e921e8590",
   "lastOpenFiles": [
+    "Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
+    "Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
     "Bug Bounty Hunter/1. Web Requests/3.  HTTP Requests and Responses.md",
     "Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205224149.png",
-    "Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
     "Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205222815.png",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
     "Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202112609.png",
