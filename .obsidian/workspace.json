@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/1. Explain Footprinting Concepts.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Explain Footprinting Concepts"
+              "title": "02. Demonstrate Footprinting through Search Engines"
             }
           }
         ]
@@ -188,8 +188,12 @@
   },
   "active": "7b96eb2e921e8590",
   "lastOpenFiles": [
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/01. Explain Footprinting Concepts.md",
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/Pasted image 20250205231206.png",
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/Pasted image 20250205231121.png",
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments",
     "Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
-    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/1. Explain Footprinting Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance",
     "Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
     "Bug Bounty Hunter/1. Web Requests/3.  HTTP Requests and Responses.md",
@@ -203,7 +207,6 @@
     "Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202111150.png",
     "Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202111044.png",
     "Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202110918.png",
-    "Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202110704.png",
     "Bug Bounty Hunter/1. Web Requests/attachments",
     "Bug Bounty Hunter/1. Web Requests/1. HyperText Transfer Protocol (HTTP).md",
     "Basics Of CyberSecurity/Networking/9. Transmission Modes in Networking.md",
@@ -211,7 +214,6 @@
     "Basics Of CyberSecurity/Networking/3. OSI Model - Layers of OSI Model.md",
     "Basics Of CyberSecurity/Networking/1. Introduction to Networking.md",
     "Bug Bounty Hunter/1. Web Requests",
-    "Bug Bounty Hunter/attachments/Pasted image 20250202103713.png",
     "Bug Bounty Hunter/attachments",
     "Untitled.md",
     "Bug Bounty Hunter",
@@ -229,10 +231,8 @@
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management",
     "Certified Ethical Hacker (CEHv13)/Module 16 Hacking Wireless Networks/04. Demonstrate Wireless Hacking Methodology.md",
     "Certified Ethical Hacker (CEHv13)/Module 16 Hacking Wireless Networks/03. Explain Different Wireless Threats.md",
-    "Certified Ethical Hacker (CEHv13)/Module 16/04. Explain Different Wireless Encryption Algorithms.md",
     "Certified Ethical Hacker (CEHv13)/Module 16 Hacking Wireless Networks/attachments",
     "Certified Ethical Hacker (CEHv13)/Module 16 Hacking Wireless Networks",
-    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow",
-    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell"
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow"
   ]
 }
