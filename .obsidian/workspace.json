@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/03. Demonstrate Footprinting through  Internet Research Services.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Demonstrate Footprinting through  Internet Research Services"
+              "title": "02. Demonstrate Footprinting through Search Engines"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "7b96eb2e921e8590",
   "lastOpenFiles": [
-    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/01. Explain Footprinting Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/03. Demonstrate Footprinting through  Internet Research Services.md",
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/Pasted image 20250206002422.png",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/Pasted image 20250206002345.png",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/Pasted image 20250206002226.png",
@@ -201,7 +202,6 @@
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/Pasted image 20250205235305.png",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/Pasted image 20250205235105.png",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/adv_op_ref.pdf",
-    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/01. Explain Footprinting Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments",
     "Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance",
