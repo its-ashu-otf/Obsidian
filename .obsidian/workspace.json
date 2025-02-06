@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks/01. Explain Network Scanning Concepts.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/04. Explain Hacking Methodologies and Frameworks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Explain Network Scanning Concepts"
+              "title": "04. Explain Hacking Methodologies and Frameworks"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "7b96eb2e921e8590",
   "lastOpenFiles": [
-    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/03. Demonstrate Footprinting through  Internet Research Services.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/05. Summarize the Techniques used in Information Security Controls.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/04. Explain Hacking Methodologies and Frameworks.md",
     "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks/01. Explain Network Scanning Concepts.md",
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/03. Demonstrate Footprinting through  Internet Research Services.md",
     "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
     "Untitled.md",
@@ -230,8 +232,6 @@
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/02. Working with Files and Directories.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/01. Navigation.md",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/03. System Information.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/02. Getting Help.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/Workflow/Untitled.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management",
     "Certified Ethical Hacker (CEHv13)/Module 16 Hacking Wireless Networks/attachments"
   ]
