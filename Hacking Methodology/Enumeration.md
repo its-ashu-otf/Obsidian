@@ -1,3 +1,8 @@
+### Silver Platter Machine
+
+[https://tryhackme.com/room/silverplatter](https://tryhackme.com/room/silverplatter)
+
+
 1. Pinging the target
 
 ```bash
@@ -14,7 +19,7 @@ rtt min/avg/max/mdev = 207.271/245.229/284.809/31.675 ms
 
 ```
 
-1. Scanning The Target
+2. Scanning The Target
 
 ```bash
 ashu ㉿kali  ~  sudo rustscan -a silverplatter.thm -- -A                                                                                                                                                                                              
@@ -80,3 +85,10 @@ Nmap scan report for silverplatter.thm (10.10.223.110)
 Host is up, received reset ttl 60 (0.18s latency).                                                                            
 Scanned at 2025-02-18 12:26:06 EST for 51s           
 ```
+
+
+
+### Rustscan Syntax
+
+```bash
+rustscan -a [Target IP] -- -A
