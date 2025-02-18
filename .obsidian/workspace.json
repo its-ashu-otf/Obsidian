@@ -11,10 +11,14 @@
             "id": "bcdc5a1b0fdc1e5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hacking Methodology/Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Enumeration"
             }
           }
         ]
@@ -184,6 +188,7 @@
   },
   "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
+    "Hacking Methodology/Enumeration.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md",
     "Hacking Methodology",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/04. Find Files and Directories.md",
