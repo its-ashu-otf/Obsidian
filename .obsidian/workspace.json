@@ -182,11 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41076b86153f6c3a",
+  "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md",
     "Hacking Methodology",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/04. Find Files and Directories.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/02. Working with Files and Directories.md",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/05. Summarize the Techniques used in Information Security Controls.md",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/06.Explain the Important of  Applicable Security Laws and Standards.md",
@@ -228,7 +228,6 @@
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/07. Permission Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/06. Filter Contents.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/05. File Descriptors and Redirections.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management",
-    "Certified Ethical Hacker (CEHv13)/Module 16 Hacking Wireless Networks/attachments"
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management"
   ]
 }
