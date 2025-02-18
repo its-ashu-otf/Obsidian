@@ -90,5 +90,19 @@ Scanned at 2025-02-18 12:26:06 EST for 51s
 
 ### Rustscan Syntax
 
+This too does what above nmap scan does 
 ```bash
 rustscan -a [Target IP] -- -A
+
+-a - Tells this is the target scan for open ports
+-- - this passes the output to nmap and tells nmap to run a full version detection scan which is followed by the -A switch just like we specified in the above nmap command
+```
+
+
+
+### Conclusion 
+
+We found 3 Open ports
+1. 22 SSH
+2. 80 HTTP Server
+3. 8080 Another Webserver Running
