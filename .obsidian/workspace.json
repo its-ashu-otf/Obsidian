@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Enumeration"
             }
-          },
-          {
-            "id": "73cabd8268493c31",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73cabd8268493c31",
+  "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
     "Hacking Methodology/Enumeration.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md",
