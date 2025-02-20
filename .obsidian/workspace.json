@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Methodology/Enumeration.md",
+                "file": "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks/01. Explain Network Scanning Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "01. Explain Network Scanning Concepts"
             }
           }
         ]
@@ -188,13 +188,14 @@
   },
   "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/03. Demonstrate Footprinting through  Internet Research Services.md",
+    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/06. Explain the Important of  Applicable Security Laws and Standards.md",
     "Hacking Methodology/Enumeration.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md",
     "Hacking Methodology",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/04. Find Files and Directories.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/02. Working with Files and Directories.md",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/05. Summarize the Techniques used in Information Security Controls.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/06.Explain the Important of  Applicable Security Laws and Standards.md",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/attachments/Pasted image 20250207012331.png",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/attachments/Pasted image 20250207011354.png",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/attachments/Pasted image 20250207010205.png",
@@ -207,7 +208,6 @@
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/attachments/Pasted image 20250207001339.png",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/attachments/Pasted image 20250207000429.png",
     "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks/01. Explain Network Scanning Concepts.md",
-    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/03. Demonstrate Footprinting through  Internet Research Services.md",
     "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
     "Untitled.md",
