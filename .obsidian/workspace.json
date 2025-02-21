@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Methodology/Enumeration.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "01. User Management"
             }
           }
         ]
@@ -182,11 +182,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
+    "Hacking Methodology/Enumeration.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/Untitled",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205224149.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205222815.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202112609.png",
@@ -197,7 +200,6 @@
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202110918.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202110704.png",
     "HackTheBox/Bug Bounty Hunter/attachments/Pasted image 20250202103713.png",
-    "HackTheBox/Bug Bounty Hunter/attachments/Pasted image 20250202103302.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
@@ -209,7 +211,6 @@
     "HackTheBox/Bug Bounty Hunter",
     "HackTheBox",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/06. Explain the Important of  Applicable Security Laws and Standards.md",
-    "Hacking Methodology/Enumeration.md",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md",
     "Hacking Methodology",
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/04. Find Files and Directories.md",
@@ -226,7 +227,6 @@
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments/adv_op_ref.pdf",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/attachments",
     "Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
-    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance",
     "Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
     "Bug Bounty Hunter/1. Web Requests/3.  HTTP Requests and Responses.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
