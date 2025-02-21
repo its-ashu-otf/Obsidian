@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/02. Package Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. User Management"
+              "title": "02. Package Management"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/02. Package Management.md",
     "Hacking Methodology/Enumeration.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Untitled",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205224149.png",
@@ -229,7 +231,6 @@
     "Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
     "Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
     "Bug Bounty Hunter/1. Web Requests/3.  HTTP Requests and Responses.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
     "Bug Bounty Hunter/1. Web Requests/2. Hypertext Transfer Protocol Secure (HTTPS).md",
     "Bug Bounty Hunter/1. Web Requests/1. HyperText Transfer Protocol (HTTP).md",
     "Basics Of CyberSecurity/Networking/9. Transmission Modes in Networking.md"
