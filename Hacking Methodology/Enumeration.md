@@ -523,3 +523,6 @@ Shell                   [Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 999
 
 ```
 
+
+
+![[Pasted image 20250222191200.png]]
