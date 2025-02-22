@@ -529,5 +529,7 @@ Shell                   [Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 999
 - Default Credentials Doesn't Work
 ![[Pasted image 20250222191352.png]]
 
-- There is a usernamed
+- There is a user named `scr1ptkiddy`.
+
 ![[Pasted image 20250222191200.png]]
+
