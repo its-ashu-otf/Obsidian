@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Methodology/Enumeration.md",
+                "file": "Hacking Methodology/Exploitation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "Exploitation"
             }
           }
         ]
@@ -188,13 +188,14 @@
   },
   "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
+    "Hacking Methodology/Enumeration.md",
+    "Hacking Methodology/Exploitation.md",
     "Hacking Methodology/attachments/Pasted image 20250222191352.png",
     "Hacking Methodology/attachments/Pasted image 20250222191200.png",
     "Hacking Methodology/attachments",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/03. Service and Process Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/02. Package Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
-    "Hacking Methodology/Enumeration.md",
     "Basics Of CyberSecurity/Linux Fundamentals/Untitled",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205224149.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205222815.png",
@@ -204,7 +205,6 @@
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202111150.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202111044.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202110918.png",
-    "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202110704.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
