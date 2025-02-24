@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/01. Shorcuts.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris/Solaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Shorcuts"
+              "title": "Solaris"
             }
           }
         ]
@@ -188,10 +188,12 @@
   },
   "active": "18913a3561f2fa8f",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/02. Cheat Sheet.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/01. Shorcuts.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/8. Tips & Tricks/01. Shorcuts.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris/Solaris.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris",
+    "Basics Of CyberSecurity/Linux Fundamentals/8. Tips & Tricks/02. Cheat Sheet.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/03. System Logs.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks",
+    "Basics Of CyberSecurity/Linux Fundamentals/8. Tips & Tricks",
     "Basics Of CyberSecurity/Linux Fundamentals/Shortcuts & CheatSheets.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/02. Firewall Setup.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/01. Linux Hardening.md",
@@ -231,8 +233,6 @@
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/3.  HTTP Requests and Responses.md",
-    "HackTheBox/Bug Bounty Hunter/1. Web Requests/2. Hypertext Transfer Protocol Secure (HTTPS).md",
-    "HackTheBox/Bug Bounty Hunter/attachments",
-    "HackTheBox/Bug Bounty Hunter/1. Web Requests"
+    "HackTheBox/Bug Bounty Hunter/attachments"
   ]
 }
