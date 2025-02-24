@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67dec4c3417b8475",
+        "id": "8d1d990ae643c69c",
         "type": "tabs",
         "children": [
           {
-            "id": "2c493d823a13dc42",
+            "id": "18913a3561f2fa8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/03. System Logs.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/01. Shorcuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. System Logs"
+              "title": "01. Shorcuts"
             }
           }
         ]
@@ -186,11 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c493d823a13dc42",
+  "active": "18913a3561f2fa8f",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/03. System Logs.md",
     "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/02. CheatSheet.md",
     "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/01. Shorcuts.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/03. System Logs.md",
     "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks",
     "Basics Of CyberSecurity/Linux Fundamentals/Shortcuts & CheatSheets.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/02. Firewall Setup.md",
