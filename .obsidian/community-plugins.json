@@ -5,5 +5,7 @@
   "obsidian-mind-map",
   "colored-text",
   "mermaid-tools",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-format-code",
+  "code-styler"
 ]
