@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/07. Working with Web Services.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/08. Backup and Restore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. Working with Web Services"
+              "title": "08. Backup and Restore"
             }
           }
         ]
@@ -188,12 +188,13 @@
   },
   "active": "bcdc5a1b0fdc1e5d",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/07. Working with Web Services.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/08. Backup and Restore.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/attachments/Pasted image 20250224161443.png",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/attachments/Pasted image 20250224161041.png",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/attachments",
     "Hacking Methodology/3. Privilege Escalation.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/07. Working with Web Services.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/06. Network Services.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/05. Task Scheduling.md",
     "Hacking Methodology/2. Exploitation.md",
@@ -210,7 +211,6 @@
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205224149.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250205222815.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202112609.png",
-    "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments/Pasted image 20250202112543.png",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/attachments",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/4. HTTP Headers.md",
