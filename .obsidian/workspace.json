@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/02. Firewall Setup.md",
+                "file": "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/01. Shorcuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Firewall Setup"
+              "title": "01. Shorcuts"
             }
           }
         ]
@@ -188,9 +188,13 @@
   },
   "active": "2c493d823a13dc42",
   "lastOpenFiles": [
+    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/03. System Logs.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks/01. Shorcuts.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/7. Tips & Tricks",
+    "Basics Of CyberSecurity/Linux Fundamentals/Shortcuts & CheatSheets.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/02. Firewall Setup.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/01. Linux Hardening.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/attachments/Pasted image 20250224203852.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/02. Firewall Setup.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/attachments/Pasted image 20250224203815.png",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/attachments",
     "Basics Of CyberSecurity/Linux Fundamentals/5. Linux Networking/02. Remote Desktop Protocols in Linux.md",
@@ -229,9 +233,6 @@
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/2. Hypertext Transfer Protocol Secure (HTTPS).md",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/1. HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/Bug Bounty Hunter/attachments",
-    "HackTheBox/Bug Bounty Hunter/1. Web Requests",
-    "HackTheBox/Bug Bounty Hunter",
-    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/06. Explain the Important of  Applicable Security Laws and Standards.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/03. Editing Files.md"
+    "HackTheBox/Bug Bounty Hunter/1. Web Requests"
   ]
 }
