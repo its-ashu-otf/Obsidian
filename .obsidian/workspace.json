@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3991e93947798961",
+        "id": "bc76e4e80369391e",
         "type": "tabs",
         "children": [
           {
-            "id": "bcdc5a1b0fdc1e5d",
+            "id": "2b695a5dcc385ae1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/08. Backup and Restore.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "08. Backup and Restore"
+              "title": "New tab"
             }
           }
         ]
@@ -186,10 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcdc5a1b0fdc1e5d",
+  "active": "2b695a5dcc385ae1",
   "lastOpenFiles": [
-    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/07. Working with Web Services.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/09. File System Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/08. Backup and Restore.md",
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/07. Working with Web Services.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/attachments/Pasted image 20250224161443.png",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/attachments/Pasted image 20250224161041.png",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/attachments",
@@ -232,7 +229,6 @@
     "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks/01. Explain Network Scanning Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/03. Demonstrate Footprinting through  Internet Research Services.md",
     "Certified Ethical Hacker (CEHv13)/Module 03 Scanning Networks",
-    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md",
-    "Untitled.md"
+    "Certified Ethical Hacker (CEHv13)/Module 02 Footprinting and Reconnaissance/02. Demonstrate Footprinting through Search Engines.md"
   ]
 }
