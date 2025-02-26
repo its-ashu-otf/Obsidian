@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/CTF/Jerry.md",
+                "file": "HackTheBox/CTF/Sau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jerry"
+              "title": "Sau"
             }
           }
         ]
@@ -188,11 +188,12 @@
   },
   "active": "18913a3561f2fa8f",
   "lastOpenFiles": [
+    "HackTheBox/CTF/Jerry.md",
+    "HackTheBox/CTF/Sau.md",
     "HackTheBox/CTF/attachments/Pasted image 20250226214942.png",
     "HackTheBox/CTF/attachments/Pasted image 20250226211524.png",
     "HackTheBox/CTF/attachments",
     "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris/01. Solaris.md",
-    "HackTheBox/CTF/Jerry.md",
     "HackTheBox/CTF",
     "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris/attachments/Pasted image 20250224210122.png",
     "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris/attachments",
@@ -231,7 +232,6 @@
     "Hacking Methodology/2. Exploitation.md",
     "Hacking Methodology/attachments/Pasted image 20250222233355.png",
     "Hacking Methodology/1. Enumeration.md",
-    "Hacking Methodology/attachments/Pasted image 20250222194756.png",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/03. Service and Process Management.md",
     "HackTheBox/Bug Bounty Hunter/1. Web Requests/5. HTTP Methods and Codes.md"
   ]
