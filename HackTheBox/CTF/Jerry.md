@@ -35,3 +35,13 @@ Let's Check Port 8080
 A apache server is running on this machine.
 
 ![[Pasted image 20250226211524.png]]
+
+Here, As we can see the tomcat server isn't configured to I tried Bruteforcing with Default creds
+
+and this was the creds 
+username:`tomcat`
+password:`s3cret`
+
+![[Pasted image 20250226214942.png]]
+
+here, I hit the /revshell 
