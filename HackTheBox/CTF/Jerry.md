@@ -29,3 +29,9 @@ Nmap done: 1 IP address (1 host up) scanned in 32.38 seconds
 
 ```
 
+
+Let's Check Port 8080
+
+A apache server is running on this machine.
+
+![[Pasted image 20250226211524.png]]
