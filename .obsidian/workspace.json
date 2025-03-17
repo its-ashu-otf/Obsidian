@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d1d990ae643c69c",
+        "id": "9a6063425e417f6d",
         "type": "tabs",
         "children": [
           {
-            "id": "18913a3561f2fa8f",
+            "id": "c229cc5a07d07cd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox/CTF/Paper.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Paper"
+              "title": "New tab"
             }
           }
         ]
@@ -186,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18913a3561f2fa8f",
+  "active": "c229cc5a07d07cd8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "HackTheBox/CTF/Paper.md",
+    "conflict-files-obsidian-git.md",
     "HackTheBox/CTF/attachments/Pasted image 20250305212356.png",
     "HackTheBox/CTF/attachments/Pasted image 20250305212201.png",
     "HackTheBox/CTF/Sau.md",
