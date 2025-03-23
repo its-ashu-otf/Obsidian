@@ -188,10 +188,12 @@
   },
   "active": "6241165d49859d6d",
   "lastOpenFiles": [
+    "Web Pentesting Notes/Server Side Request Forgery/2. Impact.md",
+    "Web Pentesting Notes/Server Side Request Forgery/3. Common SSRF Attacks.md",
+    "Web Pentesting Notes/Server Side Request Forgery/1. Introduction.md",
     "Web Pentesting Notes/Server Side Request Forgery/attachments/Pasted image 20250323231248.png",
     "Web Pentesting Notes/Server Side Request Forgery/attachments",
     "Web Pentesting Notes/SQL Injection/SQL Injection.md",
-    "Web Pentesting Notes/Server Side Request Forgery/1. Introduction.md",
     "Web Pentesting Notes/Server Side Request Forgery",
     "Web Pentesting Notes/Untitled.md",
     "Web Pentesting Notes/SQL Injection/attachments/Pasted image 20250317211655.png",
@@ -224,7 +226,6 @@
     "Basics Of CyberSecurity/Linux Fundamentals/5. Linux Networking/02. Remote Desktop Protocols in Linux.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening",
     "Basics Of CyberSecurity/Linux Fundamentals/5. Linux Networking/attachments/Pasted image 20250224203202.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/5. Linux Networking/attachments/Pasted image 20250224203138.png",
     "Basics Of CyberSecurity/Linux Fundamentals/5. Linux Networking/01. Network Configuration.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/02. Package Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/10. Containerization.md",
@@ -232,7 +233,6 @@
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/09. File System Management.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/08. Backup and Restore.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/07. Working with Web Services.md",
-    "Hacking Methodology/3. Privilege Escalation.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/01. User Management.md"
+    "Hacking Methodology/3. Privilege Escalation.md"
   ]
 }
