@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/7. Subdomain Enumeration With Sublist3r.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/7. Subdomain Enumeration With Sublist3r.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,17 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6241165d49859d6d",
+  "active": "41076b86153f6c3a",
   "lastOpenFiles": [
-    "eJPT/Section 1 Assessment Methodologies/6. WAF with wafwOOf.md",
-    "eJPT/Section 1 Assessment Methodologies/7. Subdomain Enumeration With Sublist3r.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering",
+    "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering",
+    "eJPT/Section 1 Assessment Methodologies/Untitled.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/7. Subdomain Enumeration With Sublist3r.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/6. WAF with wafwOOf.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250326204531.png",
-    "eJPT/Section 1 Assessment Methodologies/5. DNS Recon.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/5. DNS Recon.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250326203250.png",
-    "eJPT/Section 1 Assessment Methodologies/4. Website Footprinting with Netcraft.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/4. Website Footprinting with Netcraft.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250325195058.png",
-    "eJPT/Section 1 Assessment Methodologies/3. Whois Enumeration.md",
-    "eJPT/Section 1 Assessment Methodologies/2. Website Recon & Footprinting.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/3. Whois Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/2. Website Recon & Footprinting.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250325122355.png",
     "eJPT/Section 1 Assessment Methodologies/attachments",
     "Basics Of CyberSecurity/Linux Fundamentals/8. Tips & Tricks/02. Cheat Sheet.md",
@@ -206,7 +209,7 @@
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/01. Navigation.md",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/03. System Information.md",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/02. Getting Help.md",
-    "eJPT/Section 1 Assessment Methodologies/1. Information Gathering.md",
+    "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering/1. Information Gathering.md",
     "Web Pentesting Notes/Server Side Request Forgery/1. Introduction.md",
     "eJPT/Section 4",
     "eJPT/Section 3",
@@ -229,10 +232,7 @@
     "HackTheBox/CTF/attachments/Pasted image 20250305212201.png",
     "HackTheBox/CTF/Sau.md",
     "Untitled.md",
-    "HackTheBox/CTF/Jerry.md",
     "HackTheBox/CTF/attachments/Pasted image 20250226214942.png",
-    "HackTheBox/CTF/attachments/Pasted image 20250226211524.png",
-    "HackTheBox/CTF/attachments",
-    "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris/01. Solaris.md"
+    "HackTheBox/CTF/attachments/Pasted image 20250226211524.png"
   ]
 }
