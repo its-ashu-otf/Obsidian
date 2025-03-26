@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/4. Website Footprinting with Netcraft.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/5. DNS Recon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Website Footprinting with Netcraft"
+              "title": "5. DNS Recon"
             }
           }
         ]
@@ -188,9 +188,10 @@
   },
   "active": "6241165d49859d6d",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/4. Website Footprinting with Netcraft.md",
+    "eJPT/Section 1 Assessment Methodologies/5. DNS Recon.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250325195058.png",
     "eJPT/Section 1 Assessment Methodologies/3. Whois Enumeration.md",
-    "eJPT/Section 1 Assessment Methodologies/4. Website Footprinting with Netcraft.md",
     "eJPT/Section 1 Assessment Methodologies/2. Website Recon & Footprinting.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250325122355.png",
     "eJPT/Section 1 Assessment Methodologies/attachments",
@@ -232,7 +233,6 @@
     "Basics Of CyberSecurity/Linux Fundamentals/7. Linux Distributions vs Solaris/attachments/Pasted image 20250224210122.png",
     "Basics Of CyberSecurity/Linux Fundamentals/8. Tips & Tricks/01. Shorcuts.md",
     "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/03. System Logs.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/attachments/Pasted image 20250224203852.png",
-    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/attachments/Pasted image 20250224203815.png"
+    "Basics Of CyberSecurity/Linux Fundamentals/6. Linux Hardening/attachments/Pasted image 20250224203852.png"
   ]
 }
