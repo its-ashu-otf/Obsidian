@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/10. Leaked Password Databases.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/1. DNS Zone Transfers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Leaked Password Databases"
+              "title": "1. DNS Zone Transfers"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "6241165d49859d6d",
   "lastOpenFiles": [
-    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/9. Email Harvesting with theHarvester.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/10. Leaked Password Databases.md",
+    "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/1. DNS Zone Transfers.md",
+    "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering",
+    "eJPT/Section 1 Assessment Methodologies/Untitled.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/9. Email Harvesting with theHarvester.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/8. Google Dorks.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/attachments/Pasted image 20250326224417.png",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/attachments/Pasted image 20250326221559.png",
@@ -198,7 +201,6 @@
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/7. Subdomain Enumeration With Sublist3r.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering",
     "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering",
-    "eJPT/Section 1 Assessment Methodologies/Untitled.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/6. WAF with wafwOOf.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250326204531.png",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/5. DNS Recon.md",
@@ -227,12 +229,10 @@
     "Web Pentesting Notes/Server Side Request Forgery/3. Common SSRF Attacks.md",
     "Web Pentesting Notes/Server Side Request Forgery/4. Circumventing common SSRF defenses.md",
     "Web Pentesting Notes/Server Side Request Forgery/attachments/Pasted image 20250323231248.png",
-    "Web Pentesting Notes/Server Side Request Forgery/attachments",
     "Web Pentesting Notes/SQL Injection/SQL Injection.md",
     "Web Pentesting Notes/Untitled.md",
     "Web Pentesting Notes/SQL Injection/attachments/Pasted image 20250317211655.png",
     "HackTheBox/CTF/Paper.md",
-    "conflict-files-obsidian-git.md",
     "HackTheBox/CTF/attachments/Pasted image 20250305212356.png"
   ]
 }
