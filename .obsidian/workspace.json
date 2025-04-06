@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/3. Port Scanning with Nmap.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering/1. Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Port Scanning with Nmap"
+              "title": "1. Information Gathering"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "6241165d49859d6d",
   "lastOpenFiles": [
-    "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/2. Host Discovery with Nmap.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/6. WAF with wafwOOf.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/5. DNS Recon.md",
+    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/4. Website Footprinting with Netcraft.md",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/3. Port Scanning with Nmap.md",
+    "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/2. Host Discovery with Nmap.md",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/1. DNS Zone Transfers.md",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/attachments/Pasted image 20250405213511.png",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/attachments/Pasted image 20250405213448.png",
@@ -207,11 +210,8 @@
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/7. Subdomain Enumeration With Sublist3r.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering",
     "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering",
-    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/6. WAF with wafwOOf.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250326204531.png",
-    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/5. DNS Recon.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250326203250.png",
-    "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/4. Website Footprinting with Netcraft.md",
     "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250325195058.png",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/3. Whois Enumeration.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/2. Website Recon & Footprinting.md",
