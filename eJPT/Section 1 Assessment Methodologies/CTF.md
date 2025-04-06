@@ -49,8 +49,7 @@ curl -s https://example.com | grep -i "generator"`
 
 Directory browsing might reveal where files are stored.
 
-
-
+![[Pasted image 20250406224343.png]]
 ## Flag 4
 
 An overlooked backup file in the webroot can be problematic if it reveals sensitive configuration details.
@@ -178,5 +177,13 @@ Certain files may reveal something interesting when mirrored.
 
 **Solution:**
 
-This was one was a pain in the a** because I had to mirror the whole site using httrack and look in every configuration file and finally got the flag
+This was one was a pain in the a** because I had to mirror the whole site using `httrack` and look in every configuration file and finally got the flag
 
+```bash
+┌──(root㉿INE)-[~/websites/target/target.ine.local]
+└─# cat xmlrpc0db0.php | grep FLAG
+                        <api name="FLAG5{7dd2a76392af4322ba406c1031f80707}" blogID="1" preferred="false" apiLink="http://target.ine.local/xmlrpc.php" />
+
+```
+
+![[Pasted image 20250406224049.png]]
