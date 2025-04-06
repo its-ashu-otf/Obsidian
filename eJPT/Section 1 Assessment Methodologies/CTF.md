@@ -33,4 +33,28 @@ What website is running on the target, and what is its version?
 
 ```
 
-Here, I took 
+Here, I took help of ChatGPT and Got this 
+
+
+### Check the Meta Generator Tag in the HTML
+
+Most WordPress sites include a meta tag in the `<head>` that shows the version.
+
+```bash
+curl -s https://example.com | grep -i "generator"`
+```
+
+
+## Flag 3
+
+Directory browsing might reveal where files are stored.
+
+
+
+## Flag 4
+
+An overlooked backup file in the webroot can be problematic if it reveals sensitive configuration details.
+
+### **Solution**
+So, I ran wpscan on this website as it is running wordpress site & I got this
+
