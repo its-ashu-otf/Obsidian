@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering/1. Information Gathering.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/CTF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Information Gathering"
+              "title": "CTF"
             }
           }
         ]
@@ -188,6 +188,10 @@
   },
   "active": "6241165d49859d6d",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250406223009.png",
+    "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250406222937.png",
+    "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering/1. Information Gathering.md",
+    "eJPT/Section 1 Assessment Methodologies/CTF.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/6. WAF with wafwOOf.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/5. DNS Recon.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/4. Website Footprinting with Netcraft.md",
@@ -200,7 +204,6 @@
     "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/10. Leaked Password Databases.md",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering",
-    "eJPT/Section 1 Assessment Methodologies/Untitled.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/9. Email Harvesting with theHarvester.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/8. Google Dorks.md",
     "eJPT/Section 1 Assessment Methodologies/2. Passive Information Gathering/attachments/Pasted image 20250326224417.png",
@@ -224,15 +227,12 @@
     "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/01. Navigation.md",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/03. System Information.md",
     "Basics Of CyberSecurity/Linux Fundamentals/2. The Shell/02. Getting Help.md",
-    "eJPT/Section 1 Assessment Methodologies/1. Introduction To Information Gathering/1. Information Gathering.md",
     "Web Pentesting Notes/Server Side Request Forgery/1. Introduction.md",
     "eJPT/Section 4",
     "eJPT/Section 3",
     "eJPT/Section 2",
     "eJPT/Section 1 Assessment Methodologies",
     "Web Pentesting Notes/Server Side Request Forgery/2. Impact.md",
-    "Web Pentesting Notes/Server Side Request Forgery/3. Common SSRF Attacks.md",
-    "Web Pentesting Notes/Server Side Request Forgery/4. Circumventing common SSRF defenses.md",
-    "Web Pentesting Notes/Server Side Request Forgery/attachments/Pasted image 20250323231248.png"
+    "Web Pentesting Notes/Server Side Request Forgery/3. Common SSRF Attacks.md"
   ]
 }
