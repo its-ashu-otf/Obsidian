@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/2. Host Discovery with Nmap.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/3. Port Scanning with Nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Host Discovery with Nmap"
+              "title": "3. Port Scanning with Nmap"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "6241165d49859d6d",
   "lastOpenFiles": [
-    "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/1. DNS Zone Transfers.md",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/2. Host Discovery with Nmap.md",
+    "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/3. Port Scanning with Nmap.md",
+    "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/1. DNS Zone Transfers.md",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/attachments/Pasted image 20250405213511.png",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/attachments/Pasted image 20250405213448.png",
     "eJPT/Section 1 Assessment Methodologies/3. Active Information Gathering/attachments",
@@ -232,7 +233,6 @@
     "Web Pentesting Notes/Server Side Request Forgery/2. Impact.md",
     "Web Pentesting Notes/Server Side Request Forgery/3. Common SSRF Attacks.md",
     "Web Pentesting Notes/Server Side Request Forgery/4. Circumventing common SSRF defenses.md",
-    "Web Pentesting Notes/Server Side Request Forgery/attachments/Pasted image 20250323231248.png",
-    "Web Pentesting Notes/SQL Injection/SQL Injection.md"
+    "Web Pentesting Notes/Server Side Request Forgery/attachments/Pasted image 20250323231248.png"
   ]
 }
