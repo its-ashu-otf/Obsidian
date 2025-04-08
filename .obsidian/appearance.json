@@ -1,6 +1,7 @@
 {
-  "accentColor": "#8541ec",
+  "accentColor": "",
   "cssTheme": "Catppuccin",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "interfaceFontFamily": "Rubik"
 }
