@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/2. Network Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Active Information Gathering"
+              "title": "2. Network Layer"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/2. Network Layer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Active Information Gathering"
+              "title": "Outline of 2. Network Layer"
             }
           },
           {
@@ -193,8 +193,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -216,13 +216,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "41076b86153f6c3a",
+  "active": "941284ed2e4b47f0",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/1. Networking Fundamentals.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/2. Network Layer.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250418225954.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer",
+    "API Penetration Testing/1. Introduction/Module 2. Deep Dive into Types of APIs.md",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418210445.png",
+    "API Penetration Testing/1. Introduction/Module 1. Introduction to API.md",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418205645.png",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418204618.png",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418204434.png",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418204315.png",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418203419.png",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418202721.png",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418202137.png",
+    "API Penetration Testing/1. Introduction/attachments/Pasted image 20250418202114.png",
+    "API Penetration Testing/1. Introduction/attachments",
+    "API Penetration Testing/1. Introduction",
+    "API Penetration Testing",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/Introduction/Untitled.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/attachments/Pasted image 20250408192911.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/attachments/Pasted image 20250408192004.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/attachments",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/1. Course Topic Overview.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction",
@@ -232,37 +249,20 @@
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/3. Port Scanning with Nmap.md",
     "2025-04-08.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/CTF.md",
-    "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250406224343.png",
-    "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250406224049.png",
-    "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250406223355.png",
-    "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250406223009.png",
-    "eJPT/Section 1 Assessment Methodologies/attachments/Pasted image 20250406222937.png",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/1. Introduction To Information Gathering/1. Information Gathering.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/6. WAF with wafwOOf.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/5. DNS Recon.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/4. Website Footprinting with Netcraft.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/2. Host Discovery with Nmap.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/1. DNS Zone Transfers.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/attachments/Pasted image 20250405213511.png",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/attachments/Pasted image 20250405213448.png",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/attachments",
     "Basics Of CyberSecurity/DNS/1. DNS Makes Internet Work.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/10. Leaked Password Databases.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/9. Email Harvesting with theHarvester.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/8. Google Dorks.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/attachments/Pasted image 20250326224417.png",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/attachments",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/7. Subdomain Enumeration With Sublist3r.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/1. Introduction To Information Gathering",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/3. Whois Enumeration.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/2. Website Recon & Footprinting.md",
-    "eJPT/Section 1 Assessment Methodologies/attachments",
     "Basics Of CyberSecurity/Linux Fundamentals/8. Tips & Tricks/02. Cheat Sheet.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/02. Package Management.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/07. Permission Management.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/05. File Descriptors and Redirections.md",
-    "Basics Of CyberSecurity/Linux Fundamentals/3. Workflow/01. Navigation.md"
+    "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/02. Package Management.md"
   ]
 }
