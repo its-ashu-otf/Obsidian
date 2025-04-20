@@ -7,5 +7,11 @@
   "mermaid-tools",
   "obsidian-format-code",
   "code-styler",
-  "calendar"
+  "calendar",
+  "templater-obsidian",
+  "make-md",
+  "omnisearch",
+  "obsidian-autocomplete-plugin",
+  "homepage",
+  "obsidian-icons-plugin"
 ]
