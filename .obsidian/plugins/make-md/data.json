@@ -38,7 +38,11 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//eJPT",
+    "//eJPT/eJPT/Section 1 Assessment Methodologies",
+    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning",
+    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
