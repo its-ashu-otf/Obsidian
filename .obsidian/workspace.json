@@ -223,7 +223,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/3. Ping Sweeps.md",
+    "eJPT/eJPT.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/4. Host Discovery with Nmap.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422224153.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/1. Network Mapping.md",
     "Tags/#+bin+bash",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000734.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000707.png",
@@ -234,9 +237,7 @@
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250421231617.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/2. Host Discovery Techniques.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250421205716.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/1. Network Mapping.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250421204729.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250421204549.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery",
     "Tags/#o",
@@ -266,7 +267,6 @@
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/1. Introduction To Information Gathering/1. Information Gathering.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/6. WAF with wafwOOf.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/5. DNS Recon.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/4. Website Footprinting with Netcraft.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/2. Host Discovery with Nmap.md"
+    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/4. Website Footprinting with Netcraft.md"
   ]
 }
