@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/3. Ping Sweeps.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Ping Sweeps"
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "aa0991f8deea5f4d",
+            "id": "09ad1c908b0339ac",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +80,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "147a67e9fe00274c",
@@ -168,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/3. Ping Sweeps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Ping Sweeps"
+              "title": "Outline"
             }
           },
           {
@@ -221,9 +217,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/3. Ping Sweeps.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000734.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000707.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000646.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000324.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000239.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250422000227.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250421231617.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/2. Host Discovery Techniques.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/3. Ping Sweeps.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250421205716.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/1. Network Mapping.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments/Pasted image 20250421204729.png",
@@ -233,13 +235,6 @@
     "Tags/#o",
     "Tags",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/3. Transport Layer.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250420224626.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250420224423.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250420224341.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250420223859.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250420223510.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250420220838.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments/Pasted image 20250420220754.png",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/2. Network Layer.md",
     "HackTheBox/CTF/Boardlight.md",
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/04. Explain Hacking Methodologies and Frameworks.md",
