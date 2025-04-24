@@ -38,11 +38,14 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery",
     "//eJPT",
+    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning",
+    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning",
+    "//Tags",
+    "/",
     "//eJPT/eJPT/Section 1 Assessment Methodologies",
-    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning"
+    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction",
+    "//eJPT/eJPT/Section 1 Assessment Methodologies/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

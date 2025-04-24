@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/1. Port Scanning with NMAP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Port Scanning with NMAP"
             }
           }
         ]
@@ -165,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/1. Port Scanning with NMAP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1. Port Scanning with NMAP"
             }
           },
           {
@@ -215,8 +220,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "174d64246efd5589",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/1. Networking Fundamentals.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/Browser -- HTTP.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/1. Port Scanning with NMAP.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/4. Port Scanning.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning",
     "Vault.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/4. Host Discovery with Nmap.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/3. Ping Sweeps.md",
@@ -247,21 +258,15 @@
     "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/01. Explain Information Security Concepts.md",
     "API Penetration Testing/1. Introduction/Module 2. Deep Dive into Types of APIs.md",
     "API Penetration Testing/1. Introduction/Module 1. Introduction to API.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/1. Networking Fundamentals.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer",
     "API Penetration Testing/1. Introduction/attachments",
     "API Penetration Testing/1. Introduction",
-    "API Penetration Testing",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/Introduction/Untitled.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/1. Course Topic Overview.md",
     "Basics Of CyberSecurity/Linux Fundamentals/4. System Management/05. Task Scheduling.md",
     "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/3. Active Information Gathering/3. Port Scanning with Nmap.md",
     "2025-04-08.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/CTF.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/1. Introduction To Information Gathering/1. Information Gathering.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/6. WAF with wafwOOf.md",
-    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/2. Passive Information Gathering/5. DNS Recon.md"
+    "eJPT/Section 1 Assessment Methodologies/A. Information Gathering/CTF.md"
   ]
 }
