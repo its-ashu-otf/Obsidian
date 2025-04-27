@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "440844555154f23a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "59b6e502938c794f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/01. Summarize Cloud Computing Concepts.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Summarize Cloud Computing Concepts"
+              "title": "1. Firewall Detection and IDS Evasion"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "76dc932c5c6b884a",
+            "id": "0b626ca055731ed1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/01. Summarize Cloud Computing Concepts.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Summarize Cloud Computing Concepts"
+              "title": "Outline of 1. Firewall Detection and IDS Evasion"
             }
           },
           {
@@ -232,16 +232,34 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "76dc932c5c6b884a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/attachments/Pasted image 20250428002022.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/attachments",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/5. Evasion, Scan Performance & Output.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/Assessment Methodologies Footprinting and Scanning CTF 1.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000325.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000251.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000210.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000102.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/3. NMAP Scripting Engine (NSE).md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/attachments/Pasted image 20250427214634.png",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/attachments",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/2. Service Version & OS Detection.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/4. Port Scanning.md",
+    "Web Penetration Testing/Server-Side Vulnerabilities/1. What is path traversal.md",
+    "Web Penetration Testing/Server-Side Vulnerabilities/Server-Side Vulnerabilities.md",
+    "Web Penetration Testing/Server-Side Vulnerabilities",
+    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/01. Summarize Cloud Computing Concepts.md",
     "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426231540.png",
     "Basics Of CyberSecurity/Cryptography & Steganography/5. Cryptanalysis.md",
     "Basics Of CyberSecurity/Cryptography & Steganography/6. Attacks On Cryptosystems.md",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/01. Summarize Cloud Computing Concepts.md",
     "Untitled.canvas",
     "2025-04-26.md",
     "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/Module 19 Cloud Computing.md",
@@ -249,19 +267,12 @@
     "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220539.png",
     "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220524.png",
     "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220248.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220234.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220217.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426215700.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/ChatGPT Image Apr 26, 2025, 09_50_04 PM 1.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/ChatGPT Image Apr 26, 2025, 09_50_04 PM.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426214731.png",
     "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments",
     "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/1. Port Scanning with NMAP.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/1. Networking Fundamentals.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/Browser -- HTTP.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/4. Port Scanning.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning",
     "Vault.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/4. Host Discovery with Nmap.md",
@@ -271,19 +282,7 @@
     "Tags/#+bin+bash",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/2. Host Discovery Techniques.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery",
-    "Tags/#o",
-    "Tags",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/3. Transport Layer.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/2. Network Layer.md",
-    "HackTheBox/CTF/Boardlight.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/04. Explain Hacking Methodologies and Frameworks.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/03. Explain Ethical Hacking Concepts and Scope.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/02. Explain Hacking Concepts and Different Hacker Classes.md",
-    "Certified Ethical Hacker (CEHv13)/Module 01 Introduction to Ethical Hacking/01. Explain Information Security Concepts.md",
-    "API Penetration Testing/1. Introduction/Module 2. Deep Dive into Types of APIs.md",
-    "API Penetration Testing/1. Introduction/Module 1. Introduction to API.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/attachments",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer"
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/2. Network Layer.md"
   ]
 }
