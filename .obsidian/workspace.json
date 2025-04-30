@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
+                "file": "eJPT/Section 1 Assessment Methodologies/C. Enumeration/Assessment Methodologies Enumeration CTF 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Firewall Detection and IDS Evasion"
+              "title": "Assessment Methodologies Enumeration CTF 1"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "0b626ca055731ed1",
+            "id": "efc6d05ade274b12",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
+                "file": "eJPT/Section 1 Assessment Methodologies/C. Enumeration/Assessment Methodologies Enumeration CTF 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Firewall Detection and IDS Evasion"
+              "title": "Outline of Assessment Methodologies Enumeration CTF 1"
             }
           },
           {
@@ -237,52 +237,52 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/attachments/Pasted image 20250428002022.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/attachments",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/2. SMB Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/Assessment Methodologies Enumeration CTF 1.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/6. SMTP Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250430223107.png",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/5. SSH Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250430221401.png",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/4. MySQL Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/3. Web Server Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250429215413.png",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250429213221.png",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/1. FTP Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250429211711.png",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments",
+    "API Penetration Testing/2. Introduction to API Penetration Testing/2. Before Testing.md",
+    "API Penetration Testing/2. Introduction to API Penetration Testing/attachments/Pasted image 20250429171029.png",
+    "API Penetration Testing/2. Introduction to API Penetration Testing/1. Key Concepts.md",
+    "API Penetration Testing/2. Introduction to API Penetration Testing/attachments/Pasted image 20250429165943.png",
+    "API Penetration Testing/2. Introduction to API Penetration Testing/attachments/Pasted image 20250429165133.png",
+    "API Penetration Testing/2. Introduction to API Penetration Testing/attachments",
+    "API Penetration Testing/1. Introduction/Module 2. Deep Dive into Types of APIs.md",
+    "API Penetration Testing/2. Introduction to API Penetration Testing",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/3. Port Scanning With Auxiliary Modules.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/attachments/Pasted image 20250429153642.png",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/attachments/Pasted image 20250429153623.png",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/2. Importing Nmap Scan Results Into MSF.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/1. Port Scanning & Enumeration With Nmap.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/Untitled",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/1. Introduction/1. Introduction to Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/1. Introduction",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/attachments",
+    "HackTheBox/CTF/GoodGames.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration",
+    "eJPT/eJPT.md",
+    "eJPT/Section 1 Assessment Methodologies/Section 1 Assessment Methodologies.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/5. Evasion, Scan Performance & Output.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/3. NMAP Output Formats.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/Assessment Methodologies Footprinting and Scanning CTF 1.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000325.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000251.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000210.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments/Pasted image 20250428000102.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/attachments",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/2. Optimizing NMAP Scans.md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/attachments",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/3. NMAP Scripting Engine (NSE).md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/attachments/Pasted image 20250427214634.png",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/attachments",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/2. Service Version & OS Detection.md",
     "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/4. Port Scanning.md",
     "Web Penetration Testing/Server-Side Vulnerabilities/1. What is path traversal.md",
-    "Web Penetration Testing/Server-Side Vulnerabilities/Server-Side Vulnerabilities.md",
-    "Web Penetration Testing/Server-Side Vulnerabilities",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/01. Summarize Cloud Computing Concepts.md",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426231540.png",
-    "Basics Of CyberSecurity/Cryptography & Steganography/5. Cryptanalysis.md",
-    "Basics Of CyberSecurity/Cryptography & Steganography/6. Attacks On Cryptosystems.md",
-    "Untitled.canvas",
-    "2025-04-26.md",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/Module 19 Cloud Computing.md",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220551.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220539.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220524.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments/Pasted image 20250426220248.png",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing/attachments",
-    "Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/1. Port Scanning with NMAP.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/1. Networking Fundamentals.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/Browser -- HTTP.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/1. Introduction/2. Active Information Gathering.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning",
-    "Vault.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/4. Host Discovery with Nmap.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/3. Ping Sweeps.md",
-    "eJPT/eJPT.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/1. Network Mapping.md",
-    "Tags/#+bin+bash",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/2. Host Discovery Techniques.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/3. Host Discovery/attachments",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/3. Transport Layer.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/2. Networking Primer/2. Network Layer.md"
+    "Untitled.canvas"
   ]
 }
