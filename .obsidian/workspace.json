@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/C. Enumeration/Assessment Methodologies Enumeration CTF 1.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assessment Methodologies Enumeration CTF 1"
+              "title": "3. Vulnerability Scanning With MSF"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "efc6d05ade274b12",
+            "id": "6583a8b3ab3ecc10",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/C. Enumeration/Assessment Methodologies Enumeration CTF 1.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assessment Methodologies Enumeration CTF 1"
+              "title": "Outline of 3. Vulnerability Scanning With MSF"
             }
           },
           {
@@ -237,8 +237,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/2. SMB Enumeration.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/2. Frequently Exploited Windows Services.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/1. Overview Of Windows Vulnerabilities.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/2. Vulnerability Assessment.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/1. Introduction/1. Course Introduction.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/4. Vulnerability Scanning.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/3. Vulnerability Analysis.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/1. Introduction/1. Introduction.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/1. Introduction.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/1. Introduction",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/D. Vulnerability Assessment.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment",
+    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/Assessment Methodologies Footprinting and Scanning CTF 1.md",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/Assessment Methodologies Enumeration CTF 1.md",
+    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/2. SMB Enumeration.md",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/6. SMTP Enumeration.md",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250430223107.png",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/5. SSH Enumeration.md",
@@ -266,23 +282,7 @@
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/1. Port Scanning & Enumeration With Nmap.md",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/Untitled",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/1. Introduction/1. Introduction to Enumeration.md",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/1. Introduction",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/attachments",
     "HackTheBox/CTF/GoodGames.md",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration",
-    "eJPT/eJPT.md",
-    "eJPT/Section 1 Assessment Methodologies/Section 1 Assessment Methodologies.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/5. Evasion, Scan Performance & Output.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/3. NMAP Output Formats.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/Assessment Methodologies Footprinting and Scanning CTF 1.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/2. Optimizing NMAP Scans.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/1. Firewall Detection and IDS Evasion .md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/5. Evasion, Scan Performance & Output/attachments",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/3. NMAP Scripting Engine (NSE).md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/2. Service Version & OS Detection.md",
-    "eJPT/Section 1 Assessment Methodologies/B. Footprinting & Scanning/4. Port Scanning/4. Port Scanning.md",
-    "Web Penetration Testing/Server-Side Vulnerabilities/1. What is path traversal.md",
     "Untitled.canvas"
   ]
 }
