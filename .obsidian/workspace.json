@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/4. WebDAV Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Vulnerability Scanning With MSF"
+              "title": "4. WebDAV Vulnerabilities"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "6583a8b3ab3ecc10",
+            "id": "acf22173b34302c3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/4. WebDAV Vulnerabilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Vulnerability Scanning With MSF"
+              "title": "Outline of 4. WebDAV Vulnerabilities"
             }
           },
           {
@@ -221,9 +221,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,13 +228,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "audio-recorder:Start/stop recording": false
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/attachments/Pasted image 20250513001157.png",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/attachments/Pasted image 20250513000915.png",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/attachments",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/4. WebDAV Vulnerabilities.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/2. Frequently Exploited Windows Services.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/1. Overview Of Windows Vulnerabilities.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/2. Vulnerability Assessment.md",
@@ -277,12 +281,8 @@
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/3. Port Scanning With Auxiliary Modules.md",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/attachments/Pasted image 20250429153642.png",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/attachments/Pasted image 20250429153623.png",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/2. Importing Nmap Scan Results Into MSF.md",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/1. Port Scanning & Enumeration With Nmap.md",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/Untitled",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/1. Introduction/1. Introduction to Enumeration.md",
-    "HackTheBox/CTF/GoodGames.md",
     "Untitled.canvas"
   ]
 }
