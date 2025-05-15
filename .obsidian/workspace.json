@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/2. Vulnerability Analysis BlueKeep.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/2. Web App Vulnerability Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Vulnerability Analysis BlueKeep"
+              "title": "2. Web App Vulnerability Scanning"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "bfaf3771d2680f74",
+            "id": "e7d7fb85e24a9d16",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/2. Vulnerability Analysis BlueKeep.md",
+                "file": "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/2. Web App Vulnerability Scanning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Vulnerability Analysis BlueKeep"
+              "title": "Outline of 2. Web App Vulnerability Scanning"
             }
           },
           {
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 381
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,12 +237,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/attachments/Pasted image 20250516004501.png",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/1. Vulnerability Scanning With Nessus.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/2. Web App Vulnerability Scanning.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/attachments/Pasted image 20250516000958.png",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/attachments",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/4. Vulnerability Scanning.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/3. Vulnerability Analysis.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/6. Exploiting Bash CVE-2014-6271 Vulnerability (Shellshock).md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250515233012.png",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/5. Frequently Exploited Linux Services.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250515220643.png",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/3. Pass-The-Hash Attack.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250515212255.png",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/1. EternalBlue.md",
+    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/2. BlueKeep.md",
     "HackTheBox/CTF/Blue.md",
-    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/2. Vulnerability Analysis BlueKeep.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250513193331.png",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250513185256.png",
-    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/3. Vulnerability Analysis.md",
-    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/1. Vulnerability Analysis EternalBlue.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250513151344.png",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/4. WebDAV Vulnerabilities.md",
@@ -254,7 +266,6 @@
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/1. Overview Of Windows Vulnerabilities.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/2. Vulnerability Assessment.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/1. Introduction/1. Course Introduction.md",
-    "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/4. Vulnerability Scanning.md",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis",
     "eJPT/Section 1 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment",
@@ -269,20 +280,9 @@
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/6. SMTP Enumeration.md",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250430223107.png",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/5. SSH Enumeration.md",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250430221401.png",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/4. MySQL Enumeration.md",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/3. Web Server Enumeration.md",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250429215413.png",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250429213221.png",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/1. FTP Enumeration.md",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments/Pasted image 20250429211711.png",
     "eJPT/Section 1 Assessment Methodologies/C. Enumeration/3. Service Enumeration/attachments",
-    "API Penetration Testing/2. Introduction to API Penetration Testing/2. Before Testing.md",
-    "API Penetration Testing/2. Introduction to API Penetration Testing/1. Key Concepts.md",
     "API Penetration Testing/2. Introduction to API Penetration Testing/attachments",
-    "API Penetration Testing/1. Introduction/Module 2. Deep Dive into Types of APIs.md",
-    "API Penetration Testing/2. Introduction to API Penetration Testing",
-    "eJPT/Section 1 Assessment Methodologies/C. Enumeration/2. Nmap Scripting Engine (NSE)/3. Port Scanning With Auxiliary Modules.md",
     "Untitled.canvas"
   ]
 }
