@@ -38,7 +38,6 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
     "/",
     "//Certified Ethical Hacker (CEHv13)/Certified Ethical Hacker (CEHv13)/Module 19 Cloud Computing",
     "//Web Penetration Testing/Web Penetration Testing/Server-Side Vulnerabilities",
@@ -46,8 +45,8 @@
     "//eJPT",
     "//eJPT/eJPT/Section 3 ",
     "//eJPT/eJPT/Section 3 Host & Networking Auditing",
-    "//eJPT/eJPT/Section 3 Host & Networking Auditing/eJPT/Section 3 Host & Networking Auditing/A. Introduction",
-    "//eJPT/eJPT/Section 3 Host & Networking Auditing/eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing"
+    "//eJPT/eJPT/Section 3 Host & Networking Auditing/eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
