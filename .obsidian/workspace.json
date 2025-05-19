@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/4. Types of Security Audits.md",
+                "file": "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/5. Security Auditing & Penetration Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Types of Security Audits"
+              "title": "5. Security Auditing & Penetration Testing"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "dc34aaf99271f010",
+            "id": "ab2ea884eb8aa970",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/4. Types of Security Audits.md",
+                "file": "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/5. Security Auditing & Penetration Testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Types of Security Audits"
+              "title": "Outline of 5. Security Auditing & Penetration Testing"
             }
           },
           {
@@ -235,10 +235,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dc34aaf99271f010",
+  "active": "ab2ea884eb8aa970",
   "lastOpenFiles": [
-    "Vault.md",
+    "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/5. Security Auditing & Penetration Testing.md",
+    "Tags",
     "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/4. Types of Security Audits.md",
+    "Vault.md",
     "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/3. Security Auditing Process or Lifecycle.md",
     "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/2. Essential Terminology.md",
     "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/attachments/Pasted image 20250518214046.png",
@@ -280,9 +282,7 @@
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/4. WebDAV Vulnerabilities.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/attachments",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/2. Frequently Exploited Windows Services.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis",
     "Untitled.canvas"
   ]
 }
