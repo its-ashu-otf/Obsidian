@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/5. Security Auditing & Penetration Testing.md",
+                "file": "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/2. Phase 2 - Security Auditing with Lynis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Security Auditing & Penetration Testing"
+              "title": "2. Phase 2 - Security Auditing with Lynis"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "ab2ea884eb8aa970",
+            "id": "c3746e3b9eb58209",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/5. Security Auditing & Penetration Testing.md",
+                "file": "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/2. Phase 2 - Security Auditing with Lynis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Security Auditing & Penetration Testing"
+              "title": "Outline of 2. Phase 2 - Security Auditing with Lynis"
             }
           },
           {
@@ -232,12 +232,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "local-media-embedder:Toggle media server": false
     }
   },
-  "active": "ab2ea884eb8aa970",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/3. Phase 3 - Conduct Penetration Test.md",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/2. Phase 2 - Security Auditing with Lynis.md",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/attachments/INE - Assessment Methodologies- Auditing Fundamentals 1.ts",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/attachments/INE - Assessment Methodologies- Auditing Fundamentals 2.ts",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/attachments/INE - Assessment Methodologies- Auditing Fundamentals.ts",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/attachments",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/1. Phase I - Develop a Security Policy.md",
+    "eJPT/Section 3 Host & Networking Auditing/C. Goverrnance, Risk & Compliance/2. Common Standards, Frameworks & Guidelines.md",
+    "eJPT/Section 3 Host & Networking Auditing/C. Goverrnance, Risk & Compliance/1. Governance, Risk & Compliance (GRC).md",
+    "eJPT/Section 3 Host & Networking Auditing/C. Goverrnance, Risk & Compliance/C. Goverrnance, Risk & Compliance.md",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing/D. From Auditing to Penetration Testing.md",
+    "eJPT/Section 3 Host & Networking Auditing/D. From Auditing to Penetration Testing",
+    "eJPT/Section 3 Host & Networking Auditing/C. Goverrnance, Risk & Compliance/Untitled.md",
     "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/5. Security Auditing & Penetration Testing.md",
+    "eJPT/Section 3 Host & Networking Auditing/C. Goverrnance, Risk & Compliance",
     "Tags",
     "eJPT/Section 3 Host & Networking Auditing/B. Introduction to Security Auditing/4. Types of Security Audits.md",
     "Vault.md",
@@ -256,33 +271,18 @@
     "eJPT/Section 3 Host & Networking Auditing/Section 3 Host & Networking Auditing.md",
     "eJPT/Section 3 Host & Networking Auditing/Section 3.md",
     "eJPT/Section 1 Penetration Testing Student Overview/Welcome.md",
-    "eJPT/Section 3 Host & Networking Auditing",
     "eJPT/Section 1 Penetration Testing Student Overview/Section 1 Penetration Testing Student Overview.md",
-    "eJPT/Section 1 Penetration Testing Student Overview",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/Assessment Methodologies Vulnerability Assessment CTF 1.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/3. Pass-The-Hash Attack.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/4. Frequently Exploited Linux Services.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/5. Exploiting Bash CVE-2014-6271 Vulnerability (Shellshock).md",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/3. Vulnerability Analysis.md",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/1. Vulnerability Scanning With Nessus.md",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/2. Web App Vulnerability Scanning.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/attachments/Pasted image 20250516004501.png",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/attachments/Pasted image 20250516000958.png",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/attachments",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning/4. Vulnerability Scanning.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250515233012.png",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250515220643.png",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250515212255.png",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/1. EternalBlue.md",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/2. BlueKeep.md",
-    "HackTheBox/CTF/Blue.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250513193331.png",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments/Pasted image 20250513185256.png",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/attachments",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/4. WebDAV Vulnerabilities.md",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/attachments",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/3. Vulnerability Scanning With MSF.md",
-    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/4. Vulnerability Scanning",
     "Untitled.canvas"
   ]
 }
