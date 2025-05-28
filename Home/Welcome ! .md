@@ -17,8 +17,9 @@ Focused on:
 
 ## 🧠 Quote of the Day
 
-> [!quote] Minds are like parachutes. They only function when open.
-> — Thomas Dewar
+>[!quote] Quote of the Day
+	> He who is fixed to a star does not change his mind.
+> &mdash; <cite>Leonardo da Vinci</cite>✍️
 
 ## 🧪 Current Focus Areas
 
