@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "ea95b0c98d51ca87",
+            "id": "351d050bfc8ccd51",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -237,9 +237,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/attachments/Pasted image 20250606012519.png",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/1. Introduction to Social Engineering.md",
+    "Home/Welcome ! .md",
+    "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/3. Phishing with Gophish.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/attachments/Pasted image 20250606015157.png",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/2. Pretexting.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/attachments/Pasted image 20250606012519.png",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/attachments/Pasted image 20250606011443.png",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/attachments/Pasted image 20250606011348.png",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/2. Social Engineering/attachments",
@@ -249,7 +252,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/1. Introduction/1. Introduction.md",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/F. Social Engineering.md",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering/1. Introduction",
-    "Home/Welcome ! .md",
     "eJPT/Section 4 Host & Network Penetration Testing/F. Social Engineering",
     "Tags",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/C. Windows Privilege Escalation/1. Windows Kernel Exploits.md",
@@ -273,7 +275,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/4. Exploiting WebDAV With Metasploit.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/3. Exploiting Microsoft IIS WebDAV.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/1. Exploiting Microsoft IIS WebDAV (7).md",
-    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/1. Exploiting Microsoft IIS WebDAV (6).md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/C. Windows Privilege Escalation",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/A. Windows Vulnerabilities",
@@ -281,8 +282,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/attachments/Pasted image 20250603014831.png",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/attachments/Pasted image 20250603014535.png",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/attachments/Pasted image 20250603014506.png",
-    "Home Labbing/attachments/Pasted image 20250601004127.png",
-    "Home Labbing/attachments/Pasted image 20250601003913.png",
     "Untitled.canvas"
   ]
 }
