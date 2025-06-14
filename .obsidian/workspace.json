@@ -237,8 +237,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/C. Network Attacks/2. SMB & NetBIOS Enumeration.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/C. Network Attacks/4. SMB Relay Attack.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/C. Network Attacks/3. SNMP Enumeration.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/C. Network Attacks/2. SMB & NetBIOS Enumeration.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/C. Network Attacks/1. Network Enumeration.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/C. Network Attacks/attachments/Pasted image 20250614205626.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/C. Network Attacks/attachments",
@@ -277,7 +278,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/B. Exploiting Linux Vulnerabilities/B. Exploiting Linux Vulnerabilities.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/A. Linux Vulnerabilities/A. Linux Vulnerabilities.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/A. Linux Vulnerabilities/1. Frequently Exploited Linux Services.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/4. Linux.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/E. Windows Credential Dumping/attachments/Pasted image 20250610224709.png",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/E. Windows Credential Dumping/attachments/Pasted image 20250610224611.png",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/E. Windows Credential Dumping/attachments/Pasted image 20250610213935.png",
