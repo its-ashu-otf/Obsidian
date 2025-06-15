@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/3. Metasploit Framework Architecture.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/4. Penetration Testing With The Metasploit Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Metasploit Framework Architecture"
+              "title": "4. Penetration Testing With The Metasploit Framework"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/3. Metasploit Framework Architecture.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/4. Penetration Testing With The Metasploit Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Metasploit Framework Architecture"
+              "title": "Outline of 4. Penetration Testing With The Metasploit Framework"
             }
           },
           {
@@ -238,11 +238,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/4. Penetration Testing With The Metasploit Framework.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/1. Metasploit Framework Overview.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/3. Metasploit Framework Architecture.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615222836.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615222317.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/2. Metasploit Framework Interfaces.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/3. Metasploit Framework Architecture.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/1. Metasploit Framework Overview.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/1. Introduction To The Metasploit Framework.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615213807.png",
@@ -275,7 +276,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Networking/1. Networking Fundamentals.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Networking/attachments/Pasted image 20250614204900.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Networking/attachments/Pasted image 20250614204851.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Networking/attachments/Pasted image 20250614204840.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Networking/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Networking/B. Networking.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/A. Introduction/1. Course Introduction.md",
