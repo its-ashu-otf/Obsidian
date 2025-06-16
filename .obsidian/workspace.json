@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/1. Port Scanning With Auxiliary Modules.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/2. FTP Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Port Scanning With Auxiliary Modules"
+              "title": "2. FTP Enumeration"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "b8205943bddc7968",
+            "id": "606c45fc25d31b5d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -238,11 +238,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments/Pasted image 20250616165900.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/1. Port Scanning With Auxiliary Modules.md",
+    "Home/Welcome ! .md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments/Pasted image 20250616005358.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/1. Nmap/2. Importing Nmap Scan Results Into MSF.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/1. Nmap/1. Port Scanning & Enumeration With Nmap.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/1. Port Scanning With Auxiliary Modules.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/2. FTP Enumeration.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/2. Metasploit Fundamentals/3. Creating & Managing Workspaces.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/2. Metasploit Fundamentals/attachments/Pasted image 20250616003819.png",
@@ -275,14 +277,12 @@
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/4. Penetration Testing With The Metasploit Framework.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615233241.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615233203.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/1. Metasploit Framework Overview.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615222836.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615222317.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615213807.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615213743.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615213714.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615212706.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments/Pasted image 20250615212526.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/1. Metasploit Framework Overview/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"
