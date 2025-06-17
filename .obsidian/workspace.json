@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/System-Host Based Attacks CTF 1.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/ Network-Based Attacks CTF 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System-Host Based Attacks CTF 1"
+              "title": "Network-Based Attacks CTF 1"
+            }
+          },
+          {
+            "id": "489c320b8b520fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/C. Linux Privilege Escalation/3. Exploiting SUID Binaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Exploiting SUID Binaries"
             }
           }
         ]
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/System-Host Based Attacks CTF 1.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/ Network-Based Attacks CTF 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System-Host Based Attacks CTF 1"
+              "title": "Outline of  Network-Based Attacks CTF 1"
             }
           },
           {
@@ -237,12 +251,29 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/3. Exploiting SMB With PsExec.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/attachments/Pasted image 20250618003521.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/attachments",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/ Network-Based Attacks CTF 1.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Network-Based Attacks.md",
+    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/D. Vulnerability Assessment.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/B. Exploiting Linux Vulnerabilities/B. Exploiting Linux Vulnerabilities.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/System-Host Based Attacks CTF 2.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/C. Linux Privilege Escalation/3. Exploiting SUID Binaries.md",
+    "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/5. Exploiting Bash CVE-2014-6271 Vulnerability (Shellshock).md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/attachments/Pasted image 20250618000152.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/attachments/Pasted image 20250618000025.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/attachments/Pasted image 20250617235801.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/attachments",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/B. Exploiting Linux Vulnerabilities/1. Exploiting Bash CVE-2014-6271 Vulnerability (Shellshock).md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/A. System and Host Based Attacks.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/4. Linux.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/attachments/Pasted image 20250617234743.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/3. Windows.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/System-Host Based Attacks CTF 1.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/3. Exploiting SMB With PsExec.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/2. Exploiting WebDAV With Metasploit.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/D. Windows File System Vulnerabilities/D. Windows File System Vulnerabilities.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/E. Windows Credential Dumping/E. Windows Credential Dumping.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/A. System and Host Based Attacks.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/3. Vulnerability Analysis/3. Vulnerability Analysis.md",
     "eJPT/Section 2 Assessment Methodologies/D. Vulnerability Assessment/2. Vulnerability Assessment/2. Vulnerability Assessment.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/B. Exploiting Windows Vulnerabilities/1. Exploiting Microsoft IIS WebDAV.md",
@@ -254,35 +285,18 @@
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/A. Windows Vulnerabilities/2. Frequently Exploited Windows Services.md",
     "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/A. Windows Vulnerabilities/1. Overview Of Windows Vulnerabilities.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/3. Windows/3. Windows.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/4. Linux.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. The Metasploit Framework (MSF).md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/B. Network-Based Attacks.md",
     "Home/Welcome ! .md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/A. MSF/1. Vulnerability Scanning With MSF.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/B. Nessus/1. Vulnerability Scanning With Nessus.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/B. Nessus/B. Nessus.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/C. Web Apps/1. Web App Vulnerability Scanning With WMAP.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/A. MSF/A. MSF.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/E. Client-Side Attacks/E. Client-Side Attacks.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/C. Web Apps/C. Web Apps.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/C. Web Apps",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/B. Nessus",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/A. MSF",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/D. Vulnerability Scanning.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/7. SMTP Enumeration.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/6. SSH Enumeration.md",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments/Pasted image 20250616213834.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments/Pasted image 20250616171042.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments/Pasted image 20250616170423.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments/Pasted image 20250616165900.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments/Pasted image 20250616005358.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/2. Enumeration/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/2. Metasploit Fundamentals/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/G. Armitage",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/F. Exploitation",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/E. Client-Side Attacks",
-    "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
