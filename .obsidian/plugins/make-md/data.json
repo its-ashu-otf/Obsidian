@@ -57,9 +57,8 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/C. Exploitation",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/C. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/C. Exploitation/A. Windows Exploitation",
     "//eJPT/eJPT/Section 5 Web Application Penetration Testing",
-    "//eJPT/eJPT/Section 5 Web Application Penetration Testing/eJPT/Section 5 Web Application Penetration Testing/A. Welcome",
-    "//eJPT/eJPT/Section 5 Web Application Penetration Testing/eJPT/Section 5 Web Application Penetration Testing/B. Web Applications",
-    "//eJPT/eJPT/Section 5 Web Application Penetration Testing/eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing"
+    "//eJPT/eJPT/Section 5 Web Application Penetration Testing/eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol",
+    "//eJPT/eJPT/Section 5 Web Application Penetration Testing/eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
