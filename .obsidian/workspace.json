@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/4. Exploiting A Vulnerable SMTP Server.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/Host & Network Penetration Testing The Metasploit Framework CTF 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Exploiting A Vulnerable SMTP Server"
+              "title": "Host & Network Penetration Testing The Metasploit Framework CTF 2"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "fd02f54aebcd3f80",
+            "id": "e0b560dd600b6b30",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/4. Exploiting A Vulnerable SMTP Server.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/Host & Network Penetration Testing The Metasploit Framework CTF 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Exploiting A Vulnerable SMTP Server"
+              "title": "Outline of Host & Network Penetration Testing The Metasploit Framework CTF 2"
             }
           },
           {
@@ -237,21 +237,35 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/3. Exploiting A Vulnerable SSH Server.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/B. Linux Exploitation/B. Linux Exploitation.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/B. Automating/B. Automating.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/D. Vulnerability Scanning/C. Web Apps/C. Web Apps.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/C. Information Gathering & Enumeration/C. Information Gathering & Enumeration.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/Host & Network Penetration Testing The Metasploit Framework CTF 2.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/attachments/Pasted image 20250623004328.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/attachments",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/Host & Network Penetration Testing The Metasploit Framework CTF 1.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/G. Armitage.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/1. Windows Post Exploitation Modules.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/D. Windows Post Exploitation.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/C. Post Exploitation Fundamentals.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/2. Upgrading Command Shells To Meterpreter Shells.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/1. Meterpreter Fundamentals.md",
+    "Home/Welcome ! .md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/attachments/Pasted image 20250622162402.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/attachments",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/F. Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/4. Exploiting A Vulnerable SMTP Server.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/3. Exploiting A Vulnerable SSH Server.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/E. Linux Post Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/2. Exploiting Samba.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation/1. Exploiting A Vulnerable FTP Server.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/1. Metasploit GUIs.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/G. Armitage.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/A. Windows Exploitation/4. Exploiting A Vulnerable Apache Tomcat Web Server.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/E. Linux Post Exploitation",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/D. Windows Post Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/C. Post Exploitation Fundamentals.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/B. Linux Exploitation/B. Linux Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/B. Linux Exploitation",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/A. Windows Exploitation/3. Exploiting WinRM (Windows Remote Management Protocol).md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/A. Windows Exploitation/2. Exploiting Windows MS17-010 SMB Vulnerability.md",
@@ -259,30 +273,16 @@
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/A. Windows Exploitation/A. Windows Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/A. Windows Exploitation",
     "eJPT/Section 3 Host & Networking Auditing/Section 3 Host & Networking Auditing.md",
-    "eJPT/Section 6 Good Bye/Section 6 Good Bye.md",
-    "eJPT/Section 6 Good Bye/Penetration Testing Student Summary.md",
     "eJPT/Section 6 Good Bye",
-    "eJPT/Section 5 Web Application Penetration Testing/Section 5 Web Application Penetration Testing.md",
-    "eJPT/Section 5 Web Application Penetration Testing/Web Application Penetration Testing CTF 1.md",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622014119.png",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622013538.png",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622013450.png",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622012601.png",
-    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/4. HTTP Basics Lab.md",
-    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/3. HTTP Responses.md",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622012242.png",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622011739.png",
     "eJPT/Section 5 Web Application Penetration Testing/attachments",
-    "eJPT/Section 5 Web Application Penetration Testing/D. Website Crawling & Spidering/1. Passive Crawling & Spidering with BurpSuite & OWASP ZAP.md",
-    "eJPT/Section 5 Web Application Penetration Testing/D. Website Crawling & Spidering/D. Website Crawling & Spidering.md",
-    "eJPT/Section 5 Web Application Penetration Testing/D. Website Crawling & Spidering",
-    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/A. HTTPS Protocol Fundamentals.md",
-    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/5. HTTPS.md",
     "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621221807.png",
     "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621215120.png",
-    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621214650.png",
-    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621214623.png",
-    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
