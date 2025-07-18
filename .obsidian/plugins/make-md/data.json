@@ -44,7 +44,6 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/2. Introduction to Attacks/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/2. Introduction to Attacks/3. Windows",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/2. Windows",
     "//Self Lab Setup, Tips & Tricks",
-    "//eJPT",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Social Engineering",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Social Engineering/eJPT/Section 4 Host & Network Penetration Testing/D. Social Engineering/1. Introduction",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/eJPT/Section 4 Host & Network Penetration Testing/A. System and Host Based Attacks/4. Linux/1. Linux Vulnerabilities",
@@ -54,13 +53,13 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/D. Vulnerability Scanning/C. Web Apps",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/C. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/C. Exploitation/A. Windows Exploitation",
-    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/1. Searching For Publicly Available Exploits",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks",
-    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks"
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks",
+    "//Home Labbing"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/1. The Metasploit Framework (MSF).md",
+                "file": "Home Labbing/SQL Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. The Metasploit Framework (MSF)"
+              "title": "SQL Lab"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "38b1d1398a167096",
+            "id": "eac8b78e1910d1b0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/1. The Metasploit Framework (MSF).md",
+                "file": "Home Labbing/SQL Lab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. The Metasploit Framework (MSF)"
+              "title": "Outline of SQL Lab"
             }
           },
           {
@@ -183,16 +183,6 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e4efd9a2c220577e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
@@ -237,6 +227,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Labbing/Home Labbing.md",
+    "eJPT/Section 3 Host & Networking Auditing/Section 3 Host & Networking Auditing.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/1. The Metasploit Framework (MSF).md",
+    "Tags",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments/Pasted image 20250710221559.png",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/Exploitation Frameworks.md",
@@ -252,7 +246,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/2. PowerShell-Empire.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/1. The Metasploit Framework (MSF).md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/F. Frameworks.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/03. Reverse Shells.md",
@@ -265,7 +258,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/attachments/Pasted image 20250709215403.png",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/2. Fixing Exploits/2. Cross-Compiling Exploits.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/2. Fixing Exploits/1. Fixing Exploits.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/2. Fixing Exploits/2. Fixing Exploits.md",
@@ -275,7 +267,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/D. Exploits.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/1. Vulnerability Scanning/3. Vulnerability Scanning With Metasploit.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/1. Vulnerability Scanning/2. Vulnerability Scanning With Nmap Scripts.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/1. Vulnerability Scanning/1. Banner Grabbing.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/B. Introduction To Exploitation/attachments/Pasted image 20250708001009.png",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/attachments/Pasted image 20250623005734.png",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
@@ -283,7 +274,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/attachments/Pasted image 20250622162402.png",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622014119.png",
     "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622013538.png",
-    "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622013450.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
