@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Labbing/SQL Lab.md",
-                "mode": "source",
-                "source": false
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/06. Targeting MySQL Database Server.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "SQL Lab"
+              "title": "06. Targeting MySQL Database Server"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "eac8b78e1910d1b0",
+            "id": "e3332d4bde68975e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Labbing/SQL Lab.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/06. Targeting MySQL Database Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL Lab"
+              "title": "Outline of 06. Targeting MySQL Database Server"
             }
           },
           {
@@ -220,16 +220,35 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/05. Targeting SMB.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/04. Targeting OpenSSH.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/03. Targeting Microsoft IIS FTP.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/01. Windows Black Box Penetration Test.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/02. Port Scanning & Enumeration.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/06. Targeting MySQL Database Server.md",
+    "Home/Welcome ! .md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments/Pasted image 20250722115357.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments/Pasted image 20250722020322.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments/Pasted image 20250722020310.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments/Pasted image 20250722020244.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments/Pasted image 20250722010544.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments/Pasted image 20250722010438.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/Windows Exploitation.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/2. PowerShell-Empire.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments/Pasted image 20250720212810.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments/Pasted image 20250720212743.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/1. The Metasploit Framework (MSF).md",
+    "Home Labbing/SQL Lab.md",
     "Home Labbing/Home Labbing.md",
     "eJPT/Section 3 Host & Networking Auditing/Section 3 Host & Networking Auditing.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/1. The Metasploit Framework (MSF).md",
     "Tags",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments/Pasted image 20250710221559.png",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments",
@@ -241,11 +260,8 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/I. Linux.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/Windows Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/2. PowerShell-Empire.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/F. Frameworks.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/03. Reverse Shells.md",
@@ -253,27 +269,10 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/04. Reverse Shell Cheatsheet.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/attachments/Pasted image 20250710202708.png",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/02. Bind Shells.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/attachments/Pasted image 20250710202507.png",
-    "Home/Welcome ! .md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/attachments/Pasted image 20250709215403.png",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells/attachments",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/2. Fixing Exploits/2. Cross-Compiling Exploits.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/2. Fixing Exploits/1. Fixing Exploits.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/2. Fixing Exploits/2. Fixing Exploits.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/1. Searching For Exploits/1. Searching For Publicly Available Exploits.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/1. Searching For Exploits/2. Searching For Exploits With SearchSploit.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/1. Searching For Exploits/1. Searching For Exploits.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/D. Exploits.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/1. Vulnerability Scanning/3. Vulnerability Scanning With Metasploit.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/1. Vulnerability Scanning/2. Vulnerability Scanning With Nmap Scripts.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/B. Introduction To Exploitation/attachments/Pasted image 20250708001009.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/attachments/Pasted image 20250623005734.png",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/attachments/Pasted image 20250623004328.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/C. Post Exploitation Fundamentals/attachments/Pasted image 20250622162402.png",
-    "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622014119.png",
-    "eJPT/Section 5 Web Application Penetration Testing/attachments/Pasted image 20250622013538.png",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"
   ]
