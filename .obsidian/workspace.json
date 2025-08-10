@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows"
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/03. Enumerating Network Information.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "G. Windows"
+              "title": "03. Enumerating Network Information"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "b7c0ef7e29251583",
+            "id": "e9e18e0448946e45",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -225,21 +227,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/02. Enumerating Users & Groups.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/04. Enumerating Processes & Services.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/03. Enumerating Network Information.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/01. Enumerating System Information.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
+    "Home/Welcome ! .md",
     "HackTheBox/CTF/Optimum.md",
     "HackTheBox/CTF/attachments/Pasted image 20250810171532.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/C. The Metasploit Framework (MSF).md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/B. Metasploit/2. Metasploit Fundamentals/2. Metasploit Fundamentals.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/D. Windows Post Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/1. Windows Post Exploitation Modules.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/01. Enumerating System Information.md",
     "HackTheBox/CTF/attachments/Pasted image 20250810162936.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/02. Enumerating Users & Groups.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/attachments/Pasted image 20250810161951.png",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/03. Post-Exploitation Methodology.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/02. Introduction To Post-Exploitation.md",
-    "Home/Welcome ! .md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/B. Windows Local Enumeration.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/A. Introduction.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/01. Introduction to Course.md",
@@ -264,7 +268,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/05. Targeting SMB.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/I. Linux.md",
-    "HackTheBox/CTF/Devvortex.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments",
     "Tags",
