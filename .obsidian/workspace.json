@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/02. Enumerating Users & Groups.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/03. Post-Exploitation Methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Enumerating Users & Groups"
+              "title": "03. Post-Exploitation Methodology"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "5556dd7a52fc221d",
+            "id": "b7c0ef7e29251583",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,12 +227,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/01. Enumerating System Information.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/02. Introduction To Post-Exploitation.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/03. Post-Exploitation Methodology.md",
+    "Home/Welcome ! .md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/02. Enumerating Users & Groups.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/01. Enumerating System Information.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/B. Windows Local Enumeration.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/A. Introduction.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/01. Introduction to Course.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/02. Introduction To Post-Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215237.png",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215229.png",
@@ -247,7 +249,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/E. Post-Exploitation.md",
-    "Home/Welcome ! .md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation/2. Obfuscating PowerShell Code.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation/1. AV Evasion with Shellter.md",
     "Untitled.md",
@@ -266,7 +267,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/01. Windows Black Box Penetration Test.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/Windows Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation/Linux Exploitation.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments",
     "Tags",
