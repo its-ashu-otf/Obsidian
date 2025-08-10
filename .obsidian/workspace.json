@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/03. Post-Exploitation Methodology.md",
-                "mode": "source",
-                "source": false
+                "path": "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows"
               },
               "icon": "lucide-file",
-              "title": "03. Post-Exploitation Methodology"
+              "title": "G. Windows"
             }
           }
         ]
@@ -227,11 +225,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/02. Introduction To Post-Exploitation.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/03. Post-Exploitation Methodology.md",
-    "Home/Welcome ! .md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/02. Enumerating Users & Groups.md",
+    "HackTheBox/CTF/Optimum.md",
+    "HackTheBox/CTF/attachments/Pasted image 20250810171532.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/C. The Metasploit Framework (MSF).md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/B. Metasploit/2. Metasploit Fundamentals/2. Metasploit Fundamentals.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/D. Windows Post Exploitation.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/1. Windows Post Exploitation Modules.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/01. Enumerating System Information.md",
+    "HackTheBox/CTF/attachments/Pasted image 20250810162936.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/02. Enumerating Users & Groups.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/attachments/Pasted image 20250810161951.png",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/attachments",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/03. Post-Exploitation Methodology.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/02. Introduction To Post-Exploitation.md",
+    "Home/Welcome ! .md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/B. Windows Local Enumeration.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/A. Introduction.md",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/01. Introduction to Course.md",
@@ -243,9 +251,6 @@
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215208.png",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215158.png",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215148.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215134.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215034.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808214913.png",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction",
     "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/E. Post-Exploitation.md",
@@ -260,19 +265,11 @@
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/I. Linux.md",
     "HackTheBox/CTF/Devvortex.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation/02. Port Scanning & Enumeration.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation/03. Targeting vsFTPd.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation/01. Linux Black Box Penetration Test.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/02. Port Scanning & Enumeration.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/01. Windows Black Box Penetration Test.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/Windows Exploitation.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments",
     "Tags",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments",
     "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"
