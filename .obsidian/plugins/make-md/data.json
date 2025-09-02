@@ -55,14 +55,15 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/C. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/E. Client-Side Attacks/C. Exploitation/A. Windows Exploitation",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/D. Exploits/1. Searching For Publicly Available Exploits",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/E. Shells/Bind & Reverse Shells",
-    "//eJPT",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing",
     "//HackTheBox",
     "//HackTheBox/HackTheBox/CTF",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/1. Introduction",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation",
-    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation"
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation",
+    "//HackTheBox/HackTheBox/Machines",
+    "//Home Labbing"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

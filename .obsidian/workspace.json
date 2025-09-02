@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/03. Enumerating Network Information.md",
+                "file": "HackTheBox/Machines/RetroTwo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Enumerating Network Information"
+              "title": "RetroTwo"
             }
           }
         ]
@@ -40,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -75,7 +74,7 @@
             }
           },
           {
-            "id": "e9e18e0448946e45",
+            "id": "0696f1490a037efc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -86,22 +85,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "147a67e9fe00274c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8d92d99b19fdf592",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +167,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -212,6 +195,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,58 +206,57 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/02. Enumerating Users & Groups.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/04. Enumerating Processes & Services.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/03. Enumerating Network Information.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/01. Enumerating System Information.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/G. Windows.md",
+    "HackTheBox/Machines/attachments/Pasted image 20250903005232.png",
+    "Home Labbing/Kali KVM.md",
+    "Home Labbing/Home Labbing.md",
     "Home/Welcome ! .md",
-    "HackTheBox/CTF/Optimum.md",
-    "HackTheBox/CTF/attachments/Pasted image 20250810171532.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/C. The Metasploit Framework (MSF).md",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/B. Metasploit/2. Metasploit Fundamentals/2. Metasploit Fundamentals.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/D. Windows Post Exploitation.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation/1. Windows Post Exploitation Modules.md",
-    "HackTheBox/CTF/attachments/Pasted image 20250810162936.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/attachments/Pasted image 20250810161951.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/attachments",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/03. Post-Exploitation Methodology.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/02. Introduction To Post-Exploitation.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/B. Windows Local Enumeration.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/A. Introduction.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/01. Introduction to Course.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215237.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215229.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215223.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215216.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215208.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215158.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments/Pasted image 20250808215148.png",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction/attachments",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/A. Introduction",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/E. Post-Exploitation.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation/2. Obfuscating PowerShell Code.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation/1. AV Evasion with Shellter.md",
-    "Untitled.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation/05. Targeting SAMBA.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation/04. Targeting PHP.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/03. Targeting Microsoft IIS FTP.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/04. Targeting OpenSSH.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/05. Targeting SMB.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation/attachments",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/I. Linux.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/I. Linux/Linux Exploitation",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/G. Windows/Windows Exploitation/attachments",
+    "HackTheBox/Machines/RetroTwo.md",
+    "HackTheBox/Machines/Sau.md",
+    "HackTheBox/Machines/Blue.md",
+    "HackTheBox/Machines/Lock.md",
+    "HackTheBox/Machines/attachments/Pasted image 20250902221154.png",
+    "HackTheBox/Machines/attachments/Pasted image 20250902220450.png",
+    "HackTheBox/Machines/Optimum.md",
     "Tags",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/F. Frameworks/Exploitation Frameworks/attachments",
-    "eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/J. Obfuscation",
+    "eJPT/Section 6 Good Bye/Section 6 Good Bye.md",
+    "eJPT/Section 6 Good Bye/Penetration Testing Student Summary.md",
+    "eJPT/Section 6 Good Bye",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621221807.png",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621215120.png",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621214650.png",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621214623.png",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621204950.png",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621200249.png",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621200210.png",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments/Pasted image 20250621200123.png",
+    "eJPT/Section 5 Web Application Penetration Testing/A. Welcome/1. Introduction/Course Introduction.md",
+    "eJPT/Section 5 Web Application Penetration Testing/A. Welcome/1. Introduction/1. Introduction.md",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/attachments",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/A. HTTPS Protocol Fundamentals.md",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/5. HTTPS.md",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/4. HTTP Basics Lab.md",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/3. HTTP Responses.md",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/2. HTTP Requests.md",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/1. Introduction To HTTP.md",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/A. Introduction to Web App Security Testing.md",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/3. Common Web Application Threats & Risks.md",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/2. Web Application Security Testing.md",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/1. Introduction To Web Application Security.md",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components/attachments",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components/B. Web Application Architecture & Components.md",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components/2. Web Application Technologies.md",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components/1. Web Application Architecture.md",
+    "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals",
+    "eJPT/Section 5 Web Application Penetration Testing/A. Welcome/1. Introduction",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components",
+    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing",
+    "eJPT/Section 5 Web Application Penetration Testing/attachments",
+    "eJPT/Section 5 Web Application Penetration Testing/D. Website Crawling & Spidering",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"
