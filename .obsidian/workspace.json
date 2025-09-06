@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/05. Automating Windows Local Enumeration.md",
+                "file": "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration/04. Enumerating Processes & Cron Jobs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Automating Windows Local Enumeration"
+              "title": "04. Enumerating Processes & Cron Jobs"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +75,7 @@
             }
           },
           {
-            "id": "9b70e4a4cacd3343",
+            "id": "316ebde05cd92c84",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -196,7 +197,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,16 +206,24 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/04. Enumerating Processes & Services.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/05. Automating Windows Local Enumeration.md",
-    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/03. Enumerating Network Information.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration/03. Enumerating Network Information.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration/04. Enumerating Processes & Cron Jobs.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration/02. Enumerating Users & Groups.md",
     "Home/Welcome ! .md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration/01. Enumerating System Information.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration/C. Linux Local Enumeration.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/05. Automating Windows Local Enumeration.md",
+    "Tags/#o",
     "Tags",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/04. Enumerating Processes & Services.md",
+    "eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration/03. Enumerating Network Information.md",
     "HackTheBox/Machines/RetroTwo.md",
     "HackTheBox/Machines/attachments/Pasted image 20250903005232.png",
     "Home Labbing/Kali KVM.md",
@@ -245,18 +253,11 @@
     "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/3. HTTP Responses.md",
     "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/2. HTTP Requests.md",
     "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals/1. Introduction To HTTP.md",
-    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/A. Introduction to Web App Security Testing.md",
-    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/3. Common Web Application Threats & Risks.md",
-    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/2. Web Application Security Testing.md",
-    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing/1. Introduction To Web Application Security.md",
     "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components/attachments",
-    "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components/B. Web Application Architecture & Components.md",
     "eJPT/Section 5 Web Application Penetration Testing/C. HTTP Protocol/A. HTTPS Protocol Fundamentals",
     "eJPT/Section 5 Web Application Penetration Testing/A. Welcome/1. Introduction",
     "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/B. Web Application Architecture & Components",
     "eJPT/Section 5 Web Application Penetration Testing/B. Web Applications/A. Introduction to Web App Security Testing",
-    "eJPT/Section 5 Web Application Penetration Testing/attachments",
-    "eJPT/Section 5 Web Application Penetration Testing/D. Website Crawling & Spidering",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
     "Untitled.canvas"

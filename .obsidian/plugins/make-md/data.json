@@ -58,11 +58,11 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing",
     "//HackTheBox/HackTheBox/CTF",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/1. Introduction",
-    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/F. Exploitation/D. Windows Post Exploitation",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation",
     "//HackTheBox/HackTheBox/Machines",
-    "//eJPT"
+    "//eJPT",
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -109,5 +109,6 @@
   "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
-  "overrideNativeMenu": false
+  "overrideNativeMenu": false,
+  "onboardingCompleted": false
 }
