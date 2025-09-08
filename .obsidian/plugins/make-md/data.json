@@ -62,7 +62,11 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation",
     "//HackTheBox/HackTheBox/Machines",
     "//eJPT",
-    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/F. Windows Privilege Escalation "
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/H. Windows Persistence",
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/I. Linux Persistence",
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/J. Dumping & Cracking Hashes",
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/K. Pivoting",
+    "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/L. Clearing Your Tracks"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
