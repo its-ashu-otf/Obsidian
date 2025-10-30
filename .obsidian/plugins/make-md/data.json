@@ -65,7 +65,6 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/J. Dumping & Cracking Hashes",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/K. Pivoting",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/L. Clearing Your Tracks",
-    "//eJPT/eJPT/Exam Lab",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/F. Windows Privilege Escalation ",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/B. Windows Local Enumeration",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation",
@@ -73,7 +72,8 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/eJPT/Section 4 Host & Network Penetration Testing/E. Post-Exploitation/C. Linux Local Enumeration",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/1. Vulnerability Scanning",
-    "//HackTheBox"
+    "//Introduction to AWS Pentesting",
+    "//Introduction to AWS Pentesting/Introduction to AWS Pentesting/Chapter 4 Your Bucket is Leaking (Attacking S3 Buckets)"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
