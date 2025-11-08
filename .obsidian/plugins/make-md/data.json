@@ -77,7 +77,7 @@
     "//Silver C2: Pentesting and Evasion",
     "//Silver C2: Pentesting and Evasion/Silver C2: Pentesting and Evasion/Chapter 1 Welcome to the Course",
     "//Introduction to AWS Pentesting",
-    "//Introduction to AWS Pentesting/Introduction to AWS Pentesting/Chapter 6 My Other Computer is Your EC2 (Attacking EC2 Instances)"
+    "//Introduction to AWS Pentesting/Introduction to AWS Pentesting/Chapter 7 AWS Privilege Escalation"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
