@@ -18,13 +18,12 @@ Focused on:
 ## 🧠 Quote of the Day
 
 >[!quote] Quote of the Day
-	> He who is fixed to a star does not change his mind.
-> &mdash; <cite>Leonardo da Vinci</cite>✍️
+	> “Success usually comes to those who are too busy to be looking for it.”
+> &mdash; <cite>Henry David Thoreau</cite>✍️
 
 ## 🧪 Current Focus Areas
 
-- ✅ API & Web Pentesting Lab
-- 🧠 CEHv13 & eJPT note organization
+- ✅ API, Web & Cloud Pentesting
 - ⚙️ Working on HTB machines & methodologies
 - 🛡️ Enhancing detection evasion & enumeration skills
 
@@ -39,9 +38,14 @@ Focused on:
 📁 eJPT
 📁 Hacking Methodology
 📁 HackTheBox
+📁 Home
+📁 Home Labbing
+📁 Introduction to AWS Pentesting
+📁 Linux Hacking
+📁 Silver C2 (Pentesting & Evasion)
 📁 Tags
 📁 Web Penetration Testing
-📄 Welcome !
+
 
 
 ---
