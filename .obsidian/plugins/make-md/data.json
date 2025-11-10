@@ -73,11 +73,11 @@
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview",
     "//eJPT/eJPT/Section 4 Host & Network Penetration Testing/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/eJPT/Section 4 Host & Network Penetration Testing/D. Exploitation/C. Vulnerability Scanning Overview/1. Vulnerability Scanning",
     "//Linux Hacking/Linux Hacking/BankSmarter",
-    "//Linux Hacking/Linux Hacking/Machine 1 BankSmarter",
     "//Silver C2: Pentesting and Evasion",
     "//Silver C2: Pentesting and Evasion/Silver C2: Pentesting and Evasion/Chapter 1 Welcome to the Course",
     "//Introduction to AWS Pentesting",
-    "//Introduction to AWS Pentesting/Introduction to AWS Pentesting/Chapter 7 AWS Privilege Escalation"
+    "//Introduction to AWS Pentesting/Introduction to AWS Pentesting/Chapter 8 Capstone Challenge ",
+    "//Introduction to AWS Pentesting/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
