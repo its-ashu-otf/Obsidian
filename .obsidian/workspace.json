@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Hacking/Machine 3 Talisman (Medium)/3.2 Enumeration and Recon.md",
-                "mode": "source",
+                "file": "Home/Welcome ! .md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Enumeration and Recon"
+              "title": "Welcome !"
             }
           }
         ]
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "268645d20b38a6c4",
+            "id": "e09816ee1081dd61",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -254,16 +254,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home/Welcome ! .md",
+    "Linux Hacking/Machine 3 Talisman (Medium)/3.2 Enumeration and Recon.md",
+    "Linux Hacking/Machine 3 Talisman (Medium)/3.1 Scenario.md",
+    "Linux Hacking/Machine 3 Talisman (Medium)/3.3 Post-Exploitation.md",
     "Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223133.png",
     "Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223040.png",
     "Linux Hacking/Machine 3 Talisman (Medium)/attachments",
-    "Linux Hacking/Machine 3 Talisman (Medium)/3.1 Scenario.md",
-    "Linux Hacking/Machine 3 Talisman (Medium)/3.2 Enumeration and Recon.md",
     "Linux Hacking/Machine 3 Talisman (Medium)/Machine 3 Talisman (Medium).md",
     "Linux Hacking/Machine 3 Talisman (Medium)",
     "Linux Hacking/Linux Hacking.md",
     "Introduction to AWS Pentesting/Introduction to AWS Pentesting.md",
-    "Home/Welcome ! .md",
     "Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/9.3 [Walkthrough] SNS Secrets.md",
     "Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/attachments/Pasted image 20251112213933.png",
     "Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/attachments/Pasted image 20251112213912.png",
@@ -299,7 +300,6 @@
     "Introduction to AWS Pentesting/Chapter 7 AWS Privilege Escalation/attachments/Pasted image 20251108223610.png",
     "Introduction to AWS Pentesting/Chapter 7 AWS Privilege Escalation/attachments",
     "Introduction to AWS Pentesting/Chapter 7 AWS Privilege Escalation",
-    "Introduction to AWS Pentesting/Chapter 6 My Other Computer is Your EC2 (Attacking EC2 Instances)/attachments/Pasted image 20251103205109.png",
     "Introduction to AWS Pentesting/Chapter 5 Dysfunctional Functions (Attacking Lambda Functions)/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
