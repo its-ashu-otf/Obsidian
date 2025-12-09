@@ -76,8 +76,10 @@
     "//Silver C2: Pentesting and Evasion",
     "//Silver C2: Pentesting and Evasion/Silver C2: Pentesting and Evasion/Chapter 1 Welcome to the Course",
     "//Introduction to AWS Pentesting/Introduction to AWS Pentesting/Chapter 8 Capstone Challenge ",
-    "//Linux Hacking",
-    "//Linux Hacking/Linux Hacking/Machine 3 Talisman (Medium)"
+    "//Linux Hacking/Linux Hacking/Machine 3 Talisman (Medium)",
+    "//Kairos Sec",
+    "//Kairos Sec/Kairos Sec/Hands-On Phishing",
+    "//Kairos Sec/Kairos Sec/Hands-On Phishing/Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
