@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.1 Analysis of Bad Phishing Emails (Avoid This!).md",
+                "file": "Kairos Sec/Hands-On Labs/1. Anomaly/Walkthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Analysis of Bad Phishing Emails (Avoid This!)"
+              "title": "Walkthrough"
             }
           }
         ]
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "af0215093090c618",
+            "id": "6ce33a4e85e9e9fe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 393,
+    "collapsed": true
   },
   "right": {
     "id": "0a74256c0c572c74",
@@ -254,7 +255,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Kairos Sec/Hands-On Labs/1. Anomaly/Objective and Scope.md",
+    "Kairos Sec/Hands-On Labs/1. Anomaly/Walkthrough.md",
+    "Kairos Sec/Hands-On Labs/1. Anomaly/1. Anomaly.md",
+    "Kairos Sec/Hands-On Labs/1. Anomaly",
+    "Kairos Sec/Hands-On Labs/Hands-On Labs.md",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.7 Strategies for Selecting a Domain.md",
+    "Kairos Sec/Hands-On Labs",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments/Pasted image 20251212214706.png",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments/Pasted image 20251212214629.png",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments/Pasted image 20251212214540.png",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments/Pasted image 20251212214455.png",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.6 [Challenge Lab] Identify The Secret User.md",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.5 [Walkthrough] Identifying a Login Page to Clone.md",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.4 [Walkthrough] Identifying a Login Page to Clone.md",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.3 [Walkthrough] Compile a List of Users and Emails.md",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.2 Performing Basic OSINT on the Target.md",
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.1 Analysis of Bad Phishing Emails (Avoid This!).md",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments/Pasted image 20251212203321.png",
+    "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments",
+    "Home/Welcome ! .md",
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.0 Preparing for a Successful Phishing Trip.md",
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip",
     "Kairos Sec/Hands-On Phishing/2.0 Configuring The Lab Enviroment/2.0 Configuring The Lab Enviroment.md",
@@ -274,32 +294,13 @@
     "Kairos Sec/Kairos Sec.md",
     "Kairos Sec",
     "Kairos Sec/Hands-On Phishing",
-    "Home/Welcome ! .md",
-    "Home Labbing/Wazuh Lab Setup.md",
-    "Untitled.md",
-    "Linux Hacking/Linux Hacking.md",
-    "Home Labbing/.md",
-    "Linux Hacking/Machine 3 Talisman (Medium)/3.2 Enumeration and Recon.md",
-    "Linux Hacking/Machine 3 Talisman (Medium)/3.1 Scenario.md",
-    "Linux Hacking/Machine 3 Talisman (Medium)/3.3 Post-Exploitation.md",
-    "Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223133.png",
-    "Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223040.png",
-    "Linux Hacking/Machine 3 Talisman (Medium)/attachments",
-    "Linux Hacking/Machine 3 Talisman (Medium)/Machine 3 Talisman (Medium).md",
-    "Linux Hacking/Machine 3 Talisman (Medium)",
-    "Kairos Sec/Introduction to AWS Pentesting/Introduction to AWS Pentesting.md",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/9.3 [Walkthrough] SNS Secrets.md",
+    "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223133.png",
+    "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223040.png",
+    "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)/attachments",
+    "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)",
     "Kairos Sec/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/attachments/Pasted image 20251112213933.png",
     "Kairos Sec/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/attachments/Pasted image 20251112213912.png",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/attachments",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets",
     "Kairos Sec/Introduction to AWS Pentesting/Chapter 8 Capstone Challenge Beanstalk Secrets/attachments/Pasted image 20251110201455.png",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 8 Capstone Challenge Beanstalk Secrets/attachments",
-    "Linux Hacking/Machine 2 Ascension/attachments/Pasted image 20251110001520.png",
-    "Linux Hacking/Machine 2 Ascension/attachments/Pasted image 20251109230846.png",
-    "Linux Hacking/Machine 2 Ascension/attachments/Pasted image 20251109225549.png",
-    "Linux Hacking/Machine 2 Ascension/attachments/Pasted image 20251109225547.png",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 7 AWS Privilege Escalation/attachments/Pasted image 20251108223610.png",
     "Introduction to AWS Pentesting/Chapter 5 Dysfunctional Functions (Attacking Lambda Functions)/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
