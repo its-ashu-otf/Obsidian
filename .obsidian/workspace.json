@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kairos Sec/Hands-On Labs/1. Anomaly/Walkthrough.md",
+                "file": "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/3.3 Installing Sliver on your Kali VM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Walkthrough"
+              "title": "3.3 Installing Sliver on your Kali VM"
             }
           }
         ]
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "6ce33a4e85e9e9fe",
+            "id": "ee702829a2254569",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393,
-    "collapsed": true
+    "width": 393
   },
   "right": {
     "id": "0a74256c0c572c74",
@@ -255,8 +254,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Kairos Sec/Hands-On Labs/1. Anomaly/Objective and Scope.md",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/3.4 Exploring the CLI and console interface.md",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/3.3 Installing Sliver on your Kali VM.md",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/3.2 Supported protocols (HTTP, HTTPS, mTLS, DNS, WireGuard).md",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/attachments/Pasted image 20251213222938.png",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/3.1 Servers, Implants, and Beacons.md",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/attachments/Pasted image 20251213220942.png",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/attachments/Pasted image 20251213220845.png",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/attachments/Pasted image 20251213220530.png",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/attachments",
+    "Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture/Chapter 3 Sliver Architecture.md",
+    "Home/Welcome ! .md",
     "Kairos Sec/Hands-On Labs/1. Anomaly/Walkthrough.md",
+    "Kairos Sec/Hands-On Labs/1. Anomaly/Objective and Scope.md",
     "Kairos Sec/Hands-On Labs/1. Anomaly/1. Anomaly.md",
     "Kairos Sec/Hands-On Labs/1. Anomaly",
     "Kairos Sec/Hands-On Labs/Hands-On Labs.md",
@@ -274,7 +284,6 @@
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.1 Analysis of Bad Phishing Emails (Avoid This!).md",
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments/Pasted image 20251212203321.png",
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/attachments",
-    "Home/Welcome ! .md",
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip/3.0 Preparing for a Successful Phishing Trip.md",
     "Kairos Sec/Hands-On Phishing/3.0 Preparing for a Successful Phishing Trip",
     "Kairos Sec/Hands-On Phishing/2.0 Configuring The Lab Enviroment/2.0 Configuring The Lab Enviroment.md",
@@ -286,21 +295,11 @@
     "Kairos Sec/Hands-On Phishing/1.0 Welcome to the Course/1.3 Prerequisites for the Course.md",
     "Kairos Sec/Hands-On Phishing/2.0 Configuring The Lab Enviroment",
     "Kairos Sec/Hands-On Phishing/1.0 Welcome to the Course/Untitled.md",
-    "Kairos Sec/Hands-On Phishing/1.0 Welcome to the Course/1.2 About Your Instructor.md",
-    "Kairos Sec/Hands-On Phishing/1.0 Welcome to the Course/ 1.1 Welcome & Course Overview.md",
-    "Kairos Sec/Hands-On Phishing/1.0 Welcome to the Course/1.0 Welcome to the Course.md",
     "Kairos Sec/Hands-On Phishing/1.0 Welcome to the Course",
-    "Kairos Sec/Hands-On Phishing/Hands-On Phishing.md",
-    "Kairos Sec/Kairos Sec.md",
     "Kairos Sec",
     "Kairos Sec/Hands-On Phishing",
     "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223133.png",
-    "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)/attachments/Pasted image 20251112223040.png",
     "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)/attachments",
-    "Kairos Sec/Linux Hacking/Machine 3 Talisman (Medium)",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/attachments/Pasted image 20251112213933.png",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 9 Capstone Challenge SNS Secrets/attachments/Pasted image 20251112213912.png",
-    "Kairos Sec/Introduction to AWS Pentesting/Chapter 8 Capstone Challenge Beanstalk Secrets/attachments/Pasted image 20251110201455.png",
     "Introduction to AWS Pentesting/Chapter 5 Dysfunctional Functions (Attacking Lambda Functions)/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
