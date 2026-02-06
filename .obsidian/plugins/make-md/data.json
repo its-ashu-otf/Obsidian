@@ -82,11 +82,12 @@
     "//Kairos Sec/Kairos Sec/Silver C2 (Pentesting and Evasion)/Kairos Sec/Silver C2 (Pentesting and Evasion)/Chapter 3 Silver Architecture",
     "//Kairos Sec/Kairos Sec/Silver C2 (Pentesting and Evasion)/Kairos Sec/Silver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture",
     "//Kairos Sec/Kairos Sec/Sliver C2 (Pentesting and Evasion)/Kairos Sec/Sliver C2 (Pentesting and Evasion)/Chapter 3 Sliver Architecture",
-    "//Kairos Sec/Kairos Sec/Hands-On Labs",
     "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/CORS Misconfigurations (Easy) ",
     "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/2. SQL Basics",
     "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/1. Anomaly",
-    "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/03. CORS Misconfigurations (Easy) "
+    "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/03. CORS Misconfigurations (Easy) ",
+    "//Kairos Sec/Kairos Sec/Hands-On Phishing",
+    "//Kairos Sec/Kairos Sec/Hands-On Phishing/Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
