@@ -86,8 +86,9 @@
     "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/2. SQL Basics",
     "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/1. Anomaly",
     "//Kairos Sec/Kairos Sec/Hands-On Labs/Kairos Sec/Hands-On Labs/03. CORS Misconfigurations (Easy) ",
-    "//Kairos Sec/Kairos Sec/Hands-On Phishing",
-    "//Kairos Sec/Kairos Sec/Hands-On Phishing/Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx"
+    "//Kairos Sec/Kairos Sec/Hands-On Phishing/Kairos Sec/Hands-On Phishing/7.0 Bypassing Common Defenses",
+    "//Kairos Sec/Kairos Sec/Foundations of Web App Pentesting",
+    "//Kairos Sec/Kairos Sec/Foundations of Web App Pentesting/Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
