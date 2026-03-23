@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/3.2 Pentesting vs Bug Bounty.md",
+                "file": "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.7 Exploring Extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Pentesting vs Bug Bounty"
+              "title": "4.7 Exploring Extensions"
             }
           }
         ]
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "0f11577f5d561664",
+            "id": "08f596e555d80c04",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -238,6 +238,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -247,13 +249,26 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.6 Fuzzing with Intruder.md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.7 Exploring Extensions.md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.5 Setting a Target (Scope + Site Map).md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.4 Intercepting Requests and Using Repeater.md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.3 Overview of Burp's UI.md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.2 Installing Burp's Certificate.md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.0 Intro to Burp Suite.md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite/4.1 Burp Suite Overview.md",
+    "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/3.4 Brief Overview of Legal Docs.md",
+    "Kairos Sec/Foundations of Web App Pentesting/4.0 Intro to Burp Suite",
+    "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/attachments/Pasted image 20260323130547.png",
+    "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/attachments/Pasted image 20260323130529.png",
+    "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/attachments/Pasted image 20260323130506.png",
+    "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/3.3 Pentesting v. Red Teaming.md",
+    "Home/Welcome ! .md",
     "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/3.2 Pentesting vs Bug Bounty.md",
     "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/3.0 Intro to Web App Pentesting.md",
     "Kairos Sec/Foundations of Web App Pentesting/3.0 Intro to Web App Pentesting/3.1 How A Pentest Works.md",
@@ -268,12 +283,9 @@
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/attachments/Pasted image 20260219214932.png",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/attachments/Pasted image 20260219214819.png",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/2.5 HTTP Responses.md",
-    "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/attachments/Pasted image 20260219214304.png",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/2.4 Anatomy of an HTTP Request.md",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/2.3 Demo Request-Response Cycle.md",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/2.2 Client-Server Model.md",
-    "Home/Welcome ! .md",
-    "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/attachments/Pasted image 20260218232606.png",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/attachments",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/2.0 Web App Basics.md",
     "Kairos Sec/Foundations of Web App Pentesting/2.0 Web App Basics/2.1 Section Introduction.md",
@@ -283,23 +295,11 @@
     "Kairos Sec/Foundations of Web App Pentesting/1.0 Welcome to the Course/1.3 Prerequisites for the Course.md",
     "Kairos Sec/Foundations of Web App Pentesting/1.0 Welcome to the Course/1.2 About Your Instructor.md",
     "Kairos Sec/Foundations of Web App Pentesting/1.0 Welcome to the Course/1.1 Welcome & Expectations.md",
-    "Kairos Sec/Foundations of Web App Pentesting/1.0 Welcome to the Course/1.0 Welcome to the Course.md",
     "Kairos Sec/Foundations of Web App Pentesting/1.0 Welcome to the Course",
-    "Kairos Sec/Foundations of Web App Pentesting/Foundations of Web App Pentesting.md",
-    "Kairos Sec/Hands-On Phishing/7.0 Bypassing Common Defenses/7.1 Difference Between a Penetration Test and Red Team Engagement.md",
     "Kairos Sec/Foundations of Web App Pentesting",
-    "Kairos Sec/Hands-On Phishing/7.0 Bypassing Common Defenses/7.0 Bypassing Common Defenses.md",
-    "Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx/6.10 Wordpress MITM Relay  MFA Bypass (Student Project).md",
     "Kairos Sec/Hands-On Phishing/7.0 Bypassing Common Defenses",
-    "Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx/6.9 Cancel your Google Workspace Account.md",
-    "Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx/6.8 Destroy Your Digital Ocean Droplet.md",
-    "Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx/6.7 [Walkthrough] Re-Using Stolen Session Cookies.md",
-    "Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx/6.6 [Walkthrough] Create a Custom Phishlet for Self-Hosted Wordpress.md",
-    "Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx/6.5 Configuring Your First Phishlet.md",
     "Kairos Sec/Hands-On Phishing/6.0 Phishing with Evilginx",
     "Kairos Sec/Hands-On Phishing/5.0 Launching a Phishing Campaign with GoPhish",
-    "Kairos Sec/Hands-On Phishing/4.0 GoPhish Setup and Initial Configuration",
-    "Kairos Sec/Hands-On Labs/02. SQL Basics/attachments/Pasted image 20260127002912.png",
     "Introduction to AWS Pentesting/Chapter 5 Dysfunctional Functions (Attacking Lambda Functions)/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/C. The Metasploit Framework (MSF)/G. Armitage/1. Metasploit GUIs/Untitled.canvas",
     "eJPT/Section 4 Host & Network Penetration Testing/B. Network-Based Attacks/D. The Metasploit Framework (MSF)/B. Metasploit/Untitled.canvas",
